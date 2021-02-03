@@ -4,7 +4,7 @@ services:
   db:
    image: mariadb:10.5
    volumes:
-     - dbdata:/var/lib/mysql
+     - ./dbdata:/var/lib/mysql
    restart: always
    environment:
      MYSQL_ROOT_PASSWORD: ${DATABASE_ROOT_PASSWORD}
@@ -17,8 +17,7 @@ services:
      - db
    image: wordpress:latest
    volumes:
-     - ./public/wp-content/plugins:/var/www/html/wp-content/plugins:cached
-     - ./public/wp-content/themes:/var/www/html/wp-content/themes:cached
+     - ./public:/var/www/html:cached
    ports:
      - "8000:80"
    restart: always
