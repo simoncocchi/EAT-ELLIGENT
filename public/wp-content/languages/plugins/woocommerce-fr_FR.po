@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-02 01:09:59+0000\n"
+"PO-Revision-Date: 2021-02-04 02:56:24+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4617,17 +4617,6 @@ msgstr "Limiter le jeu de résultats aux articles ne possédant pas le statut de
 msgid "Limit result set to items that have the specified order status."
 msgstr "Limiter le jeu de résultats aux articles possédant le statut de commande spécifié."
 
-#: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:374
-#: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:381
-#: packages/woocommerce-admin/src/API/Reports/Taxes/Stats/Controller.php:358
-#: packages/woocommerce-admin/src/API/Reports/Downloads/Stats/Controller.php:275
-#: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:320
-#: packages/woocommerce-admin/src/API/Reports/Categories/Controller.php:269
-#: packages/woocommerce-admin/src/API/Reports/Revenue/Stats/Controller.php:412
-#: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:367
-msgid "Time interval to use for buckets in the returned data."
-msgstr "Intervalle de temps à appliquer aux compartiments dans les données retournées."
-
 #: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:260
 #: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:303
 #: packages/woocommerce-admin/src/API/Reports/Taxes/Stats/Controller.php:279
@@ -4647,6 +4636,17 @@ msgstr "Date de fin du rapport, format GMT."
 #: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:257
 msgid "The date the report end, in the site's timezone."
 msgstr "Date de fin du rapport, fuseau horaire du site."
+
+#: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:374
+#: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:381
+#: packages/woocommerce-admin/src/API/Reports/Taxes/Stats/Controller.php:358
+#: packages/woocommerce-admin/src/API/Reports/Downloads/Stats/Controller.php:275
+#: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:320
+#: packages/woocommerce-admin/src/API/Reports/Categories/Controller.php:269
+#: packages/woocommerce-admin/src/API/Reports/Revenue/Stats/Controller.php:412
+#: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:367
+msgid "Time interval to use for buckets in the returned data."
+msgstr "Intervalle de temps à appliquer aux compartiments dans les données retournées."
 
 #: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:248
 #: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:291
@@ -4729,6 +4729,10 @@ msgstr "Montant de la réduction par code promo."
 msgid "Net Sales."
 msgstr "Ventes nettes."
 
+#: packages/woocommerce-admin/src/API/Coupons.php:34
+msgid "Limit results to coupons with codes matching a given string."
+msgstr "Limiter les résultats aux codes promo dont les codes correspondent à une chaîne donnée."
+
 #: packages/woocommerce-admin/src/API/Reports/Stock/Stats/Controller.php:115
 #: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:220
 #: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:263
@@ -4740,10 +4744,6 @@ msgstr "Ventes nettes."
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:164
 msgid "Totals data."
 msgstr "Ensemble des données."
-
-#: packages/woocommerce-admin/src/API/Coupons.php:34
-msgid "Limit results to coupons with codes matching a given string."
-msgstr "Limiter les résultats aux codes promo dont les codes correspondent à une chaîne donnée."
 
 #: packages/woocommerce-admin/src/API/Leaderboards.php:526
 msgid "Table cell value."
@@ -4808,23 +4808,6 @@ msgstr "Meilleurs clients - Dépense totale"
 msgid "Net Sales"
 msgstr "Ventes nettes"
 
-#: packages/woocommerce-admin/src/API/Leaderboards.php:191
-#: packages/woocommerce-admin/src/API/Leaderboards.php:321
-#: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:156
-#: packages/woocommerce-admin/src/API/Reports/Variations/Controller.php:414
-#: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:521
-#: packages/woocommerce-admin/src/API/Reports/Categories/Controller.php:330
-#: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:159
-#: packages/woocommerce-admin/src/API/Reports/Products/Controller.php:390
-#: packages/woocommerce-admin/dist/chunks/analytics-report-categories.js:1
-#: packages/woocommerce-admin/dist/chunks/analytics-report-orders.js:1
-#: packages/woocommerce-admin/dist/chunks/analytics-report-variations.js:1
-#: packages/woocommerce-admin/dist/chunks/6.js:1
-#: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
-#: packages/woocommerce-admin/dist/chunks/analytics-report-products.js:1
-msgid "Items Sold"
-msgstr "Articles vendus"
-
 #: packages/woocommerce-admin/src/API/Leaderboards.php:185
 msgid "Top Categories - Items Sold"
 msgstr "Meilleures catégories - Articles vendus"
@@ -4847,6 +4830,23 @@ msgstr "Code promo"
 #: packages/woocommerce-admin/src/API/Notes.php:242
 msgid "Sorry, there is no resource with that ID."
 msgstr "Désolé, aucune ressource ne possède cet ID."
+
+#: packages/woocommerce-admin/src/API/Leaderboards.php:191
+#: packages/woocommerce-admin/src/API/Leaderboards.php:321
+#: packages/woocommerce-admin/src/API/Reports/Variations/Stats/Controller.php:156
+#: packages/woocommerce-admin/src/API/Reports/Variations/Controller.php:414
+#: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:521
+#: packages/woocommerce-admin/src/API/Reports/Categories/Controller.php:330
+#: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:159
+#: packages/woocommerce-admin/src/API/Reports/Products/Controller.php:390
+#: packages/woocommerce-admin/dist/chunks/analytics-report-categories.js:1
+#: packages/woocommerce-admin/dist/chunks/analytics-report-orders.js:1
+#: packages/woocommerce-admin/dist/chunks/analytics-report-variations.js:1
+#: packages/woocommerce-admin/dist/chunks/6.js:1
+#: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
+#: packages/woocommerce-admin/dist/chunks/analytics-report-products.js:1
+msgid "Items Sold"
+msgstr "Articles vendus"
 
 #: packages/woocommerce-admin/src/API/NoteActions.php:32
 msgid "Unique ID for the Note."
@@ -4935,10 +4935,6 @@ msgstr "Nouveaux produits"
 #: packages/woocommerce-admin/src/API/OnboardingTasks.php:289
 msgid "Best Sellers"
 msgstr "Meilleurs produits"
-
-#: packages/woocommerce-admin/src/API/OnboardingTasks.php:285
-msgid "On Sale"
-msgstr "En vente"
 
 #: packages/woocommerce-admin/src/API/OnboardingTasks.php:281
 msgid "Fan Favorites"
@@ -5092,6 +5088,10 @@ msgstr "Rechercher par code de taxe similaire."
 #: packages/woocommerce-admin/src/API/Taxes.php:39
 msgid "Limit result set to items that have the specified rate ID(s) assigned."
 msgstr "Limiter le jeu de résultats aux articles possédant le ou les ID de taxe spécifiés."
+
+#: packages/woocommerce-admin/src/API/OnboardingTasks.php:285
+msgid "On Sale"
+msgstr "En promotion"
 
 #: packages/woocommerce-admin/src/Notes/DeactivatePlugin.php:40
 msgid "Deactivate old WooCommerce Admin version"
