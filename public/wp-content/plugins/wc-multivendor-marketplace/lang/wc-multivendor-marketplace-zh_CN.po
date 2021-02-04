@@ -1,0 +1,3516 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Multivendor Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-20 21:33+0000\n"
+"PO-Revision-Date: 2019-05-11 05:18+0800\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: 李明軒 <eggeggxuan@gmail.com>\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1\n"
+
+#: core/class-wcfmmp-admin.php:100
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace: Multi Vendor Plugin Conflict "
+"Detected !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:103
+#, php-format
+msgid ""
+"<p %s>WCFM - Marketplace is installed and active. But there is another multi-"
+"vendor plugin found in your site. Now this is not possible to run a site "
+"with more than one multi-vendor plugins at a time. %sDisable <b><u>%s</u></"
+"b> to make your site stable and run smoothly.</p>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:125
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace Inactive: WCFM Core Missing !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:128
+msgid ""
+"<p>WCFM Marketplace is inactive. WooCommerce Frontend Manager (WCFM Core) "
+"must be active for the WCFM Marketplace to work. Please install & activate "
+"WooCommerce Frontend Manager.</p>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:133
+msgid "WCFM >>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:151
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace: Vendor Registration Disable !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:154
+msgid ""
+"<p>WCFM - Membership is essential for WCFM Marketplace to register new "
+"vendors. You may additionally setup vendor membership using this as well. "
+"Recurring subscription also possible using PayPal and Stripe.</p>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:159
+msgid "Registration >>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:171 core/class-wcfmmp-admin.php:172
+msgid "Marketplace"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:177 core/class-wcfmmp-admin.php:201
+#: core/class-wcfmmp-admin.php:250 core/class-wcfmmp-settings.php:60
+#: core/class-wcfmmp-vendor.php:181 core/class-wcfmmp-vendor.php:1162
+#: helpers/class-wcfmmp-store-setup.php:57 views/media/wcfmmp-view-media.php:70
+#: views/media/wcfmmp-view-media.php:83
+#: views/product_multivendor/wcfmmp-view-more-offers.php:37
+#: views/refund/wcfmmp-view-refund-requests.php:62
+#: views/refund/wcfmmp-view-refund-requests.php:74
+#: views/reviews/wcfmmp-view-reviews.php:89
+#: views/reviews/wcfmmp-view-reviews.php:101
+msgid "Store"
+msgstr "卖家"
+
+#: core/class-wcfmmp-admin.php:206
+msgid "Commission"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:268 core/class-wcfmmp-admin.php:354
+#: core/class-wcfmmp-admin.php:438 core/class-wcfmmp-admin.php:484
+#: core/class-wcfmmp-frontend.php:303 core/class-wcfmmp-product.php:133
+#: core/class-wcfmmp-product.php:180 core/class-wcfmmp-vendor.php:654
+#: core/class-wcfmmp-vendor.php:667
+msgid "By Global Rule"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:284 core/class-wcfmmp-admin.php:446
+#: core/class-wcfmmp-admin.php:496 core/class-wcfmmp-frontend.php:329
+#: core/class-wcfmmp-product.php:155 core/class-wcfmmp-settings.php:319
+#: core/class-wcfmmp-vendor.php:867
+msgid "Commission For"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:286 core/class-wcfmmp-admin.php:448
+#: core/class-wcfmmp-admin.php:496 core/class-wcfmmp-frontend.php:329
+#: core/class-wcfmmp-product.php:155 core/class-wcfmmp-settings.php:319
+#: core/class-wcfmmp-vendor.php:867
+msgid "Vendor"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:286 core/class-wcfmmp-admin.php:448
+#: core/class-wcfmmp-admin.php:496 core/class-wcfmmp-frontend.php:329
+#: core/class-wcfmmp-product.php:155 core/class-wcfmmp-settings.php:319
+#: core/class-wcfmmp-vendor.php:867
+msgid "Admin"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:288 core/class-wcfmmp-admin.php:450
+#: core/class-wcfmmp-admin.php:496 core/class-wcfmmp-frontend.php:329
+#: core/class-wcfmmp-product.php:155 core/class-wcfmmp-vendor.php:867
+msgid "Always applicable as per global rule."
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:291 core/class-wcfmmp-admin.php:369
+#: core/class-wcfmmp-admin.php:453 core/class-wcfmmp-admin.php:500
+#: core/class-wcfmmp-frontend.php:330 core/class-wcfmmp-product.php:156
+#: core/class-wcfmmp-product.php:186 core/class-wcfmmp-settings.php:320
+#: core/class-wcfmmp-vendor.php:868
+msgid "Commission Mode"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:295 core/class-wcfmmp-admin.php:373
+#: core/class-wcfmmp-admin.php:457 core/class-wcfmmp-admin.php:500
+#: core/class-wcfmmp-product.php:156 core/class-wcfmmp-product.php:186
+msgid ""
+"Keep this as Global to apply commission rule as per vendor or marketplace "
+"commission setup."
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:298 core/class-wcfmmp-admin.php:383
+#: core/class-wcfmmp-admin.php:460 core/class-wcfmmp-admin.php:504
+#: core/class-wcfmmp-frontend.php:331 core/class-wcfmmp-frontend.php:337
+#: core/class-wcfmmp-frontend.php:344 core/class-wcfmmp-product.php:157
+#: core/class-wcfmmp-product.php:187 core/class-wcfmmp-settings.php:321
+#: core/class-wcfmmp-settings.php:327 core/class-wcfmmp-settings.php:334
+#: core/class-wcfmmp-vendor.php:869 core/class-wcfmmp-vendor.php:875
+#: core/class-wcfmmp-vendor.php:882
+msgid "Commission Percent(%)"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:304 core/class-wcfmmp-admin.php:397
+#: core/class-wcfmmp-admin.php:466 core/class-wcfmmp-admin.php:508
+#: core/class-wcfmmp-frontend.php:332 core/class-wcfmmp-frontend.php:338
+#: core/class-wcfmmp-frontend.php:345 core/class-wcfmmp-product.php:158
+#: core/class-wcfmmp-product.php:188 core/class-wcfmmp-settings.php:322
+#: core/class-wcfmmp-settings.php:328 core/class-wcfmmp-settings.php:335
+#: core/class-wcfmmp-vendor.php:870 core/class-wcfmmp-vendor.php:876
+#: core/class-wcfmmp-vendor.php:883
+msgid "Commission Fixed"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:103
+#, php-format
+msgid "<b>%s</b> order item <b>%s</b> status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:213
+#: views/shipping/wcfmmp-view-edit-method-popup.php:248
+#: views/store-lists/wcfmmp-view-store-lists-card.php:40
+msgid "N/A"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:370
+msgid "Back to Zone List"
+msgstr "返回地区列表"
+
+#: core/class-wcfmmp-ajax.php:376 core/class-wcfmmp-ajax.php:379
+#: views/shipping/wcfmmp-view-shipping-settings.php:169
+msgid "Zone Name"
+msgstr "地区名称"
+
+#: core/class-wcfmmp-ajax.php:388 core/class-wcfmmp-ajax.php:392
+msgid "Zone Location"
+msgstr "地区位置"
+
+#: core/class-wcfmmp-ajax.php:425
+msgid "Limit Zone Location"
+msgstr "限制地区位置"
+
+#: core/class-wcfmmp-ajax.php:440
+msgid "Select Specific Countries"
+msgstr "选择特定国家"
+
+#: core/class-wcfmmp-ajax.php:456
+msgid "Select Specific States"
+msgstr "选择特定洲"
+
+#: core/class-wcfmmp-ajax.php:473
+msgid "Select Specific City"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:490
+msgid "Set your postcode"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:495
+msgid "Postcodes need to be comma separated"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:507
+#: views/shipping/wcfmmp-view-shipping-settings.php:171
+msgid "Shipping Method"
+msgstr "配送方式"
+
+#: core/class-wcfmmp-ajax.php:510
+msgid "Add your shipping method for appropiate zone"
+msgstr "新增您的配送方式到合适地区"
+
+#: core/class-wcfmmp-ajax.php:518
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:78
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:138
+#: views/shipping/wcfmmp-view-edit-method-popup.php:43
+#: views/shipping/wcfmmp-view-edit-method-popup.php:91
+#: views/shipping/wcfmmp-view-edit-method-popup.php:162
+msgid "Method Title"
+msgstr "配送名称"
+
+#: core/class-wcfmmp-ajax.php:519 views/ledger/wcfmmp-view-ledger.php:106
+#: views/ledger/wcfmmp-view-ledger.php:116
+#: views/reviews/wcfmmp-view-reviews-manage.php:167
+#: views/reviews/wcfmmp-view-reviews.php:84
+#: views/reviews/wcfmmp-view-reviews.php:96
+msgid "Status"
+msgstr "状态"
+
+#: core/class-wcfmmp-ajax.php:520
+#: views/shipping/wcfmmp-view-edit-method-popup.php:73
+#: views/shipping/wcfmmp-view-edit-method-popup.php:144
+#: views/shipping/wcfmmp-view-edit-method-popup.php:215
+msgid "Description"
+msgstr "描述"
+
+#: core/class-wcfmmp-ajax.php:528
+msgid "No shipping method found"
+msgstr "找不到配送方式"
+
+#: core/class-wcfmmp-ajax.php:548
+#: views/shipping/wcfmmp-view-shipping-settings.php:186
+msgid "Edit"
+msgstr "编辑"
+
+#: core/class-wcfmmp-ajax.php:553
+#: controllers/media/wcfmmp-controller-media.php:139
+#: controllers/reviews/wcfmmp-controller-reviews.php:127
+msgid "Delete"
+msgstr "删除"
+
+#: core/class-wcfmmp-ajax.php:588
+#: views/shipping/wcfmmp-view-add-method-popup.php:37
+msgid "Add Shipping Method"
+msgstr "新增配送方式"
+
+#: core/class-wcfmmp-ajax.php:626
+msgid "Shipping method added successfully"
+msgstr "成功新增配送方式"
+
+#: core/class-wcfmmp-ajax.php:649
+msgid "Shipping method enabled successfully"
+msgstr "成功启用配送方式"
+
+#: core/class-wcfmmp-ajax.php:649
+msgid "Shipping method disabled successfully"
+msgstr "成功停用配送方式"
+
+#: core/class-wcfmmp-ajax.php:672
+msgid "Shipping method deleted"
+msgstr "已删除配送方式"
+
+#: core/class-wcfmmp-ajax.php:688
+msgid "Shipping title must be required"
+msgstr "配送名称是必填的"
+
+#: core/class-wcfmmp-ajax.php:695
+msgid "Shipping method updated"
+msgstr "已更新配送方式"
+
+#: core/class-wcfmmp-ajax.php:745
+#, php-format
+msgid "Your Store: <b>%s</b> has been set off-line."
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:748
+msgid "Vendor Store Off-line."
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:766
+#, php-format
+msgid "Your Store: <b>%s</b> has been set on-line."
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:769
+msgid "Vendor Store On-line."
+msgstr ""
+
+#: core/class-wcfmmp-commission.php:416
+#, php-format
+msgid "<b>%s</b> order status updated to <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:248 core/class-wcfmmp-frontend.php:250
+msgid "Become a Vendor"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:264
+msgid "Store Manager"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:333 core/class-wcfmmp-settings.php:323
+#: core/class-wcfmmp-vendor.php:871
+msgid "Commission By Sales Rule(s)"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:333 core/class-wcfmmp-settings.php:323
+#: core/class-wcfmmp-vendor.php:871
+#, php-format
+msgid ""
+"Commission rules depending upon vendors total sales. e.g 50&#37; commission "
+"when sales < %s1000, 75&#37; commission when sales > %s1000 but < %s2000 and "
+"so on. You may define any number of such rules. Please be sure, do not set "
+"conflicting rules."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:334 core/class-wcfmmp-settings.php:324
+#: core/class-wcfmmp-vendor.php:872
+msgid "Sales"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:335 core/class-wcfmmp-frontend.php:342
+#: core/class-wcfmmp-settings.php:325 core/class-wcfmmp-settings.php:332
+#: core/class-wcfmmp-vendor.php:873 core/class-wcfmmp-vendor.php:880
+msgid "Rule"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:335 core/class-wcfmmp-frontend.php:342
+#: core/class-wcfmmp-settings.php:325 core/class-wcfmmp-settings.php:332
+#: core/class-wcfmmp-vendor.php:873 core/class-wcfmmp-vendor.php:880
+msgid "Up to"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:335 core/class-wcfmmp-frontend.php:342
+#: core/class-wcfmmp-settings.php:325 core/class-wcfmmp-settings.php:332
+#: core/class-wcfmmp-vendor.php:873 core/class-wcfmmp-vendor.php:880
+msgid "More than"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:336 core/class-wcfmmp-frontend.php:343
+#: core/class-wcfmmp-settings.php:326 core/class-wcfmmp-settings.php:333
+#: core/class-wcfmmp-vendor.php:874 core/class-wcfmmp-vendor.php:881
+msgid "Commission Type"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:336 core/class-wcfmmp-frontend.php:343
+#: core/class-wcfmmp-settings.php:326 core/class-wcfmmp-settings.php:333
+#: core/class-wcfmmp-settings.php:523 core/class-wcfmmp-vendor.php:874
+#: core/class-wcfmmp-vendor.php:881 core/class-wcfmmp-vendor.php:903
+#: helpers/wcfmmp-core-functions.php:368
+msgid "Percent"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:336 core/class-wcfmmp-frontend.php:343
+#: core/class-wcfmmp-settings.php:326 core/class-wcfmmp-settings.php:333
+#: core/class-wcfmmp-settings.php:523 core/class-wcfmmp-vendor.php:874
+#: core/class-wcfmmp-vendor.php:881 core/class-wcfmmp-vendor.php:903
+#: helpers/wcfmmp-core-functions.php:369
+msgid "Fixed"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:336 core/class-wcfmmp-frontend.php:343
+#: core/class-wcfmmp-settings.php:326 core/class-wcfmmp-settings.php:333
+#: core/class-wcfmmp-settings.php:523 core/class-wcfmmp-vendor.php:874
+#: core/class-wcfmmp-vendor.php:881 core/class-wcfmmp-vendor.php:903
+#: helpers/wcfmmp-core-functions.php:370
+msgid "Percent + Fixed"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:340 core/class-wcfmmp-settings.php:330
+#: core/class-wcfmmp-vendor.php:878
+msgid "Commission By Product Price"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:340 core/class-wcfmmp-settings.php:330
+#: core/class-wcfmmp-vendor.php:878
+#, php-format
+msgid ""
+"Commission rules depending upon product price. e.g 80&#37; commission when "
+"product cost < %s1000, %s100 fixed commission when product cost > %s1000 and "
+"so on. You may define any number of such rules. Please be sure, do not set "
+"conflicting rules."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:341 core/class-wcfmmp-settings.php:331
+#: core/class-wcfmmp-vendor.php:879
+msgid "Product Cost"
+msgstr "商品费用"
+
+#: core/class-wcfmmp-frontend.php:347 core/class-wcfmmp-settings.php:337
+#: core/class-wcfmmp-vendor.php:885
+msgid "Shipping cost goes to vendor?"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:348 core/class-wcfmmp-settings.php:338
+#: core/class-wcfmmp-vendor.php:886
+msgid "Tax goes to vendor?"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:349 core/class-wcfmmp-settings.php:339
+#: core/class-wcfmmp-vendor.php:887
+msgid "Commission after consider Vendor Coupon?"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:349 core/class-wcfmmp-settings.php:339
+#: core/class-wcfmmp-vendor.php:887
+msgid "Generate vendor commission after deduct Vendor Coupon discounts."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:350 core/class-wcfmmp-settings.php:340
+#: core/class-wcfmmp-vendor.php:888
+msgid "Commission after consider Admin Coupon?"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:350 core/class-wcfmmp-settings.php:340
+#: core/class-wcfmmp-vendor.php:888
+msgid "Generate vendor commission after deduct Admin Coupon discounts."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:452
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:58
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:68
+msgid "Choose Category"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:452
+msgid "Choose Location"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:452
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:91
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:97
+msgid "Choose State"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:67 core/class-wcfmmp-ledger.php:98
+#: views/ledger/wcfmmp-view-ledger.php:34
+#: views/ledger/wcfmmp-view-ledger.php:41
+msgid "Ledger Book"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:177 views/emails/store-new-order.php:70
+#: views/ledger/wcfmmp-view-ledger.php:52
+#: views/reviews/wcfmmp-view-reviews-manage.php:77
+#: views/emails/plain/store-new-order.php:70
+msgid "Order"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:178 views/ledger/wcfmmp-view-ledger.php:53
+msgid "Withdrawal"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:179 views/emails/store-new-order.php:405
+#: views/ledger/wcfmmp-view-ledger.php:47
+#: views/ledger/wcfmmp-view-ledger.php:57
+#: views/emails/plain/store-new-order.php:405
+msgid "Refunded"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:180 views/ledger/wcfmmp-view-ledger.php:58
+msgid "Partial Refunded"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:181 views/ledger/wcfmmp-view-ledger.php:59
+msgid "Charges"
+msgstr ""
+
+#: core/class-wcfmmp-media.php:70 core/class-wcfmmp-media.php:101
+#: core/class-wcfmmp.php:324
+msgid "Media"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:57
+#: core/class-wcfmmp-notification-manager.php:61
+msgid "Notification Manager"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:66
+msgid "Notification Sound"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:75
+msgid "Admin Notification"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:76
+msgid "Vendor Notification"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:79
+msgid "Notification Type"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:80
+#: core/class-wcfmmp-notification-manager.php:87
+#: core/class-wcfmmp-store.php:587
+msgid "Email"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:81
+#: core/class-wcfmmp-notification-manager.php:88
+msgid "Message"
+msgstr ""
+
+#: core/class-wcfmmp-notification-manager.php:83
+#: core/class-wcfmmp-notification-manager.php:90
+msgid "SMS"
+msgstr ""
+
+#: core/class-wcfmmp-product-multivendor.php:65
+msgid "Sell this Item"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:185
+msgid "Commission Rule"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:372
+#: views/shipping/wcfmmp-view-shipping-settings.php:49
+msgid "Processing Time"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:372
+#: views/shipping/wcfmmp-view-shipping-settings.php:49
+msgid "The time required before sending the product for delivery"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:387
+msgid "Override Shipping"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:387
+msgid "Override your store's default shipping cost for this product"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:388
+msgid "Additional Price"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:388
+msgid "First product of this type will be charged with this price"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:389 core/class-wcfmmp-settings.php:654
+#: views/shipping/wcfmmp-view-shipping-settings.php:77
+msgid "Per Qty Additional Price"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:389 core/class-wcfmmp-settings.php:654
+#: views/shipping/wcfmmp-view-shipping-settings.php:77
+msgid "Every second product of same type will be charged with this price"
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:82
+#: views/refund/wcfmmp-view-refund-requests-popup.php:74
+#: views/refund/wcfmmp-view-refund-requests.php:23
+#: views/refund/wcfmmp-view-refund-requests.php:30
+msgid "Refund Requests"
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:128 core/class-wcfmmp-refund.php:331
+msgid "Refund"
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:271
+#: views/refund/wcfmmp-view-refund-requests-popup.php:65
+msgid "Refund Request"
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:574
+#, php-format
+msgid "Your Refund Request approved for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:599
+#, php-format
+msgid "Refund Request approved for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:632 core/class-wcfmmp-refund.php:690
+#, php-format
+msgid "Your Refund Request cancelled for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:646
+#, php-format
+msgid "Refund Request cancelled for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:84 core/class-wcfmmp-reviews.php:115
+#: core/class-wcfmmp-store.php:136 core/class-wcfmmp-store.php:177
+#: core/class-wcfmmp.php:323 views/reviews/wcfmmp-view-reviews.php:38
+msgid "Reviews"
+msgstr "评价"
+
+#: core/class-wcfmmp-reviews.php:458
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:458
+msgid "No reviews yet!"
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:460
+#: controllers/reviews/wcfmmp-controller-reviews.php:106
+msgid "out of 5"
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:625
+#: controllers/reviews/wcfmmp-controller-reviews-submit.php:136
+#, php-format
+msgid "You have received a new Review from <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:634
+msgid "Store Review"
+msgstr "商店评价"
+
+#: core/class-wcfmmp-settings.php:91 core/class-wcfmmp-settings.php:95
+msgid "Marketplace Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:100
+msgid "Vendor Store URL"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:100
+#, php-format
+msgid "Define the seller store URL  (%s/[this-text]/[seller-name])"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:101
+msgid "Visible Sold By"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:101
+msgid "Uncheck this to disable Sold By display for products."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:102
+msgid "Sold By Label"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:102
+msgid "Sold By label along with store name under product archive pages."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Sold By Template"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Simple"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Advanced"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:103
+msgid "As Tab"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Single product page Sold By template."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Sold By Position"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Below Price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Below Short Description"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Below Add to Cart"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Sold by display position at Single Product Page."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:108 core/class-wcfmmp-vendor.php:817
+msgid "Store Name Position"
+msgstr "商店名称位置"
+
+#: core/class-wcfmmp-settings.php:108 core/class-wcfmmp-vendor.php:817
+msgid "On Banner"
+msgstr "在封面照上"
+
+#: core/class-wcfmmp-settings.php:108 core/class-wcfmmp-vendor.php:817
+msgid "At Header"
+msgstr "在顶部区域"
+
+#: core/class-wcfmmp-settings.php:108
+msgid "Store name position at Vendor Store Page."
+msgstr "卖家商店页的商店名称位置"
+
+#: core/class-wcfmmp-settings.php:110 core/class-wcfmmp-sidebar-widgets.php:58
+msgid "Store List Sidebar"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:110
+msgid "Uncheck this to disable store list sidebar."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:111
+msgid "Store Sidebar"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:111
+msgid "Uncheck this to disable vendor store sidebar."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:112
+msgid "Store Sidebar Position"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:112
+msgid "At Left"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:112
+msgid "At Right"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:113
+msgid "Store Related Products"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:113
+msgid "As per WC Default Rule"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:113
+msgid "Only same Store Products"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:114 core/class-wcfmmp-vendor.php:818
+msgid "Products per page"
+msgstr "每页商品数量"
+
+#: core/class-wcfmmp-settings.php:116
+msgid "Order Sync"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:116
+msgid ""
+"Enable this to sync WC main order status when vendors update their order "
+"status."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:117
+msgid "Product Multi-vendor"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:117
+msgid ""
+"Enable this to allow vendors to sell other vendor products, single product "
+"multiple seller."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:118
+msgid "Google Map API Key"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:118
+#, php-format
+msgid "%sAPI Key%s is needed to display map on store page"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Store Default Logo"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:121
+msgid "Store Default Banner"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:122
+msgid "Store List Default Banner"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:123
+msgid "Banner Dimension(s)"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:124
+msgid "Width"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:124
+msgid "Store banner preferred width in pixels."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:125
+msgid "Height"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:125
+msgid "Store banner preferred height in pixels."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:126
+msgid "Width (Mob)"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:126
+msgid "Store banner preferred width for mobile in pixels."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:127
+msgid "Height (Mob)"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:127
+msgid "Store banner preferred heightfor mobile in pixels."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:130
+msgid "Disable Store Setup Widget"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:132
+msgid "Enable GEO Locate"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:132
+msgid "Check this to enable store list auto-filter by user's location."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:134
+msgid "On Uninstall"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:134
+msgid ""
+"Delete all marketplace data on uninstall. Be careful, there is no way to "
+"retrieve those data if once deleted!"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:139
+msgid "Store List Page"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:145
+#, php-format
+msgid ""
+"You just have to create a page using short code – %swcfm_stores%s\n"
+"\t\t\t\t\t\t\tYou may specify “per_row” attribute to specify number of store "
+"in one row, by default it’s “2”.%s\n"
+"\t\t\t\t\t\t\tAlso specify “per_page” attribute to set how many stores you "
+"want to show in a page. Default value is 10.%s\n"
+"\t\t\t\t\t\t\tYou may also specify “excludes” attribute (comma separated "
+"store ids) to excludes some store from list."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:310
+msgid "Commission Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:314
+msgid "Marketplace Commission Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:467
+msgid "Withdrawal Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:471
+msgid "Marketplace Withdrawal Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:476 core/class-wcfmmp-vendor.php:899
+msgid "Request auto-approve?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:476
+msgid ""
+"Check this to automatically disburse payments to vendors on request, no "
+"admin approval required. Auto disbursement only works for auto-payment "
+"gateways, e.g. PayPal, Stripe etc. Bank Transfer or other non-autopay mode "
+"always requires approval, as these are manual transactions."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:478
+msgid "Generate auto-withdrawal?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:478
+msgid ""
+"Check this to generate withdrawal request automatically when order status "
+"reach at certain status."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:479
+msgid "Order Status for Generate Withdrawal"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:481
+msgid "Allowed Order Status for Withdrawal"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:481
+msgid "Allowed order statuses for which vendor may request for withdrawal."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:485 core/class-wcfmmp-vendor.php:901
+msgid "Minimum Withdraw Limit"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:485 core/class-wcfmmp-vendor.php:901
+msgid ""
+"Minimum balance required to make a withdraw request. Leave blank to set no "
+"minimum limits."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:486 core/class-wcfmmp-vendor.php:902
+msgid "Withdraw Threshold"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:486 core/class-wcfmmp-vendor.php:902
+msgid ""
+"Withdraw Threshold Days, (Make order matured to make a withdraw request). "
+"Leave empty to inactive this option."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:491 core/class-wcfmmp-vendor.php:829
+msgid "Payment Setup"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:495
+msgid "Withdraw Payment Methods"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:497
+msgid "Stripe Split Pay Mode"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:497
+msgid "Direct Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:497
+msgid "Destination Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:497
+msgid "Transfer Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:497
+msgid "Set your preferred Stripe Split pay mode."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:498
+msgid "Enable Test Mode"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:502 core/class-wcfmmp-settings.php:510
+msgid "PayPal Client ID"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:503 core/class-wcfmmp-settings.php:511
+msgid "PayPal Secret Key"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:504 core/class-wcfmmp-settings.php:512
+msgid "Stripe Client ID"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:504 core/class-wcfmmp-settings.php:512
+#, php-format
+msgid "Set redirect URL: %s"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:505 core/class-wcfmmp-settings.php:513
+msgid "Stripe Publish Key"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:506 core/class-wcfmmp-settings.php:514
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:519 core/class-wcfmmp-vendor.php:903
+msgid "Withdrawal Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:523
+msgid "Charge Type"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:523 core/class-wcfmmp-vendor.php:903
+msgid "No Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:523 core/class-wcfmmp-vendor.php:903
+msgid "Charges applicable for each withdarwal."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:526 core/class-wcfmmp-vendor.php:907
+msgid "PayPal Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:527 core/class-wcfmmp-settings.php:532
+#: core/class-wcfmmp-settings.php:537 core/class-wcfmmp-settings.php:542
+#: core/class-wcfmmp-vendor.php:908 core/class-wcfmmp-vendor.php:913
+#: core/class-wcfmmp-vendor.php:918 core/class-wcfmmp-vendor.php:923
+msgid "Percent Charge(%)"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:528 core/class-wcfmmp-settings.php:533
+#: core/class-wcfmmp-settings.php:538 core/class-wcfmmp-settings.php:543
+#: core/class-wcfmmp-vendor.php:909 core/class-wcfmmp-vendor.php:914
+#: core/class-wcfmmp-vendor.php:919 core/class-wcfmmp-vendor.php:924
+msgid "Fixed Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:529 core/class-wcfmmp-settings.php:534
+#: core/class-wcfmmp-settings.php:539 core/class-wcfmmp-settings.php:544
+#: core/class-wcfmmp-vendor.php:910 core/class-wcfmmp-vendor.php:915
+#: core/class-wcfmmp-vendor.php:920 core/class-wcfmmp-vendor.php:925
+msgid "Charge Tax"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:529 core/class-wcfmmp-settings.php:534
+#: core/class-wcfmmp-settings.php:539 core/class-wcfmmp-settings.php:544
+#: core/class-wcfmmp-vendor.php:910 core/class-wcfmmp-vendor.php:915
+#: core/class-wcfmmp-vendor.php:920 core/class-wcfmmp-vendor.php:925
+msgid "Tax for withdrawal charge, calculate in percent."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:531 core/class-wcfmmp-vendor.php:912
+msgid "Stripe Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:536 core/class-wcfmmp-vendor.php:917
+msgid "Skrill Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:541 core/class-wcfmmp-vendor.php:922
+msgid "Bank Transfer Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:551
+msgid "Marketplace Reverse Withdrawal Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:556 views/ledger/wcfmmp-view-ledger.php:55
+msgid "Reverse Withdrawal"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:556
+msgid ""
+"Enable this to keep track reverse withdrawals. In case vendor receive full "
+"payment (e.g. COD) from customer then they have to reverse-pay admin "
+"commission. This is only applicable for reverse-withdrawal payment methods."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:557
+msgid "Reverse or No Withdrawal Payment Methods"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:557
+msgid ""
+"Order Payment Methods which are not applicable for vendor withdrawal "
+"request. e.g Order payment method COD and vendor receiving that amount "
+"directly from customers. So, no more require withdrawal request. You may "
+"also enable Reverse Withdrawal to track reverse pending payments for such "
+"payment options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:560
+msgid "Reverse Withdraw Limit"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:560
+msgid ""
+"Set reverse withdrawal threshold limit, if reverse-pay balance reach this "
+"limit then vendor will not allow to withdrawal anymore. Leave empty to "
+"inactive this option."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:603
+msgid "Shipping Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:607
+msgid "Store Shipping Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:613 core/class-wcfmmp-vendor.php:1021
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:52
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:194
+msgid "Store Shipping"
+msgstr "商店配送"
+
+#: core/class-wcfmmp-settings.php:613
+msgid "Uncheck this to disable vendor wise store shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:619
+msgid "Shipping By Zone"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:625 core/class-wcfmmp-settings.php:638
+#: core/class-wcfmmp-settings.php:748
+msgid "Enable"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:625
+msgid "Uncheck this to disable zone wise shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:632
+#: views/shipping/wcfmmp-view-shipping-settings.php:66
+msgid "Shipping By Country"
+msgstr "按照国家的配送"
+
+#: core/class-wcfmmp-settings.php:638
+msgid "Uncheck this to disable country wise shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:652
+#: views/shipping/wcfmmp-view-shipping-settings.php:75
+msgid "Default Shipping Price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:652
+#: views/shipping/wcfmmp-view-shipping-settings.php:75
+msgid ""
+"This is the base price and will be the starting shipping price for each "
+"product"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:653
+#: views/shipping/wcfmmp-view-shipping-settings.php:76
+msgid "Per Product Additional Price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:653
+#: views/shipping/wcfmmp-view-shipping-settings.php:76
+msgid ""
+"If a customer buys more than one type product from your store, first product "
+"of the every second type will be charged with this price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:655
+#: views/shipping/wcfmmp-view-shipping-settings.php:78
+msgid "Free Shipping Minimum Order Amount"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:655
+#: views/shipping/wcfmmp-view-shipping-settings.php:78
+msgid "NO Free Shipping"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:655
+#: views/shipping/wcfmmp-view-shipping-settings.php:78
+msgid ""
+"Free shipping will be available if order amount more than this. Leave empty "
+"to disable Free Shipping."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:656
+#: views/shipping/wcfmmp-view-shipping-settings.php:79
+msgid "Ships from:"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:656
+#: views/shipping/wcfmmp-view-shipping-settings.php:79
+msgid ""
+"Location from where the products are shipped for delivery. Usually it is "
+"same as the store."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:687
+#: views/shipping/wcfmmp-view-shipping-settings.php:110
+msgid "Shipping Rates by Country"
+msgstr "按照国家的配送"
+
+#: core/class-wcfmmp-settings.php:691
+#: views/shipping/wcfmmp-view-shipping-settings.php:114
+msgid ""
+"Add the countries you deliver your products to. You can specify states as "
+"well. If the shipping price is same except some countries, there is an "
+"option Everywhere Else, you can use that."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:695 core/class-wcfmmp-settings.php:780
+#: views/shipping/wcfmmp-view-shipping-settings.php:117
+#: views/shipping/wcfmmp-view-shipping-settings.php:272
+msgid "Country"
+msgstr "国家"
+
+#: core/class-wcfmmp-settings.php:702 core/class-wcfmmp-settings.php:721
+#: core/class-wcfmmp-settings.php:817
+#: views/shipping/wcfmmp-view-edit-method-popup.php:106
+#: views/shipping/wcfmmp-view-edit-method-popup.php:177
+#: views/shipping/wcfmmp-view-shipping-settings.php:124
+#: views/shipping/wcfmmp-view-shipping-settings.php:143
+#: views/shipping/wcfmmp-view-shipping-settings.php:309
+msgid "Cost"
+msgstr "配送费用"
+
+#: core/class-wcfmmp-settings.php:710
+#: views/shipping/wcfmmp-view-shipping-settings.php:132
+msgid "State Shipping Rates"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:715
+#: views/shipping/wcfmmp-view-shipping-settings.php:137
+msgid "State"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:724 core/class-wcfmmp-settings.php:812
+#: core/class-wcfmmp-settings.php:819 helpers/wcfmmp-core-functions.php:736
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:161
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:99
+#: views/shipping/wcfmmp-view-shipping-settings.php:146
+#: views/shipping/wcfmmp-view-shipping-settings.php:304
+#: views/shipping/wcfmmp-view-shipping-settings.php:311
+msgid "Free Shipping"
+msgstr "免运费"
+
+#: core/class-wcfmmp-settings.php:742
+#: views/shipping/wcfmmp-view-shipping-settings.php:233
+msgid "Shipping By Weight"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:748
+msgid "Uncheck this to disable weight based shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:772
+#: views/shipping/wcfmmp-view-shipping-settings.php:265
+msgid "Country and Weight wise Shipping Rate Calculation"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:776
+#: views/shipping/wcfmmp-view-shipping-settings.php:269
+msgid ""
+"Add the countries you deliver your products to and specify rates for weight "
+"range. If the shipping price is same except some countries/states, there is "
+"an option Everywhere Else, you can use that."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:787
+#: views/shipping/wcfmmp-view-shipping-settings.php:279
+msgid "Country default cost if no matching rule"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:795
+#: views/shipping/wcfmmp-view-shipping-settings.php:287
+msgid "Weight-Cost Rules"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:800
+#: views/shipping/wcfmmp-view-shipping-settings.php:292
+msgid "Weight Rule"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:805
+#: views/shipping/wcfmmp-view-shipping-settings.php:297
+msgid "Weight up to"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:806
+#: views/shipping/wcfmmp-view-shipping-settings.php:298
+msgid "Weight more than"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:810
+#: views/shipping/wcfmmp-view-shipping-settings.php:302
+msgid "Weight"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:941
+msgid "Refund Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:945
+msgid "Store Refund Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:950
+msgid "Refund auto-approve?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:951
+msgid "Refund by Customer?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:951
+msgid ""
+"Enable this to allow customers make refund requests. Customers refund "
+"requests never auto-approve, admin always has to manually approve this."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:952
+msgid "Refund Threshold"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:952
+msgid ""
+"Refund Threshold Days, (Allow an order available to make a refund request). "
+"Leave empty to inactive this option."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:991
+msgid "Review Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:995
+msgid "Store Review Settings"
+msgstr "商店评价设定"
+
+#: core/class-wcfmmp-settings.php:1000
+msgid "Review auto-approve?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1001
+msgid "Review only store users?"
+msgstr "限卖家可以评价？"
+
+#: core/class-wcfmmp-settings.php:1001
+msgid ""
+"Enable this to allow only users to review the store who already purchased "
+"something from this store."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1002
+msgid "Review Categories"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1003
+#: views/reviews/wcfmmp-view-reviews-manage.php:86
+msgid "Category"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1049
+msgid "Vendor Registration"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1053
+msgid "Vendor Registration Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1058
+msgid "Required Approval"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1058
+msgid "Whether user required Admin Approval to become vendor or not!"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1059
+msgid "Email Verification"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1064
+msgid "SMS (via OTP) Verification"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1069
+msgid "Registration Form Fields"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1073
+msgid "-- Choose Terms Page --"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1083
+msgid "User Name"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1086
+msgid "Terms & Conditions"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1087
+msgid "Terms Page"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1092
+msgid "Registration Form Custom Fields"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1151
+msgid "Store Name"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1152
+msgid "Header Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1153
+msgid "Header Social Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1154
+msgid "Header Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1155
+msgid "Header Icon"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1156
+msgid "Sidebar Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1157
+msgid "Sidebar Heading"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1158
+msgid "Sidebar Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1159
+msgid "Tabs Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1160
+msgid "Tabs Active Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1161
+msgid "Store Card Highlight Color"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1162
+msgid "Store Card Text Color"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1163
+msgid "Button Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1164
+msgid "Button Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1165
+msgid "Button Hover Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1166
+msgid "Button Hover Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1167
+msgid "Star Rating"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1180
+msgid "Store Style"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1184
+msgid "Store Display Setting"
+msgstr ""
+
+#: core/class-wcfmmp-shipping-zone.php:95
+msgid "No shipping method found for adding"
+msgstr "找不到配送方式可以新增"
+
+#: core/class-wcfmmp-shipping-zone.php:120
+msgid "Shipping method not added successfully"
+msgstr "没有成功新增配送方式"
+
+#: core/class-wcfmmp-shipping-zone.php:141
+msgid "Shipping method not deleted"
+msgstr "尚未删除配送方式"
+
+#: core/class-wcfmmp-shipping-zone.php:165
+msgid "Lets you charge a rate for shipping"
+msgstr "输入配送费用的描述"
+
+#: core/class-wcfmmp-shipping-zone.php:225
+msgid "Method enable or disable not working"
+msgstr ""
+
+#: core/class-wcfmmp-shipping.php:208
+msgid "Item will be shipped in"
+msgstr ""
+
+#: core/class-wcfmmp-shipping.php:387 views/emails/store-new-order.php:221
+#: views/emails/store-new-order.php:359
+#: views/emails/plain/store-new-order.php:221
+#: views/emails/plain/store-new-order.php:359
+msgid "Shipping"
+msgstr "配送"
+
+#: core/class-wcfmmp-shipping.php:447
+#, php-format
+msgid "Shop for %s%d more to get free shipping"
+msgstr "只差 %s%d 元，享有免运费"
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:78 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:949
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Monday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:80 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:951
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Tuesday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:82 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:953
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Wednesday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:84 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:955
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Thursday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:86 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:957
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Friday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:88 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:959
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Saturday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:552 core/class-wcfmmp-store-hours.php:71
+#: core/class-wcfmmp-store-hours.php:90 core/class-wcfmmp-vendor.php:941
+#: core/class-wcfmmp-vendor.php:961
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:78
+msgid "Sunday"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:555 core/class-wcfmmp-store-hours.php:60
+#: core/class-wcfmmp.php:326 helpers/wcfmmp-core-functions.php:499
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:129
+msgid "Store Hours"
+msgstr ""
+
+#: core/class-wcfmmp-sidebar-widgets.php:41
+msgid "Vendor Store Sidebar"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:64 core/class-wcfmmp-vendor.php:934
+msgid "Store Hours Setting"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:69 core/class-wcfmmp-vendor.php:939
+msgid "Enable Store Hours"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:70 core/class-wcfmmp-vendor.php:940
+msgid "Disable Purchase During OFF Time"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:71 core/class-wcfmmp-vendor.php:941
+msgid "Set Week OFF"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:75 core/class-wcfmmp-vendor.php:945
+msgid "Daily Basis Opening & Closing Hours"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:78 core/class-wcfmmp-store-hours.php:80
+#: core/class-wcfmmp-store-hours.php:82 core/class-wcfmmp-store-hours.php:84
+#: core/class-wcfmmp-store-hours.php:86 core/class-wcfmmp-store-hours.php:88
+#: core/class-wcfmmp-store-hours.php:90 core/class-wcfmmp-vendor.php:949
+#: core/class-wcfmmp-vendor.php:951 core/class-wcfmmp-vendor.php:953
+#: core/class-wcfmmp-vendor.php:955 core/class-wcfmmp-vendor.php:957
+#: core/class-wcfmmp-vendor.php:959 core/class-wcfmmp-vendor.php:961
+msgid "Opening Hours"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:79 core/class-wcfmmp-store-hours.php:81
+#: core/class-wcfmmp-store-hours.php:83 core/class-wcfmmp-store-hours.php:85
+#: core/class-wcfmmp-store-hours.php:87 core/class-wcfmmp-store-hours.php:89
+#: core/class-wcfmmp-store-hours.php:91 core/class-wcfmmp-vendor.php:950
+#: core/class-wcfmmp-vendor.php:952 core/class-wcfmmp-vendor.php:954
+#: core/class-wcfmmp-vendor.php:956 core/class-wcfmmp-vendor.php:958
+#: core/class-wcfmmp-vendor.php:960 core/class-wcfmmp-vendor.php:962
+msgid "Closing Hours"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:141
+msgid "This store is now close!"
+msgstr ""
+
+#: core/class-wcfmmp-store.php:132
+msgid "Products"
+msgstr "商品"
+
+#: core/class-wcfmmp-store.php:133
+msgid "Articles"
+msgstr ""
+
+#: core/class-wcfmmp-store.php:134
+msgid "About"
+msgstr "关于"
+
+#: core/class-wcfmmp-store.php:135 core/class-wcfmmp-vendor.php:1570
+#: helpers/class-wcfmmp-store-setup.php:67
+msgid "Policies"
+msgstr "条款"
+
+#: core/class-wcfmmp-store.php:137 core/class-wcfmmp-store.php:149
+msgid "Followers"
+msgstr ""
+
+#: core/class-wcfmmp-store.php:138 core/class-wcfmmp-store.php:155
+msgid "Followings"
+msgstr ""
+
+#: core/class-wcfmmp-store.php:588
+msgid "Phone"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:378 core/class-wcfmmp-vendor.php:479
+#: helpers/wcfmmp-core-functions.php:575
+msgid "Shipped"
+msgstr "已出货"
+
+#: core/class-wcfmmp-vendor.php:478 helpers/wcfmmp-core-functions.php:574
+#: views/reviews/wcfmmp-view-reviews.php:22
+msgid "Pending"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:667
+msgid "Vendor Specific Rule"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:813
+msgid "Visibility Setup"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:898
+msgid "Withdrawal Mode"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1067
+msgid "Store Orders"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1233
+msgid "Additional Info"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1349
+#, php-format
+msgid "Commission for %s order."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1361
+msgid "Withdrawal Charges."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1367
+msgid "Auto withdrawal by paymode."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1369
+msgid "Withdrawal by Stripe Split Pay."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1371
+msgid "Withdrawal by request."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1382
+msgid "Reverse pay for auto withdrawal."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1397
+msgid "Request by Vendor."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1399
+msgid "Request by Admin."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1401
+msgid "Request by Customer."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1650
+msgid "Off-line Vendor Store"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1652
+msgid "On-line Vendor Store"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1842
+msgid "Add Store Logo"
+msgstr "新增商店大头照"
+
+#: core/class-wcfmmp-vendor.php:1850
+msgid "Add Store Name"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1858
+msgid "Add Store Banner"
+msgstr "新增商店封面照"
+
+#: core/class-wcfmmp-vendor.php:1866
+msgid "Add Store Phone"
+msgstr "新增商店电话"
+
+#: core/class-wcfmmp-vendor.php:1873
+msgid "Add Store Description"
+msgstr "新增商店描述"
+
+#: core/class-wcfmmp-vendor.php:1880
+msgid "Add Store Address"
+msgstr "新增商店地址"
+
+#: core/class-wcfmmp-vendor.php:1888
+msgid "Add Store Location"
+msgstr "新增商店位置"
+
+#: core/class-wcfmmp-vendor.php:1894
+msgid "Set your payment method"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1901
+msgid "Setup Store Policies"
+msgstr "新增商店条款"
+
+#: core/class-wcfmmp-vendor.php:1909
+msgid "Setup Store Customer Supprt"
+msgstr "设定商店顾客客服"
+
+#: core/class-wcfmmp-vendor.php:1917
+msgid "Setup Store SEO"
+msgstr "设定商店 SEO"
+
+#: core/class-wcfmmp-vendor.php:1932
+msgid "Complete!"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1935
+msgid "Loading"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1938
+msgid "Suggestion(s)"
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:118
+msgid "Auto Withdrawal Request processing failed, please contact Store Admin."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:123
+#, php-format
+msgid "Vendor <b>%s</b> has placed a Withdrawal Request #%s."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:130
+msgid "Auto withdrawal request failed, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:315
+msgid "Payment Processed"
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:344
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:556
+msgid "Something went wrong please try again later."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:348
+msgid "Invalid payment method."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:352
+msgid "No vendor for payment processing."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:394 core/class-wcfmmp-withdraw.php:430
+#, php-format
+msgid "Your withdrawal request #%s %s."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:468 core/class-wcfmmp-withdraw.php:510
+#, php-format
+msgid "Reverse withdrawal for order #%s %s."
+msgstr ""
+
+#: core/class-wcfmmp.php:325
+msgid "Vendor Ledger"
+msgstr ""
+
+#: helpers/class-wcfmmp-install.php:339
+msgid "Store Vendor"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:88 helpers/class-wcfmmp-setup.php:298
+#: helpers/class-wcfmmp-setup.php:508
+msgid "WCFM Marketplace &rsaquo; Setup Wizard"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:159
+msgid "WCFM Marketplace requires WooCommerce plugin to be active!"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:161
+msgid "Install WooCommerce"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:255 helpers/class-wcfmmp-setup.php:465
+#: helpers/class-wcfmmp-setup.php:675
+#, php-format
+msgid ""
+"%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it "
+"manually by clicking here.</a>"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:275 helpers/class-wcfmmp-setup.php:485
+#: helpers/class-wcfmmp-setup.php:695
+#, php-format
+msgid ""
+"%1$s was installed but could not be activated. <a href=\"%2$s\">Please "
+"activate it manually by clicking here.</a>"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:369
+msgid "Setup WCFM Maketplace vendor registration:"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:371
+msgid "Setup Registration"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:579
+msgid "WCFM Maketplace requires WCfM Dashboard plugin to be active!"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:581
+msgid "Install WCfM Dashboard"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:62
+msgid "Payment"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:72
+msgid "Customer Support"
+msgstr "顾客支援"
+
+#: helpers/class-wcfmmp-store-setup.php:231
+msgid "Vendor Store &rsaquo; Setup Wizard"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:254
+msgid "Store Setup"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:295
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:296
+#, php-format
+msgid ""
+"Thank you for choosing %s! This quick setup wizard will help you to "
+"configure the basic settings and you will have your store ready in no time."
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:297
+msgid ""
+"If you don't want to go through the wizard right now, you can skip and "
+"return to the dashboard. You may setup your store from dashboard &rsaquo; "
+"setting anytime!"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:363
+msgid "Store setup"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:399
+msgid "Store Address 1"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:400
+msgid "Store Address 2"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:401
+msgid "Store City/Town"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:402
+msgid "Store Postcode/Zip"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:403
+msgid "Store Country"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:404
+msgid "Store State/County"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:411
+#: helpers/wcfmmp-core-functions.php:495
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:105
+#: views/store/wcfmmp-view-store-sidebar.php:36
+msgid "Store Location"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:457
+msgid "Payment setup"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:645
+msgid "Policy setup"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:699
+msgid "Support setup"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:737
+msgid ""
+"Your store is ready. It's time to experience the things more Easily and "
+"Peacefully. Add your products and start counting sales, have fun!!"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:890
+msgid "How to use dashboard?"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:6
+#, php-format
+msgid ""
+"%sWCFM Marketplace is inactive.%s The %sWooCommerce plugin%s must be active "
+"for the WCFM Marketplace to work. Please %sinstall & activate WooCommerce%s"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:16
+#, php-format
+msgid ""
+"%sWCFM Marketplace is inactive.%s The %sWooCommerce Frontend Manager%s must "
+"be active for the WCFM Marketplace to work. Please %sinstall & activate "
+"WooCommerce Frontend Manager%s"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:26
+msgid ""
+"%WCFM Marketplace - Stripe Gateway%s requires PHP 5.6 or greater. We "
+"recommend upgrading to PHP %s or greater."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:36 helpers/wcfmmp-core-functions.php:46
+#: helpers/wcfmmp-core-functions.php:56
+msgid ""
+"%WCFM Marketplace - Stripe Gateway depends on the %s PHP extension. Please "
+"enable it, or ask your hosting provider to enable it."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:371
+msgid "By Vendor Sales"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:372
+msgid "By Product Price"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:382
+#: includes/payment-gateways/class-wcfmmp-gateway-skrill.php:17
+msgid "Skrill"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:383
+#: includes/payment-gateways/class-wcfmmp-gateway-bank_transfer.php:16
+msgid "Bank Transfer"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:384
+#: includes/payment-gateways/class-wcfmmp-gateway-by_cash.php:16
+msgid "Cash Pay"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:386
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:293
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:399
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:541
+msgid "Stripe Split Pay"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:482
+msgid "Feature"
+msgstr "特殊性"
+
+#: helpers/wcfmmp-core-functions.php:483
+msgid "Varity"
+msgstr "丰富度"
+
+#: helpers/wcfmmp-core-functions.php:484
+msgid "Flexibility"
+msgstr "灵活度"
+
+#: helpers/wcfmmp-core-functions.php:485
+msgid "Delivery"
+msgstr "交货速度"
+
+#: helpers/wcfmmp-core-functions.php:496
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:17
+msgid "Store Info"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:497
+msgid "Store Category"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:498
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:107
+msgid "Store Taxonomies"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:500
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:17
+msgid "Store Shipping Rules"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:501
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:140
+msgid "Store Coupons"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:502
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:17
+msgid "Store Product Search"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:503
+msgid "Store Top Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:504
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:17
+msgid "Store Top Rated Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:505
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:17
+msgid "Store Recent Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:506
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:17
+msgid "Store Featured Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:507
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:17
+msgid "Store On Sale Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:508
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:17
+msgid "Store Recent Articles"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:509
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:16
+msgid "Store Top Rated Vendors"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:510
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:16
+msgid "Store Best Selling Vendors"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:512
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:17
+msgid "Store Lists Search"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:513
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:17
+msgid "Store Lists Category Filter"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:514
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:17
+msgid "Store Lists Location Filter"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:515
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:17
+msgid "Store Lists Radius Filter"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:534
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:16
+msgid "Store New Order"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:545
+msgid "Please insert your comment before submit."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:546
+msgid "Please rate atleast one category before submit."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:547
+msgid "Your review successfully submited."
+msgstr "您成功送出评价。"
+
+#: helpers/wcfmmp-core-functions.php:548
+msgid "Your review response successfully submited."
+msgstr "您成功送出回复评价。"
+
+#: helpers/wcfmmp-core-functions.php:549 helpers/wcfmmp-core-functions.php:564
+msgid "Your refund request failed, please try after sometime."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:550 helpers/wcfmmp-core-functions.php:565
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:55
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:115
+msgid "Refund requests successfully approved."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:562
+msgid "Please insert your refund reason before submit."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:563
+msgid "Your refund request successfully sent."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:576 views/ledger/wcfmmp-view-ledger.php:45
+msgid "Completed"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:577
+msgid "Cancelled"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:578
+msgid "Requested"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:629
+msgid "More Offers"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:653
+msgid "Location"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:702
+msgid "Select Shipping Type..."
+msgstr "选择配送类型..."
+
+#: helpers/wcfmmp-core-functions.php:703
+msgid "Shipping by Country"
+msgstr "按照国家的配送"
+
+#: helpers/wcfmmp-core-functions.php:704
+msgid "Shipping by Zone"
+msgstr "按照地区的配送"
+
+#: helpers/wcfmmp-core-functions.php:705
+msgid "Shipping by Weight"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:714
+msgid "Ready to ship in..."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:715
+msgid "1 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:716
+msgid "1-2 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:717
+msgid "1-3 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:718
+msgid "3-5 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:719
+msgid "1-2 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:720
+msgid "2-3 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:721
+msgid "3-4 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:722
+msgid "4-6 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:723
+msgid "6-8 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:733
+msgid "-- Select a Method --"
+msgstr "-- 选择配送方式 --"
+
+#: helpers/wcfmmp-core-functions.php:734
+msgid "Flat Rate"
+msgstr "固定运费"
+
+#: helpers/wcfmmp-core-functions.php:735
+msgid "Local Pickup"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:33
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:98
+msgid "There has some error in submitted data."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:49
+msgid "Refund processing failed, please check wcfm log."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:57
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:117
+msgid "No refunds selected for approve"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:92
+msgid "Refund request amount more than item value."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:110
+#, php-format
+msgid ""
+"Refund <b>%s</b> has been processed for Order <b>%s</b> item <b>%s</b> by <b>"
+"%s</b>"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:118
+msgid "Refund requests successfully processed."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:120
+msgid "Refund processing failed, please contact site admin."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:124
+#, php-format
+msgid ""
+"You have recently received a Refund Request <b>%s</b> for Order <b>%s</b> "
+"item <b>%s</b>"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:85
+msgid "Refund Completed"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:87
+msgid "Refund Cancelled"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:110
+#: views/refund/wcfmmp-view-refund-requests-popup.php:76
+msgid "Partial Refund"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:112
+#: views/refund/wcfmmp-view-refund-requests-popup.php:76
+msgid "Full Refund"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:68
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:79
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:170
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:181
+msgid "Support Ticket Reply"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:68
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:75
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:170
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:177
+#: views/reviews/wcfmmp-view-reviews-manage.php:60
+msgid "Ticket"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:69
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:171
+msgid "Hi"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:71
+#, php-format
+msgid ""
+"You have received reply for your \"%s\" support request. Please check below "
+"for the details: "
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:75
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:177
+msgid "Check more details here"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:76
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:178
+msgid "Thank You"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:90
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:192
+msgid "Reply to Support Ticket"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:173
+msgid ""
+"You have received reply for your \"{product_title}\" support request. Please "
+"check below for the details: "
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:197
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:211
+#, php-format
+msgid "You have received reply for Support Ticket <b>%s</b>"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-submit.php:132
+#, php-format
+msgid "%s has received a new Review from <b>%s</b>"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:91
+#: views/reviews/wcfmmp-view-reviews.php:21
+msgid "Approved"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:93
+msgid "Waiting Approval"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:106
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:122
+msgid "Unapprove"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:124
+#: views/refund/wcfmmp-view-refund-requests.php:91
+msgid "Approve"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-bank_transfer.php:39
+#: includes/payment-gateways/class-wcfmmp-gateway-by_cash.php:33
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:62
+#: includes/payment-gateways/class-wcfmmp-gateway-skrill.php:36
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:73
+msgid "New transaction has been initiated"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:27
+msgid "PayPal"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:74
+msgid ""
+"PayPal Payout setting is not configured properly please contact site "
+"administrator"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:77
+msgid "Please update your PayPal email to receive commission"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:105
+#, php-format
+msgid "Payment recieved from %1$s as commission at %2$s on %3$s"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:34
+msgid "Stripe connect"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:85
+msgid "Please connect with Stripe account"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:88
+msgid ""
+"Stripe setting is not configured properly please contact site administrator"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:42
+msgid "WCFM Stripe Split Pay"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:64
+msgid "Credit Card (Stripe)"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:65
+msgid "Pay with your credit card via Stripe."
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:232
+msgid ""
+"An error has occurred while processing your payment, please try again. Or "
+"contact us for assistance."
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:311
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:417
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:495
+msgid "Stripe Charge Error: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:318
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:424
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:501
+msgid "Stripe Split Pay Error: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:338
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:444
+#, php-format
+msgid "Payment for Order #%s"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:566
+msgid "Error creating transfer record with Stripe: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:638
+msgid "Split Pay #"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:639
+msgid "For order id #"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:750
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:72
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:132
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:162
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:785
+msgid "Error creating customer record with Stripe: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:833
+#, php-format
+msgid ""
+"<strong>Stripe Gateway is disabled.</strong> Please re-check %swithdrawal "
+"setting panel%s. This occurs mostly due to absence of Stripe Secret Key"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:25
+msgid "Marketplace Shipping by Country"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:26
+msgid "Enable vendors to set marketplace shipping per country"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:141
+msgid "Shipping Cost"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:74
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:134
+#: views/shipping/wcfmmp-view-shipping-settings.php:48
+msgid "Enable Shipping"
+msgstr "启用配送"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:80
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:140
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:193
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:81
+msgid "Regular Shipping"
+msgstr "固定配送"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:85
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:145
+#: views/shipping/wcfmmp-view-edit-method-popup.php:124
+#: views/shipping/wcfmmp-view-edit-method-popup.php:195
+msgid "Tax Status"
+msgstr "税款类别"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:89
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:149
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:203
+#: views/shipping/wcfmmp-view-edit-method-popup.php:131
+#: views/shipping/wcfmmp-view-edit-method-popup.php:202
+msgid "Taxable"
+msgstr "应税"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:90
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:150
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:204
+msgctxt "Tax status"
+msgid "None"
+msgstr "免税"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:25
+msgid "Marketplace Shipping by Weight"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:26
+msgid "Enable vendors to set marketplace shipping by weight range"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:30
+msgid "Cloning this class could cause catastrophic disasters!"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:39
+msgid "Unserializing is forbidden!"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:53
+msgid "Charge varying rates based on user defined conditions"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:191
+msgid "Method title"
+msgstr "配送名称"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:198
+msgid "Tax status"
+msgstr "税款类别"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:17
+msgid "New order notification emails are sent when order is processing."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:37
+msgid "[{site_title}] New Store Order ({order_number}) - {order_date}"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:47
+msgid "New Store Order"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:164
+msgid "Enable this email notification."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:168
+msgid "Subject"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:170
+#, php-format
+msgid ""
+"This controls the email subject line. Leave it blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:175
+msgid "Email Heading"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:177
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave it blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:182
+msgid "Email Type"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:184
+msgid "Choose which format of email to be sent."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:188
+msgid "Plain Text"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:189
+msgid "HTML"
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:190
+msgid "Multipart"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:17
+msgid "Marketplace: Best Selling Vendors"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:83
+msgid "Best Selling Vendors"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:91
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:112
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:146
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:187
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:135
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:102
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:152
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:101
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:90
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:111
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:185
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:96
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:142
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:181
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:128
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:117
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:184
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:182
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:94
+msgid "Title:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:95
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:98
+msgid "Number of vendors to show:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:104
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:88
+msgid "Store Categories"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:18
+msgid "Vendor Store: Category"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:105
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:109
+msgid "Enable Toggle"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:117
+msgid "Enable toggle to show child categories"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:18
+msgid "Vendor Store: Coupons"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:103
+msgid "Expiry Date: "
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:18
+msgid "Vendor Store: Featured Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:177
+msgid "Featured Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:191
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:189
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:185
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:188
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:186
+msgid "Number of products to show:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:195
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:193
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:189
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:192
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:190
+msgid "Hide Free Products:"
+msgstr "隐藏免费商品："
+
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:18
+msgid "Vendor Store: Opening/Closing Hours"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:18
+msgid "Vendor Store: Info"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:18
+msgid "Store List: Category Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:96
+msgid "Search by Category"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:18
+msgid "Store List: Location Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:103
+msgid "Search by City"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:107
+msgid "Search by ZIP"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:140
+msgid "Search by Location"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:141
+msgid "State Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:142
+msgid "City Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:143
+msgid "ZIP Code Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:157
+msgid "Disable State Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:161
+msgid "Disable City Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:165
+msgid "Disable ZIP Code Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:18
+msgid "Store List: Radius Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:54
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:77
+msgid "Insert your address .."
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:95
+msgid "Search by Radius"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:18
+msgid "Store List: Search"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:51
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:59
+msgid "Search &hellip;"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:51
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:59
+msgid "Search store &hellip;"
+msgstr "搜寻卖家 &hellip;"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:84
+#: views/store/wcfmmp-view-store-sidebar.php:32
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:34
+msgid "Search"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:18
+msgid "Vendor Store: Location"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:18
+msgid "Vendor Store: On Sale Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:175
+msgid "On Sale Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:18
+msgid "Vendor Store: Product Search"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:90
+msgid "Product Search"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:18
+msgid "Vendor Store: Recent Articles"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:134
+msgid "Recent Articles"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:146
+msgid "Number of articles to show:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:18
+msgid "Vendor Store: Recent Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:171
+msgid "Recent Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:18
+msgid "Vendor Store: Shipping Rules"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:122
+msgid "Shipping Rules"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:18
+msgid "Vendor Store: Taxonomy"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:108
+msgid "Choose Taxonomy"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:122
+msgid "Taxonomy:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:124
+msgid "-- Taxonomy --"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:141
+msgid "Enable toggle to show child taxonomies"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:17
+msgid "Store Top Selling Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:18
+msgid "Vendor Store: Top Selling Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:174
+msgid "Top Selling Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:18
+msgid "Vendor Store: Top Rated Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:172
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:17
+msgid "Marketplace: Top Rated Vendors"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:86
+msgid "Top Rated Vendors"
+msgstr ""
+
+#: views/emails/store-new-order.php:28
+#: views/emails/plain/store-new-order.php:28
+msgid "Standard"
+msgstr ""
+
+#: views/emails/store-new-order.php:68
+#: views/emails/plain/store-new-order.php:68
+#, php-format
+msgid "A new order was received from %s. Order details is as follows:"
+msgstr ""
+
+#: views/emails/store-new-order.php:110
+#: views/emails/plain/store-new-order.php:110
+msgid "SKU:"
+msgstr ""
+
+#: views/emails/store-new-order.php:113
+#: views/emails/plain/store-new-order.php:113
+msgid "Variation ID:"
+msgstr ""
+
+#: views/emails/store-new-order.php:117
+#: views/emails/plain/store-new-order.php:117
+msgid "No longer exists"
+msgstr ""
+
+#: views/emails/store-new-order.php:288
+#: views/emails/plain/store-new-order.php:288
+msgid "Fee"
+msgstr ""
+
+#: views/emails/store-new-order.php:348
+#: views/emails/plain/store-new-order.php:348
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr ""
+
+#: views/emails/store-new-order.php:348
+#: views/emails/plain/store-new-order.php:348
+msgid "Discount"
+msgstr ""
+
+#: views/emails/store-new-order.php:359
+#: views/emails/plain/store-new-order.php:359
+msgid "This is the shipping and handling total costs for the order."
+msgstr ""
+
+#: views/emails/store-new-order.php:393
+#: views/emails/plain/store-new-order.php:393
+msgid "Order Total"
+msgstr ""
+
+#: views/emails/store-new-order.php:416
+#: views/emails/plain/store-new-order.php:416
+msgid "Customer Details"
+msgstr ""
+
+#: views/emails/store-new-order.php:418
+#: views/emails/plain/store-new-order.php:418
+msgid "Customer Name:"
+msgstr ""
+
+#: views/emails/store-new-order.php:419
+#: views/emails/plain/store-new-order.php:419
+msgid "Email:"
+msgstr ""
+
+#: views/emails/store-new-order.php:422
+#: views/emails/plain/store-new-order.php:422
+msgid "Telephone:"
+msgstr ""
+
+#: views/emails/store-new-order.php:437
+#: views/emails/plain/store-new-order.php:437
+msgid "Billing address"
+msgstr ""
+
+#: views/emails/store-new-order.php:444
+#: views/emails/plain/store-new-order.php:446
+msgid "Shipping address"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:74
+msgid "total earning"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:83
+msgid "total withdrawal"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:93
+msgid "total refund"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:107
+#: views/ledger/wcfmmp-view-ledger.php:117 views/media/wcfmmp-view-media.php:68
+#: views/media/wcfmmp-view-media.php:81
+#: views/refund/wcfmmp-view-refund-requests.php:64
+#: views/refund/wcfmmp-view-refund-requests.php:76
+msgid "Type"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:108
+#: views/ledger/wcfmmp-view-ledger.php:118
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:59
+#: views/product_multivendor/wcfmmp-view-more-offers.php:39
+msgid "Details"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:109
+#: views/ledger/wcfmmp-view-ledger.php:119
+msgid "Credit"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:110
+#: views/ledger/wcfmmp-view-ledger.php:120
+msgid "Debit"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:111
+#: views/ledger/wcfmmp-view-ledger.php:121
+#: views/reviews/wcfmmp-view-reviews.php:90
+#: views/reviews/wcfmmp-view-reviews.php:102
+msgid "Dated"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:25 views/media/wcfmmp-view-media.php:32
+msgid "Media Manager"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:36
+msgid "Total Disk Space Usage: "
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:48
+msgid "Bulk Delete"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:65 views/media/wcfmmp-view-media.php:78
+msgid "Select all for delete"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:69 views/media/wcfmmp-view-media.php:82
+msgid "Associate"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:71 views/media/wcfmmp-view-media.php:84
+msgid "Size"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:72 views/media/wcfmmp-view-media.php:85
+#: views/reviews/wcfmmp-view-reviews.php:91
+#: views/reviews/wcfmmp-view-reviews.php:103
+msgid "Actions"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:37
+msgid "Admin Product"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:57
+msgid "Add to Cart"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-more-offers.php:26
+#: views/product_multivendor/wcfmmp-view-more-offers.php:59
+msgid "No more offers for this product!"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-more-offers.php:38
+msgid "Price"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:69
+msgid "Product"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:79
+msgid "Refund Amount"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:84
+msgid "Refund Requests Reason"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:151
+msgid "Submit"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:156
+msgid "This order's item(s) are already requested for refund!"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:59
+#: views/refund/wcfmmp-view-refund-requests.php:71
+msgid "Requests"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:60
+#: views/refund/wcfmmp-view-refund-requests.php:72
+msgid "Request ID"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:61
+#: views/refund/wcfmmp-view-refund-requests.php:73
+msgid "Order ID"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:63
+#: views/refund/wcfmmp-view-refund-requests.php:75
+msgid "Amount"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:65
+#: views/refund/wcfmmp-view-refund-requests.php:77
+msgid "Reason"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:66
+#: views/refund/wcfmmp-view-refund-requests.php:78
+msgid "Date"
+msgstr "日期"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:34
+msgid "rated"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:42
+#: views/store/wcfmmp-view-store-reviews.php:47
+msgid "reviews"
+msgstr "评价"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:50
+msgid "Review via Product"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:56
+msgid "Reply"
+msgstr "回复"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:50
+msgid "and"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:50
+msgid "others have"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:51
+msgid "No user has"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:52
+msgid "has"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:53
+msgid "reviewed this store"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:53
+msgid "Support Ticket"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:64
+msgid "Support Tickets"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:64
+msgid "Tickets"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:93
+msgid "Open"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:95
+msgid "Closed"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:111
+msgid "Replies"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:158
+msgid "New Reply"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:166
+msgid "Priority"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:181
+msgid "Send"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:26
+#: views/reviews/wcfmmp-view-reviews-new.php:34
+msgid "write a review"
+msgstr "留下您的评价"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:28
+msgid "your review"
+msgstr "您的评价"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:29
+msgid "Add Your Review"
+msgstr "新增您的评价"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:34
+msgid "Cancel"
+msgstr "取消"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:43
+msgid "Poor"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:46
+msgid "Fair"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:49
+msgid "Good"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:52
+msgid "Excellent"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:55
+msgid "WOW!!!"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:68
+msgid "Publish Review"
+msgstr "送出评价"
+
+#: views/reviews/wcfmmp-view-reviews-pagination.php:24
+#: views/store-lists/wcfmmp-view-store-lists-pagination.php:24
+msgid "&laquo;"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-pagination.php:25
+#: views/store-lists/wcfmmp-view-store-lists-pagination.php:25
+msgid "&raquo;"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews.php:47
+#, php-format
+msgid "All (%s)"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews.php:86
+#: views/reviews/wcfmmp-view-reviews.php:98
+msgid "Author"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews.php:87
+#: views/reviews/wcfmmp-view-reviews.php:99
+msgid "Comment"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews.php:88
+#: views/reviews/wcfmmp-view-reviews.php:100
+msgid "Rating"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:10
+msgid "Add Shipping Methods"
+msgstr "新增配送方式"
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:15
+msgid ""
+"Choose the shipping method you wish to add. Only shipping methods which "
+"support zones are listed."
+msgstr "下方会出现地区支援的配送方式选项，请选择您想要的。"
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:22
+msgid "Select Shipping Method"
+msgstr "选择配送方式"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:9
+msgid "Edit Shipping Methods"
+msgstr "编辑配送方式"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:48
+#: views/shipping/wcfmmp-view-edit-method-popup.php:96
+#: views/shipping/wcfmmp-view-edit-method-popup.php:167
+msgid "Enter method title"
+msgstr "输入配送方式名称"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:58
+msgid "Minimum order amount for free shipping"
+msgstr "购买多少金额享有免运费"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:63
+#: views/shipping/wcfmmp-view-edit-method-popup.php:111
+#: views/shipping/wcfmmp-view-edit-method-popup.php:182
+msgid "0.00"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:130
+#: views/shipping/wcfmmp-view-edit-method-popup.php:201
+msgid "None"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:227
+msgid "Shipping Class Cost"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:229
+msgid ""
+"These costs can be optionally entered based on the shipping class set per "
+"product( This cost will be added with the shipping cost above)."
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:236
+msgid "No Shipping Classes set by Admin"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:243
+msgid "Cost of Shipping Class: \""
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:255
+msgid "Enter a cost (excl. tax) or sum, e.g. <code>10.00 * [qty]</code>."
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:255
+msgid ""
+"Use <code>[qty]</code> for the number of items, <br/><code>[cost]</code> for "
+"the total cost of items, and <code>[fee percent=\"10\" min_fee=\"20\" "
+"max_fee=\"\"]</code> for percentage based fees."
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:262
+msgid "Calculation type"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:268
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:269
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:288
+msgid "Save Method Settings"
+msgstr "储存配送设定"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:48
+msgid "Check this if you want to enable shipping for your store"
+msgstr ""
+"如果您想要启用卖家商品的固定运费，以及购买金额满多少的免运费设定，请打勾。"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:51
+msgid "Shipping Type"
+msgstr "配送类型"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:58
+msgid "Select shipping type for your store"
+msgstr "选择您卖家商店的配送类型"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:69
+msgid ""
+"Shipping By Country is disabled by Admin. Please contact admin for details"
+msgstr "商店管理员停用了配送按照国家功能，请联繫商店管理员。"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:170
+msgid "Region(s)"
+msgstr "地区位置"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:201
+msgid "No method found&nbsp;"
+msgstr "找不到配送方式&nbsp;"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:202
+msgid " Add Shipping Methods"
+msgstr "新增配送方式"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:206
+msgid " Edit Shipping Methods"
+msgstr "编辑配送方式"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:220
+msgid ""
+"No shipping zone found for configuration. Please contact with admin for "
+"manage your store shipping"
+msgstr "没有找到配送地区结构。请联繫商店管理员，以便管理您的商店配送。"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:236
+msgid ""
+"Shipping By Weight is disabled by Admin. Please contact admin for details"
+msgstr ""
+
+#: views/store/wcfmmp-view-store-sidebar.php:34
+msgid "Categories"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-card.php:110
+msgid "Visit <span>Store</span>"
+msgstr "浏览商店"
+
+#: views/store-lists/wcfmmp-view-store-lists-loop.php:63
+msgid "No store found!"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:43
+msgid "Sort by newness: old to new"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:44
+msgid "Sort by newness: new to old"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:45
+msgid "Sort by average rating: low to high"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:46
+msgid "Sort by average rating: high to low"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:47
+msgid "Sort by Alphabetical: A to Z"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:48
+msgid "Sort by Alphabetical: Z to A"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:64
+#, php-format
+msgid "Showing %s–%s of %s results"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:53
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜寻结果：%s"
+
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:36
+msgid "Filter by Category"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:38
+msgid "Filter by Location"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-category.php:23
+msgid "All Categories"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:29
+msgid "Shipping Rules:"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:45
+#, php-format
+msgid "Available for shopping more than <b>%s%d</b>."
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:48
+msgid "Available"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:66
+msgid "Delivery Time"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-taxonomy.php:24
+msgid "Show All"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Multivendor Marketplace"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Most featured and flexible marketplace solution for your e-commerce store. "
+"Simply and Smoothly."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wclovers.com/knowledgebase_category/wcfm-marketplace/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""

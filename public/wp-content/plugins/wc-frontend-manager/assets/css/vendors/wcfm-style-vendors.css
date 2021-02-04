@@ -1,0 +1,44 @@
+.wcfm_vendor_store a {
+  color: #FF7400;
+	font-weight: 500;
+}
+
+.wcfm_vendor_memvership { color: #008C00; }
+
+.coupon-types-percent { background-color: #73a724; }
+.coupon-types-fixed_cart { background-color: #FF7400; }
+.coupon-types-fixed_product { background-color: #4096EE; }
+
+.wcfm_user_usage_stat_limit{color:#1c2b36;}
+.wcfm_user_usage_stat{color:#D01F3C;}
+
+table#wcfm-vendors img {width:25px;vertical-align:middle;}
+
+table.dataTable.display tr td:nth-child(1), 
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr td:nth-child(9),
+table.dataTable.display tr td:nth-child(10),
+table.dataTable.display tr td:nth-child(11),
+table.dataTable.display tr td:nth-child(12),
+table.dataTable.display tr th:nth-child(1),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6),
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8),
+table.dataTable.display tr th:nth-child(9),
+table.dataTable.display tr th:nth-child(10),
+table.dataTable.display tr th:nth-child(11),
+table.dataTable.display tr th:nth-child(1) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 780px) {
+  .wcfm_vendors_filter_wrap { width: 100%; }
+}

@@ -1,0 +1,738 @@
+# Copyright (C) 2019 WPC Product Bundles for WooCommerce
+# This file is distributed under the same license as the WPC Product Bundles for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Bundles for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woo-product-bundle-premium/index.php:69,
+#: woo-product-bundle-premium/index.php:90,
+#: woo-product-bundle-premium/index.php:995,
+#: woo-product-bundle-premium/index.php:1018
+msgid "Add to cart"
+msgstr "В корзину"
+
+#: woo-product-bundle-premium/index.php:74,
+#: woo-product-bundle-premium/index.php:1001
+msgid "Select options"
+msgstr "Выбрать опции"
+
+#: woo-product-bundle-premium/index.php:80,
+#: woo-product-bundle-premium/index.php:1007
+msgid "Read more"
+msgstr "Подробнее"
+
+#: woo-product-bundle-premium/index.php:541
+msgid "Once Every 5 Minutes"
+msgstr "Каждые 5 минут"
+
+#: woo-product-bundle-premium/index.php:673,
+#: woo-product-bundle-premium/index.php:673
+msgid "Product Bundles"
+msgstr "Комплекты товаров"
+
+#: woo-product-bundle-premium/index.php:684,
+#: woo-product-bundle-premium/index.php:1848
+msgid "WPC Product Bundles"
+msgstr "WPC Product Bundles"
+
+#: woo-product-bundle-premium/index.php:687
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Спасибо за использование нашего плагина! Если вы удовлетворены, пожалуйста, "
+"вознаградите его полный пятизвездочный рейтинг %s."
+
+#: woo-product-bundle-premium/index.php:690
+msgid "Reviews"
+msgstr "Обзоры"
+
+#: woo-product-bundle-premium/index.php:692
+msgid "Changelog"
+msgstr "Изменения"
+
+#: woo-product-bundle-premium/index.php:694
+msgid "Discussion"
+msgstr "Обсуждение"
+
+#: woo-product-bundle-premium/index.php:701
+msgid "How to use?"
+msgstr "Как использовать?"
+
+#: woo-product-bundle-premium/index.php:705,
+#: woo-product-bundle-premium/index.php:1313
+msgid "Settings"
+msgstr "Настройки"
+
+#: woo-product-bundle-premium/index.php:709
+msgid "Tools"
+msgstr "Инструменты"
+
+#: woo-product-bundle-premium/index.php:714
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: woo-product-bundle-premium/index.php:718
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: woo-product-bundle-premium/index.php:726
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"При создании продукта, пожалуйста, выберите данные о продукте \"Smart Bundle"
+"\", то вы можете увидеть поле поиска, чтобы начать поиск и добавить продукты "
+"в комплект."
+
+#: woo-product-bundle-premium/index.php:738
+msgid "General"
+msgstr "Общее"
+
+#: woo-product-bundle-premium/index.php:742
+msgid "Price format"
+msgstr "Формат цены"
+
+#: woo-product-bundle-premium/index.php:745
+msgid "From min price"
+msgstr "Менимальная цена от"
+
+#: woo-product-bundle-premium/index.php:746
+msgid "Min price only"
+msgstr "Только мин. цена"
+
+#: woo-product-bundle-premium/index.php:747
+msgid "Min - max"
+msgstr "Мин.-Макс."
+
+#: woo-product-bundle-premium/index.php:748
+msgid "Regular and sale price"
+msgstr "Обычная цена и цена распродажи"
+
+#: woo-product-bundle-premium/index.php:751
+msgid "Choose the price format for bundle on the shop page."
+msgstr "Выберите формат цены комплекта на странице магазина"
+
+#: woo-product-bundle-premium/index.php:757,
+#: woo-product-bundle-premium/index.php:1698,
+#: woo-product-bundle-premium/index.php:1721,
+#: woo-product-bundle-premium/index.php:1934
+msgid "Bundled products"
+msgstr "Товары в комплекте"
+
+#: woo-product-bundle-premium/index.php:761,
+#: woo-product-bundle-premium/index.php:940
+msgid "Position"
+msgstr "Позиция"
+
+#: woo-product-bundle-premium/index.php:766,
+#: woo-product-bundle-premium/index.php:945
+msgid "Above add to cart button"
+msgstr "Выше кнопки добавления в корзину"
+
+#: woo-product-bundle-premium/index.php:770,
+#: woo-product-bundle-premium/index.php:949
+msgid "Below add to cart button"
+msgstr "Ниже кнопки добавления в корзину"
+
+#: woo-product-bundle-premium/index.php:774,
+#: woo-product-bundle-premium/index.php:953
+msgid "In a new tab"
+msgstr "В новой вкладке"
+
+#: woo-product-bundle-premium/index.php:778,
+#: woo-product-bundle-premium/index.php:957
+msgid "No (hide it)"
+msgstr "Нет (спрятать)"
+
+#: woo-product-bundle-premium/index.php:781
+msgid "Choose the position to show the bundled products list."
+msgstr "Позиция для показа списка комплектов"
+
+#: woo-product-bundle-premium/index.php:786
+msgid "Show thumbnail"
+msgstr "Показать миниатюру"
+
+#: woo-product-bundle-premium/index.php:791,
+#: woo-product-bundle-premium/index.php:806,
+#: woo-product-bundle-premium/index.php:821,
+#: woo-product-bundle-premium/index.php:884,
+#: woo-product-bundle-premium/index.php:902,
+#: woo-product-bundle-premium/index.php:1051,
+#: woo-product-bundle-premium/index.php:1085,
+#: woo-product-bundle-premium/index.php:1116,
+#: woo-product-bundle-premium/index.php:1131,
+#: woo-product-bundle-premium/index.php:1147,
+#: woo-product-bundle-premium/index.php:1163,
+#: woo-product-bundle-premium/index.php:1184,
+#: woo-product-bundle-premium/index.php:1201
+msgid "Yes"
+msgstr "Да"
+
+#: woo-product-bundle-premium/index.php:795,
+#: woo-product-bundle-premium/index.php:810,
+#: woo-product-bundle-premium/index.php:825,
+#: woo-product-bundle-premium/index.php:848,
+#: woo-product-bundle-premium/index.php:871,
+#: woo-product-bundle-premium/index.php:888,
+#: woo-product-bundle-premium/index.php:906,
+#: woo-product-bundle-premium/index.php:1055,
+#: woo-product-bundle-premium/index.php:1074,
+#: woo-product-bundle-premium/index.php:1089,
+#: woo-product-bundle-premium/index.php:1120,
+#: woo-product-bundle-premium/index.php:1135,
+#: woo-product-bundle-premium/index.php:1151,
+#: woo-product-bundle-premium/index.php:1167,
+#: woo-product-bundle-premium/index.php:1188,
+#: woo-product-bundle-premium/index.php:1205
+msgid "No"
+msgstr "Нет"
+
+#: woo-product-bundle-premium/index.php:801
+msgid "Show quantity"
+msgstr "Показать количество"
+
+#: woo-product-bundle-premium/index.php:816
+msgid "Show short description"
+msgstr "Показать короткое описание"
+
+#: woo-product-bundle-premium/index.php:831
+msgid "Show price"
+msgstr "Показать цену"
+
+#: woo-product-bundle-premium/index.php:836
+msgid "Price"
+msgstr "Цена"
+
+#: woo-product-bundle-premium/index.php:840
+msgid "Price HTML"
+msgstr "Цена HTML"
+
+#: woo-product-bundle-premium/index.php:844
+msgid "Subtotal"
+msgstr "Подитог"
+
+#: woo-product-bundle-premium/index.php:854
+msgid "Link to individual product"
+msgstr "Ссылка на отдельный товар"
+
+#: woo-product-bundle-premium/index.php:859
+msgid "Yes, open in the same tab"
+msgstr "Да, открыть в этой вкладке"
+
+#: woo-product-bundle-premium/index.php:863
+msgid "Yes, open in the new tab"
+msgstr "Да, открыть в новой вкладке"
+
+#: woo-product-bundle-premium/index.php:867
+msgid "Yes, open quick view popup"
+msgstr "Да, открыть всплывающее окно быстрого просмотра"
+
+#: woo-product-bundle-premium/index.php:879
+msgid "Change image"
+msgstr "Изменить изображение"
+
+#: woo-product-bundle-premium/index.php:892
+msgid ""
+"Change the main product image when choosing the variation of bundled "
+"products."
+msgstr "Изменить главное изображение при выборе вариантов в комплекте"
+
+#: woo-product-bundle-premium/index.php:897
+msgid "Change price"
+msgstr "Изменить цену"
+
+#: woo-product-bundle-premium/index.php:910
+msgid ""
+"Change the main product price when choosing the variation of bundled "
+"products. It uses JavaScript to change product price so it is very dependent "
+"on theme’s HTML. If it cannot find and update the product price, please "
+"contact us and we can help you adjust the JS file."
+msgstr ""
+"Измените основную цену продукта при выборе вариации комплектных продуктов. "
+"Он использует JavaScript, чтобы изменить цену продукта, поэтому он очень "
+"зависит от HTML темы. Если он не может найти и обновить цену продукта, "
+"пожалуйста, свяжитесь с нами, и мы можем помочь вам настроить файл JS."
+
+#: woo-product-bundle-premium/index.php:915
+msgid "Total text"
+msgstr "Текст итога"
+
+#: woo-product-bundle-premium/index.php:918
+msgid "Bundle price:"
+msgstr "Цена комплекта:"
+
+#: woo-product-bundle-premium/index.php:922
+msgid "Saved text"
+msgstr "Сохраненный текст"
+
+#: woo-product-bundle-premium/index.php:925,
+#: woo-product-bundle-premium/index.php:1280
+msgid "(saved [d])"
+msgstr "(сохранено [d])"
+
+#: woo-product-bundle-premium/index.php:927
+msgid "Use [d] to show the saved percentage or amount."
+msgstr "Используйте [d] для показа прогресса сохранения или количества"
+
+#: woo-product-bundle-premium/index.php:933,
+#: woo-product-bundle-premium/index.php:1942
+msgid "Bundles"
+msgstr "Комплекты"
+
+#: woo-product-bundle-premium/index.php:936
+msgid "Settings for bundles on the single product page."
+msgstr "Настройки для комплектов на отдельной странице товара"
+
+#: woo-product-bundle-premium/index.php:960
+msgid "Choose the position to show the bundles list."
+msgstr "Позиция для показа списка комплектов"
+
+#: woo-product-bundle-premium/index.php:966,
+#: woo-product-bundle-premium/index.php:2109
+msgid "Before text"
+msgstr "Текст перед"
+
+#: woo-product-bundle-premium/index.php:970
+msgid "The text before bundles"
+msgstr "Текст перед комплектами"
+
+#: woo-product-bundle-premium/index.php:975,
+#: woo-product-bundle-premium/index.php:2118
+msgid "After text"
+msgstr "Текст после"
+
+#: woo-product-bundle-premium/index.php:979
+msgid "The text after bundles"
+msgstr "Текст после комплектов"
+
+#: woo-product-bundle-premium/index.php:984
+msgid "\"Add to Cart\" button labels"
+msgstr "Текст кнопки \"В корзину\""
+
+#: woo-product-bundle-premium/index.php:987
+msgid "Leave blank if you want to use the default text and can be translated."
+msgstr ""
+"Оставьте пустым, если хотите использовать текст по-умолчанию и/или перевод "
+
+#: woo-product-bundle-premium/index.php:991
+msgid "Archive/shop page"
+msgstr "Архив/Страница магазина"
+
+#: woo-product-bundle-premium/index.php:997
+msgid "For purchasable bundle."
+msgstr "Для покупаемых комплектов."
+
+#: woo-product-bundle-premium/index.php:1003
+msgid "For purchasable bundle and has variable product(s)."
+msgstr "Для покупаемых комплектов имеющих вариативные товары."
+
+#: woo-product-bundle-premium/index.php:1009
+msgid "For un-purchasable bundle."
+msgstr "Для непродаваемых комплектов."
+
+#: woo-product-bundle-premium/index.php:1014
+msgid "Single product page"
+msgstr "Страница товара"
+
+#: woo-product-bundle-premium/index.php:1023
+msgid "Cart & Checkout"
+msgstr "Корзина и оплата"
+
+#: woo-product-bundle-premium/index.php:1027
+msgid "Cart contents count"
+msgstr "Счетчик содержимого корзины"
+
+#: woo-product-bundle-premium/index.php:1032
+msgid "Bundle only"
+msgstr "Только комплект"
+
+#: woo-product-bundle-premium/index.php:1036
+msgid "Bundled products only"
+msgstr "Только товары в комплекте"
+
+#: woo-product-bundle-premium/index.php:1040
+msgid "Both bundle and bundled products"
+msgstr "Оба: комплект и товары комплекта"
+
+#: woo-product-bundle-premium/index.php:1046
+msgid "Hide bundle name before bundled products"
+msgstr "Скрыть название комплекта перед товарами комплекта"
+
+#: woo-product-bundle-premium/index.php:1061
+msgid "Hide bundled products on cart & checkout page"
+msgstr "Скрыть товары комплекта в корзине и на странице подтверждения"
+
+#: woo-product-bundle-premium/index.php:1066
+msgid "Yes, just show the main product"
+msgstr "Да, просто показать основной товар"
+
+#: woo-product-bundle-premium/index.php:1070
+msgid "Yes, but show bundled product names under the main product"
+msgstr "Да, и показать названия товаров комплекта под главным товаром"
+
+#: woo-product-bundle-premium/index.php:1080
+msgid "Hide bundled products on mini-cart"
+msgstr "Скрыть товары комплекта в мини-корзине"
+
+#: woo-product-bundle-premium/index.php:1093
+msgid "Hide bundled products, just show the main product on mini-cart."
+msgstr "Скрыть товары комплекта, показать главный товар в мини-корзине"
+
+#: woo-product-bundle-premium/index.php:1099,
+#: woo-product-bundle-premium/index.php:1972
+msgid "Search"
+msgstr "Поиск"
+
+#: woo-product-bundle-premium/index.php:1103
+msgid "Search limit"
+msgstr "Ограничить поиск"
+
+#: woo-product-bundle-premium/index.php:1111
+msgid "Search by SKU"
+msgstr "Искать SKU"
+
+#: woo-product-bundle-premium/index.php:1126
+msgid "Search exact"
+msgstr "Точное соответствие"
+
+#: woo-product-bundle-premium/index.php:1138
+msgid "Match whole product title or content?"
+msgstr "Для названия товара или содержимого?"
+
+#: woo-product-bundle-premium/index.php:1142
+msgid "Search sentence"
+msgstr "Искать предложение"
+
+#: woo-product-bundle-premium/index.php:1154
+msgid "Do a phrase search?"
+msgstr "Искать фразу?"
+
+#: woo-product-bundle-premium/index.php:1158
+msgid "Accept same products"
+msgstr "Принять эти же товары"
+
+#: woo-product-bundle-premium/index.php:1170
+msgid "If yes, a product can be added many times."
+msgstr "Если да, товар может быть добавлен несколько раз"
+
+#: woo-product-bundle-premium/index.php:1175
+msgid "Advance"
+msgstr "Аванс"
+
+#: woo-product-bundle-premium/index.php:1179,
+#: woo-product-bundle-premium/index.php:1239
+msgid "Price sync"
+msgstr "Синхронизировать цену"
+
+#: woo-product-bundle-premium/index.php:1191
+msgid ""
+"Enable this option to change the bundle price automatically when changing "
+"the price of the bundled product. You also can do it by manually on the "
+"Tools tab."
+msgstr ""
+"Включите, что бы изменять цену комплекта автоматически при изменении цены "
+"товара в комплекте. Так же можно это сделать вручную на вкладке \"Инструменты"
+"\"."
+
+#: woo-product-bundle-premium/index.php:1196
+msgid "Price update"
+msgstr "Обновить цену"
+
+#: woo-product-bundle-premium/index.php:1208
+msgid ""
+"Enable this option to show the update price tool in each product. Use this "
+"tool to update the price for all bundles contain the current product."
+msgstr ""
+"Включите, что бы показать кнопку обновления цены в каждом товаре. "
+"Используйте эту кнопку для обновления цен во всех комплектах, в которые "
+"входит данный товар."
+
+#: woo-product-bundle-premium/index.php:1215
+msgid "Update Options"
+msgstr "Опции обновления"
+
+#: woo-product-bundle-premium/index.php:1228
+msgid "Product bundles"
+msgstr "Комплекты товаров"
+
+#: woo-product-bundle-premium/index.php:1233
+msgid "View all product bundles"
+msgstr "Посмотреть все комплекты"
+
+#: woo-product-bundle-premium/index.php:1244
+msgid "Update price for all bundles"
+msgstr "Обновить цену всех комплектов"
+
+#: woo-product-bundle-premium/index.php:1247
+msgid ""
+"The bundle price will be updated every 5 minutes automatically, you can "
+"click to update immediately."
+msgstr ""
+"Цена комплекта обновляется каждые 5 мин. автоматически, щелкните, чтобы "
+"обновить сейчас."
+
+#: woo-product-bundle-premium/index.php:1275
+msgid ""
+"Please select some product options before adding this bundle to the cart."
+msgstr ""
+"Пожалуйста, выберите опции товара перед добавлением комплекта в корзину."
+
+#: woo-product-bundle-premium/index.php:1276
+msgid ""
+"Please choose at least one product before adding this bundle to the cart."
+msgstr ""
+"Нужно выбрать как минимум один товар, чтобы добавить комплект в корзину."
+
+#: woo-product-bundle-premium/index.php:1277
+msgid ""
+"Please choose at least [min] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Нужно выбрать хотя бы [min] для каждого товара, чтобы добавить комплект в "
+"корзину."
+
+#: woo-product-bundle-premium/index.php:1278
+msgid ""
+"Please choose maximum [max] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Нужно выбрать максимально [max] каждого товара перед добавлением комплекта в "
+"корзину."
+
+#: woo-product-bundle-premium/index.php:1328
+msgid "Premium support"
+msgstr "Премиум поддержка"
+
+#: woo-product-bundle-premium/index.php:1419
+msgid "Have an error when adding this bundle to the cart."
+msgstr "Произошла ошибка при добавлении этого комплекта в корзину."
+
+#: woo-product-bundle-premium/index.php:1425
+msgid "\"%s\" has not enough stock."
+msgstr "\"%s\" — не достаточно товаров в наличии."
+
+#: woo-product-bundle-premium/index.php:1426,
+#: woo-product-bundle-premium/index.php:1433,
+#: woo-product-bundle-premium/index.php:1440
+msgid "You cannot add this bundle to the cart."
+msgstr "Вы не можете добавить комплект в корзину."
+
+#: woo-product-bundle-premium/index.php:1432
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Вы не можете добавить другой \"%s\" в вашу корзину."
+
+#: woo-product-bundle-premium/index.php:1439
+msgid "\"%s\" is protected and cannot be purchased."
+msgstr "\"%s\" зарезервирован и не может быть продан."
+
+#: woo-product-bundle-premium/index.php:1752
+msgid "(bundled in %s)"
+msgstr "(скомплектовано в %s)"
+
+#: woo-product-bundle-premium/index.php:1842
+msgid "No results found for \"%s\""
+msgstr "Ничего не найдено для \"%s\""
+
+#: woo-product-bundle-premium/index.php:1861
+msgid ""
+"Update price for all bundles contains this product. The progress time based "
+"on the number of your bundles."
+msgstr ""
+"Обновить цену для всех комплектов содержащих этот товар. Время процесса "
+"зависит от числа ваших комплектов."
+
+#: woo-product-bundle-premium/index.php:1864
+msgid "Update Price"
+msgstr "Обновить Цену"
+
+#: woo-product-bundle-premium/index.php:1868
+msgid "Invalid product to use this tool!"
+msgstr "Неверный товар для использования этой возможности!"
+
+#: woo-product-bundle-premium/index.php:1871
+msgid "This box content just appears after you publish the product."
+msgstr "Это содержимое появится после публикации вами товара."
+
+#: woo-product-bundle-premium/index.php:1910,
+#: woo-product-bundle-premium/index.php:1960
+msgid "Smart bundle"
+msgstr "Умный комплект"
+
+#: woo-product-bundle-premium/index.php:1917
+msgid "Bundled Products"
+msgstr "Товары в комплекте"
+
+#: woo-product-bundle-premium/index.php:1974
+msgid "settings"
+msgstr "настройки"
+
+#: woo-product-bundle-premium/index.php:1979
+msgid "searching..."
+msgstr "поиск..."
+
+#: woo-product-bundle-premium/index.php:1981
+msgid "Type any keyword to search"
+msgstr "Укажите ключевое слово для поиска"
+
+#: woo-product-bundle-premium/index.php:1987
+msgid "Selected"
+msgstr "Выбрано"
+
+#: woo-product-bundle-premium/index.php:2018
+msgid "Regular price"
+msgstr "Обычная цена"
+
+#: woo-product-bundle-premium/index.php:2024
+msgid "Auto price"
+msgstr "Авто-цена"
+
+#: woo-product-bundle-premium/index.php:2028
+msgid "Disable auto calculate price?"
+msgstr "Отключить автоматический посчет цены?"
+
+#: woo-product-bundle-premium/index.php:2028
+msgid "If yes, %s click here to set price %s by manually."
+msgstr "Если да, %s щелкните тут для установки цены %s вручную."
+
+#: woo-product-bundle-premium/index.php:2032
+msgid "Discount"
+msgstr "Скидка"
+
+#: woo-product-bundle-premium/index.php:2039
+msgid "% or amount"
+msgstr "% или число"
+
+#: woo-product-bundle-premium/index.php:2045
+msgid "If you fill both percentage and amount, the amount will be used."
+msgstr "Если заполнить и процент, и число, то будет использоваться число"
+
+#: woo-product-bundle-premium/index.php:2049
+msgid "Optional products"
+msgstr "Опциональные товары"
+
+#: woo-product-bundle-premium/index.php:2053
+msgid "Buyer can change the quantity of bundled products?"
+msgstr "Покупатель может менять число товаров в комплекте?"
+
+#: woo-product-bundle-premium/index.php:2057
+msgid "Limit of each item"
+msgstr "Предел каждого элемента"
+
+#: woo-product-bundle-premium/index.php:2068
+msgid "Use default quantity as min?"
+msgstr "Использовать количество по-умолчанию как минимальное?"
+
+#: woo-product-bundle-premium/index.php:2072
+msgid "Limit of whole items"
+msgstr "Предел всех элементов"
+
+#: woo-product-bundle-premium/index.php:2085
+msgid "Shipping fee"
+msgstr "Стоимость доставки"
+
+#: woo-product-bundle-premium/index.php:2088
+msgid "Apply to the whole bundle"
+msgstr "Применить ко всему комплекту"
+
+#: woo-product-bundle-premium/index.php:2089
+msgid "Apply to each bundled product"
+msgstr "Применить к каждому товару в комплекте"
+
+#: woo-product-bundle-premium/index.php:2094
+msgid "Manage stock"
+msgstr "Управление запасами"
+
+#: woo-product-bundle-premium/index.php:2098
+msgid "Enable stock management at bundle level?"
+msgstr "Включить управление запасами на уровне комплектов?"
+
+#: woo-product-bundle-premium/index.php:2102
+msgid "Display price"
+msgstr "Отображение цены"
+
+#: woo-product-bundle-premium/index.php:2105
+msgid "Custom display price for the bundle. E.g: From $10 to $100"
+msgstr ""
+"Настраиваемое отображение цены для комплекта. Например: от 10 р. до 100 р."
+
+#: woo-product-bundle-premium/index.php:2113
+msgid "The text before bundled products"
+msgstr "Текст перед товарами коплекта"
+
+#: woo-product-bundle-premium/index.php:2122
+msgid "The text after bundled products"
+msgstr "Текст после товаров комплекта"
+
+#: woo-product-bundle-premium/index.php:2148
+msgid "Add"
+msgstr "Добавить"
+
+#: woo-product-bundle-premium/index.php:2150
+msgid "Remove"
+msgstr "Удалить"
+
+#: woo-product-bundle-premium/index.php:2153
+msgid "Default quantity"
+msgstr "Количество по-умолчанию"
+
+#: woo-product-bundle-premium/index.php:2329,
+#: woo-product-bundle-premium/index.php:2365
+msgid "From"
+msgstr "От"
+
+#: woo-product-bundle-premium/index.php:2387
+msgid ""
+"The bundle \"%s\" could not be added to your cart from order again button. "
+"Please buy it directly."
+msgstr ""
+"Комплект \"%s\" не может быть добавлен в корзину через кнопку повторного "
+"заказа. Пожалуйста, купите его напрямую."
+
+#: woo-product-bundle-premium/index.php:2496
+msgid "Choose"
+msgstr "Выбрать"
+
+#: woo-product-bundle-premium/index.php:2502
+msgid "Clear"
+msgstr "Очистить"
+
+#: woo-product-bundle-premium/index.php:2705
+msgid "Bundle(s) low in stock"
+msgstr "На складе мало комплектов."
+
+#: woo-product-bundle-premium/index.php:2710
+msgid "%s is low in stock."
+msgstr "%s мало на складе."
+
+#: woo-product-bundle-premium/index.php:2712
+msgid "%1$s is low in stock. There are %2$d left."
+msgstr "%1$s мало на складе. Всего %2$d осталось."
+
+#: woo-product-bundle-premium/index.php:2730
+msgid "Bundle(s) out of stock"
+msgstr "Комплекты закончились"
+
+#: woo-product-bundle-premium/index.php:2735,
+#: woo-product-bundle-premium/index.php:2737
+msgid "%s is out of stock."
+msgstr "%s к сожалению, закончились."

@@ -1,0 +1,125 @@
+.wcfm-tabWrap .wcfm-container {
+	display: none;
+}
+
+#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"].wcfm-checkbox, .onoffswitch {
+	margin-right: 55%;
+}
+
+.wp-picker-container {
+	padding: 5px;
+	width: 60%;
+	margin-bottom: 10px;
+	font-size: 15px;
+	display: inline-block;
+	background-color: #fff !important;
+	border: 0px;
+	box-shadow: none;
+}
+
+.wp-picker-clear {
+	vertical-align: top;
+	line-height: 0.5 !important;
+	font-size: 12px;
+}
+
+.wcfm_full_ele_title {
+	width: 100% !important;
+}
+
+#wcfm-main-contentainer .mce-container iframe {
+	min-height: 250px;
+}
+
+@media only screen and (max-width: 640px) {
+	p.wcfm_title {
+		width: 90%;
+	}
+	
+	p.wcfm_title.module_options_title {
+		width: 65%;
+	}
+	
+	input.wcfm-checkbox-disabled {
+		margin-right: 5px;
+	}
+	
+	p.description {
+		margin-right: 5% !important;
+	}
+	
+	p.wcfm_page_options_desc {
+		margin-left: 1% !important;
+	}
+	
+	.select2-container {
+		width: 100%;
+	}
+	
+	#wcfm_settings_form_style_expander p.wcfm_title.wcfm_half_ele_title {
+		width: 100%;
+	}
+	
+	#wcfm_settings_form_style_expander .wp-picker-container{
+		width: 90%;
+		margin-right: 1%;
+	}
+	
+	#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"].wcfm-checkbox, .onoffswitch {
+		margin-right: 5%;
+	}
+	
+	input.custom_field_is_group_name {
+		width: 100% !important;
+	}
+	
+	.page_collapsible {
+		font-size: 15px;
+	}                                              
+	
+}
+
+@media screen and (min-width:641px) {
+	
+	.page_collapsible {
+		width: 20%;
+		font-size: 0.9em;
+		display: block; 
+		overflow: hidden;
+		border-right: 1px solid #cccccc;
+		margin-top: 0px;
+		-moz-border-radius: 0px;
+		-webkit-border-radius: 0px;
+		border-radius: 0px;
+	}
+	.wcfm-tabWrap {
+			position: relative; 
+			display: inline-block;
+			width: 100%;
+			background: #fff;
+			overflow:hidden;
+	}
+	.page_collapsible + .wcfm-container {
+			width: 75%;
+			position: absolute;
+			right: 0;
+			top: 0;
+	}
+	html[dir="rtl"] .page_collapsible + .wcfm-container {
+		left: 0;
+		right: auto;
+	}
+	#wcfm_products_simple_submit {
+		overflow:hidden;
+	}
+	.wcfm-collapse .wcfm-tabWrap .wcfm-container {
+		border: none;
+		box-shadow: none;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	@media only screen and (max-width: 414px) {
+		a.add_new_wcfm_ele_dashboard .text { display: none; }
+	}
+}

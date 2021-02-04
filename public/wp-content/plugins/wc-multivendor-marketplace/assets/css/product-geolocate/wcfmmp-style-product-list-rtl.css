@@ -1,0 +1,11 @@
+.wcfmmp-product-geolocate-search-form i.wcfmmmp_locate_icon{right:auto;left:10px}
+
+.wcfmmp-product-geolocate-search-form div.wcfm_radius_slidecontainer .wcfmmp_radius_range_start {float: right;}
+
+.wcfmmp-product-geolocate-search-form div.wcfm_radius_slidecontainer .wcfmmp_radius_range_end {float: left;}
+
+.wcfmmp-product-geolocate-search-form button{float:left}
+
+.wcfmmp-product-geolocate-search-form input.wcfmmp-radius-addr{padding-left:32px;padding-right:5px;}
+
+.wcfmmp-product-geolocate-search-form input.wcfmmp-radius-addr, .wcfmmp-product-geolocate-search-form input.wcfm-search-field, .wcfmmp-product-geolocate-search-form input#search, .wcfmmp-product-geolocate-search-form select#wcfmmp_store_category, .wcfmmp-product-geolocate-search-form select#wcfmmp_store_country, .wcfmmp-product-geolocate-search-form #wcfmmp_store_state, .wcfmmp-product-geolocate-search-form .select2-container, .wcfmmp-product-geolocate-search-form .wcfmmp-search-box, #wcfmmp_store_orderby{margin-left:15px;margin-right:0px}

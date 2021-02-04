@@ -1,0 +1,44 @@
+.wcfm_listing_job_fields_container {
+	padding: 40px 20px !important;
+}
+.wcfm_listing_job_fields_container h2 {
+	display: block !important;
+	float: none !important;
+	width: 100% !important;
+}
+
+.wcfm_listing_job_fields_container fieldset {
+	margin: 0 0 1em 0 !important;
+  padding: 0 0 1em 0 !important;
+  background-color: #fff !important;
+}
+
+#wcfm-main-contentainer .wcfm_listing_job_fields_container .chosen-container-multi .chosen-choices li.search-field input[type=text] {
+	border: 0 !important;
+}
+
+#submit-job-form input[type="submit"], #job_preview input[type="submit"] {
+	width: auto;
+	float: right;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-left: 10px;
+	
+	background: #1C2B36 none repeat scroll 0 0;
+	border-bottom: 0px solid #17a2b8;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: px;
+	border-radius: 3px;
+	color: #b0bec5;
+	font-weight: 200;
+	letter-spacing: 0.046875em;
+	line-height: 1;
+	padding: 0.84375em 0.875em 0.78125em !important;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	text-transform: uppercase;
+	transition: all .5s;
+	font-size: 15px;
+}
+
+#submit-job-form input[type="submit"]:hover, #job_preview input[type="submit"]:hover { background-color: #17a2b8; color: #fff; }

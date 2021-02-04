@@ -1,0 +1,331 @@
+# Copyright (C) 2018 WooCommerce Product Bundles
+# This file is distributed under the same license as the WooCommerce Product Bundles package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Bundles\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woo-product-bundle-premium/index.php:61,
+#: woo-product-bundle-premium/index.php:73,
+#: woo-product-bundle-premium/index.php:657,
+#: woo-product-bundle-premium/index.php:677
+msgid "Add to cart"
+msgstr "Legg i handlekurv"
+
+#: woo-product-bundle-premium/index.php:63,
+#: woo-product-bundle-premium/index.php:662
+msgid "Select options"
+msgstr "Valg"
+
+#: woo-product-bundle-premium/index.php:66,
+#: woo-product-bundle-premium/index.php:667
+msgid "Read more"
+msgstr "Les mer"
+
+#: woo-product-bundle-premium/index.php:382
+msgid "Once Every 5 Minutes"
+msgstr "Hvert 5. minutt"
+
+#: woo-product-bundle-premium/index.php:486,
+#: woo-product-bundle-premium/index.php:497
+msgid "Woo Product Bundles"
+msgstr "Woo Product Bundles"
+
+#: woo-product-bundle-premium/index.php:500
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr "Takk for at du bruker vårt plugin! Hvis du er fornøyd, vennligst gi den femstjernes %s rating."
+
+#: woo-product-bundle-premium/index.php:503
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+#: woo-product-bundle-premium/index.php:505
+msgid "Changelogs"
+msgstr "Endringslogg"
+
+#: woo-product-bundle-premium/index.php:507
+msgid "Discussion"
+msgstr "Diskusjoner"
+
+#: woo-product-bundle-premium/index.php:513
+msgid "How to use?"
+msgstr "Hvordan bruke?"
+
+#: woo-product-bundle-premium/index.php:515,
+#: woo-product-bundle-premium/index.php:856
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: woo-product-bundle-premium/index.php:517
+msgid "Tools"
+msgstr "Verktøy"
+
+#: woo-product-bundle-premium/index.php:519
+msgid "Premium Support"
+msgstr "Premium support"
+
+#: woo-product-bundle-premium/index.php:526
+msgid "When creating the product, please choose product data is \"Smart Bundle\" then you can see the search field to start search and add products to the bundle."
+msgstr "Når du lager et produkt, vennligst velg produktdata \"Smartpakker\", du kan da se et søkefelt for å søke og legge til produkter til pakken."
+
+#: woo-product-bundle-premium/index.php:534
+msgid "General"
+msgstr "Generelt"
+
+#: woo-product-bundle-premium/index.php:537
+msgid "Show thumbnail"
+msgstr "Vis miniatyrbilde"
+
+#: woo-product-bundle-premium/index.php:542,
+#: woo-product-bundle-premium/index.php:557,
+#: woo-product-bundle-premium/index.php:572,
+#: woo-product-bundle-premium/index.php:610,
+#: woo-product-bundle-premium/index.php:628,
+#: woo-product-bundle-premium/index.php:697,
+#: woo-product-bundle-premium/index.php:712,
+#: woo-product-bundle-premium/index.php:728,
+#: woo-product-bundle-premium/index.php:744
+msgid "Yes"
+msgstr "Ja"
+
+#: woo-product-bundle-premium/index.php:546,
+#: woo-product-bundle-premium/index.php:561,
+#: woo-product-bundle-premium/index.php:576,
+#: woo-product-bundle-premium/index.php:599,
+#: woo-product-bundle-premium/index.php:614,
+#: woo-product-bundle-premium/index.php:632,
+#: woo-product-bundle-premium/index.php:701,
+#: woo-product-bundle-premium/index.php:716,
+#: woo-product-bundle-premium/index.php:732,
+#: woo-product-bundle-premium/index.php:748
+msgid "No"
+msgstr "Nei"
+
+#: woo-product-bundle-premium/index.php:552
+msgid "Show quantity"
+msgstr "Vis antall"
+
+#: woo-product-bundle-premium/index.php:567
+msgid "Show short description"
+msgstr "Vis kort beskrivelse"
+
+#: woo-product-bundle-premium/index.php:582
+msgid "Show price"
+msgstr "Vis pris"
+
+#: woo-product-bundle-premium/index.php:587
+msgid "Price"
+msgstr "Pris"
+
+#: woo-product-bundle-premium/index.php:591
+msgid "Price HTML"
+msgstr "Pris HTML"
+
+#: woo-product-bundle-premium/index.php:595
+msgid "Subtotal"
+msgstr "Delsum"
+
+#: woo-product-bundle-premium/index.php:605
+msgid "Hide products in the bundle on cart & checkout page"
+msgstr "Skjul produktene i pakken i handlekurven og oppgjørssiden"
+
+#: woo-product-bundle-premium/index.php:618
+msgid "Hide products in the bundle, just show the main product on the cart & checkout page."
+msgstr "Skjul produktene i pakken, vis kun hovedproduktet i handlekurven og på oppgjørssiden."
+
+#: woo-product-bundle-premium/index.php:623
+msgid "Hide products in the bundle on mini-cart"
+msgstr "Skjul produkter i pakken i mini-handlekurven"
+
+#: woo-product-bundle-premium/index.php:636
+msgid "Hide products in the bundle, just show the main product on mini-cart."
+msgstr "Skjul produkter i pakken, bare vis hovedproduktet i mini-handlekurven."
+
+#: woo-product-bundle-premium/index.php:641
+msgid "Bundle price text"
+msgstr "Pakkepris tekst"
+
+#: woo-product-bundle-premium/index.php:644
+msgid "Bundle price:"
+msgstr "Pakkepris:"
+
+#: woo-product-bundle-premium/index.php:646
+msgid "The text before price when choosing variation in the bundle."
+msgstr "Teksten før prisen når du velger variasjoner i pakken."
+
+#: woo-product-bundle-premium/index.php:651
+msgid "\"Add to Cart\" button labels"
+msgstr "\"Legg i handlekurv\" knapp-tekst"
+
+#: woo-product-bundle-premium/index.php:654
+msgid "Archive/shop page"
+msgstr "Arkiv/butikkside"
+
+#: woo-product-bundle-premium/index.php:659
+msgid "For purchasable bundle."
+msgstr "For pakke til salgs."
+
+#: woo-product-bundle-premium/index.php:664
+msgid "For purchasable bundle and has variable product(s)."
+msgstr "For pakke til salgs som har variable produkter."
+
+#: woo-product-bundle-premium/index.php:669
+msgid "For unpurchasable bundle."
+msgstr "For pakker som ikke kan kjøpes."
+
+#: woo-product-bundle-premium/index.php:674
+msgid "Single product page"
+msgstr "Enkeltproduktside"
+
+#: woo-product-bundle-premium/index.php:681,
+#: woo-product-bundle-premium/index.php:1243
+msgid "Search"
+msgstr "Søk"
+
+#: woo-product-bundle-premium/index.php:684
+msgid "Search limit"
+msgstr "Søkebegrensning"
+
+#: woo-product-bundle-premium/index.php:692
+msgid "Search by SKU"
+msgstr "Søk med SKU"
+
+#: woo-product-bundle-premium/index.php:707
+msgid "Search exact"
+msgstr "Søk eksakt"
+
+#: woo-product-bundle-premium/index.php:719
+msgid "Match whole product title or content?"
+msgstr "Treffe på hele produkttittel eller innhold?"
+
+#: woo-product-bundle-premium/index.php:723
+msgid "Search sentence"
+msgstr "Søk setning"
+
+#: woo-product-bundle-premium/index.php:735
+msgid "Do a phrase search?"
+msgstr "Søk etter frase?"
+
+#: woo-product-bundle-premium/index.php:739
+msgid "Accept same products"
+msgstr "Tillat like produkter"
+
+#: woo-product-bundle-premium/index.php:751
+msgid "If yes, a product can be added many times."
+msgstr "Hvis ja kan produktet bli lagt til flere ganger."
+
+#: woo-product-bundle-premium/index.php:759
+msgid "Update Options"
+msgstr "Oppdater valg"
+
+#: woo-product-bundle-premium/index.php:773
+msgid "Product bundles"
+msgstr "Pakker"
+
+#: woo-product-bundle-premium/index.php:778
+msgid "View all product bundles"
+msgstr "Se alle pakker"
+
+#: woo-product-bundle-premium/index.php:784
+msgid "Update price"
+msgstr "Oppdater prisene"
+
+#: woo-product-bundle-premium/index.php:790
+msgid "Updated!"
+msgstr "Oppdatert!"
+
+#: woo-product-bundle-premium/index.php:795
+msgid "Update price for all bundles"
+msgstr "Oppdater prisene for alle pakkene"
+
+#: woo-product-bundle-premium/index.php:797
+msgid "The bundle price will be updated every 5 minutes automatically, you can click to update immediately."
+msgstr "Pakkeprisene blir automatisk oppdatert hvert 5 minutt, du kan trykke for å oppdatere de umiddelbart."
+
+#: woo-product-bundle-premium/index.php:814
+msgid "Please select some product options before adding this product to your cart."
+msgstr "Vennligst velg størrelse før du legger dette produktet i handlekuren."
+
+#: woo-product-bundle-premium/index.php:870
+msgid "Premium support"
+msgstr "Premium support"
+
+#: woo-product-bundle-premium/index.php:1064
+msgid "(bundled in %s)"
+msgstr "(pakket i %s)"
+
+#: woo-product-bundle-premium/index.php:1174
+msgid "No results found for \"%s\""
+msgstr "Ingen resultater funnet for \"%s\""
+
+#: woo-product-bundle-premium/index.php:1215,
+#: woo-product-bundle-premium/index.php:1222,
+#: woo-product-bundle-premium/index.php:1231
+msgid "Smart Bundle"
+msgstr "Smartpakke"
+
+#: woo-product-bundle-premium/index.php:1245
+msgid "settings"
+msgstr "innstillinger"
+
+#: woo-product-bundle-premium/index.php:1250
+msgid "searching..."
+msgstr "søker…"
+
+#: woo-product-bundle-premium/index.php:1252
+msgid "Type any keyword to search"
+msgstr "Skriv et nøkkelord for å søke"
+
+#: woo-product-bundle-premium/index.php:1258
+msgid "Selected"
+msgstr "Valgt"
+
+#: woo-product-bundle-premium/index.php:1295
+msgid "Regular price"
+msgstr "Ordinær pris"
+
+#: woo-product-bundle-premium/index.php:1304
+msgid "Disable auto calculate regular price? If yes, %s click here to set regular price %s"
+msgstr "Slå av automatisk utregning av ordinær pris? Hvia ja, %s trykk her for å sette ordinær pris %s"
+
+#: woo-product-bundle-premium/index.php:1308
+msgid "Sale price"
+msgstr "Salgspris"
+
+#: woo-product-bundle-premium/index.php:1312
+msgid "of Regular price or %s click here to set sale price %s"
+msgstr "av ordinær pris eller %s trykk her for å sette salgspris %s"
+
+#: woo-product-bundle-premium/index.php:1316
+msgid "Before text"
+msgstr "Før tekst"
+
+#: woo-product-bundle-premium/index.php:1320
+msgid "The text before bundled products"
+msgstr "Tekst før pakket produkt"
+
+#: woo-product-bundle-premium/index.php:1325
+msgid "After text"
+msgstr "Etter tekst"
+
+#: woo-product-bundle-premium/index.php:1329
+msgid "The text after bundled products"
+msgstr "Teksten etter pakket produkt"
+
+#: woo-product-bundle-premium/index.php:1522
+msgid "Clear"
+msgstr "Fjern"

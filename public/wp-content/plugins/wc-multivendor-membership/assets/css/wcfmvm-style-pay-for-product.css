@@ -1,0 +1,78 @@
+.wcfm-nolimit-content .wcfm-container {
+	text-align: center;
+}
+
+.wcfm-nolimit-content .wcfm-container h2 {
+	text-align: center;
+	display: block;
+	float: none;
+	font-size: 22px;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_message {
+	font-size: 20px;
+	color: #e85656;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_content {
+	margin: 50px auto;
+	position: relative;
+  background: #fff;
+  width: 263px;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_content .wcfm_pay_for_product_cost .amount {
+	font-weight: 800;
+	position: absolute;
+  background: #17a2b8;
+  color: #fff;
+  text-align: center;
+  border-radius: 120px;
+  top: -47px;
+  left: 34%;
+  font-size: 20px;
+  padding-top: 25px;
+	width: 90px;
+  height: 90px;
+	margin: 2px auto;
+	word-wrap: normal;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_description {
+	margin-top: 40px;
+	display: block;
+	text-align: center;
+	border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+	-moz-border-radius: 5px 5px 0px 0px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	-webkit-box-shadow: 0px 0px 25px 0px #ddd;
+  -moz-box-shadow: 0px 0px 25px 0px #ddd;
+  -ms-box-shadow: 0px 0px 25px 0px #ddd;
+  box-shadow: 0px 0px 25px 0px #ddd;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_description .wcfm_pay_for_product_credit_info {
+	padding: 75px 5px;
+	padding-bottom: 50px;
+	border-right: 0px;
+	font-size: 18px;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_description .wcfm_pay_for_product_credit_info span.wcfm_pay_for_product_credit_limit {
+	font-size: 25px;
+	font-weight: 800;
+	color: #17a2b8;
+}
+
+#wcfm-main-contentainer .wcfm_pay_for_product_description .wcfm_pay_for_product_button {
+	float: none;
+}
+
+#wcfm-main-contentainer .choose_pay_for_product_or_membership {
+	font-size: 25px;
+	font-weight: 800;
+	color: #cccccc;
+	margin-bottom: 50px;
+}

@@ -1,0 +1,42 @@
+.wcfm_form_simple_submit_wrapper {
+	width: 100%;
+	height: 60px;
+	position: fixed;
+	bottom: 0px;
+	left: 0;
+	z-index: 11111;
+	background: #eceef2;
+}
+
+.wcfm_form_simple_submit_wrapper .wcfm-info, .wcfm_form_simple_submit_wrapper .wcfm-success, .wcfm_form_simple_submit_wrapper .wcfm-warning, .wcfm_form_simple_submit_wrapper .wcfm-error, .wcfm_form_simple_submit_wrapper .wcfm-validation {
+	float: left;
+	margin-left: 20%;
+	width: 50%;
+	padding: 5px 5px 5px 20px;
+	position: fixed;
+	bottom: 0;
+	background: #eceef2;
+	z-index: 12;
+}
+
+.wcfm_form_simple_submit_wrapper  input {
+	margin: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+	.wcfm_form_simple_submit_wrapper {
+  	width: 100%;
+  	margin-left: 0;
+  }
+  
+  .wcfm_form_simple_submit_wrapper .wcfm-info, .wcfm_form_simple_submit_wrapper .wcfm-success, .wcfm_form_simple_submit_wrapper .wcfm-warning, .wcfm_form_simple_submit_wrapper .wcfm-error, .wcfm_form_simple_submit_wrapper .wcfm-validation {
+  	width: 100%;
+  	font-size: 12px;
+  	padding: 5px 5px 5px 10px;
+  	margin: 0px;
+  }
+  
+  .wcfm_form_simple_submit_wrapper .wcfm-info span, .wcfm_form_simple_submit_wrapper .wcfm-success span, .wcfm_form_simple_submit_wrapper .wcfm-warning span, .wcfm_form_simple_submit_wrapper .wcfm-error span, .wcfm_form_simple_submit_wrapper .wcfm-validation span, .wcfm_form_simple_submit_wrapper .wcfm-wcfmu span {
+  	font-size: 15px;
+  }
+}

@@ -1,0 +1,34 @@
+.aplication-status {
+	padding: 2px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+}
+
+.aplication-status-new { background-color: #4096EE; }
+.aplication-status-publish { background-color: #73a724; }
+.aplication-status-pending { background-color: #FF7400; }
+.aplication-status-pending_payment { background-color: #B02B2C; }
+.aplication-status-expired { background-color: #CC0000; }
+
+table.dataTable.display tr td:nth-child(2),
+table.dataTable.display tr td:nth-child(3), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6),
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 780px) {
+  .wcfm_applications_filter_wrap { width: 100%; }
+}

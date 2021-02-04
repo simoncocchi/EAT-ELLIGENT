@@ -1,0 +1,1884 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCFM - WooCommerce Multivendor Membership\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-25 06:58+0000\n"
+"PO-Revision-Date: 2019-07-07 18:30+0000\n"
+"Last-Translator: Admin JMNN <jumunona@gmail.com>\n"
+"Language-Team: Русский\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: controllers/wcfmvm-controller-memberships-manage.php:96 
+#: core/class-wcfmvm-shortcode.php:64 core/class-wcfmvm-shortcode.php:74 
+#: templates/vendor_membership.php:23 
+#: views/wcfmvm-view-memberships-manage.php:24 
+#: views/wcfmvm-view-memberships-settings.php:34
+msgid "Subscribe Now"
+msgstr "Подпишись сейчас"
+
+#: controllers/wcfmvm-controller-memberships-registration.php:239 
+#: controllers/wcfmvm-controller-memberships-registration.php:246 
+#: core/class-wcfmvm-ajax.php:736 core/class-wcfmvm-ajax.php:743 
+#: core/class-wcfmvm-ajax.php:749 core/class-wcfmvm-ajax.php:756
+msgid "Shop Name not available."
+msgstr "Название магазина не доступно."
+
+#: controllers/wcfmvm-controller-memberships.php:79
+msgid "Plan type: "
+msgstr "Тип плана:"
+
+#: controllers/wcfmvm-controller-memberships.php:83 
+#: views/wcfmvm-view-memberships-manage.php:270
+msgid "One Time"
+msgstr "Один раз"
+
+#: controllers/wcfmvm-controller-memberships.php:90
+msgid "Commission: "
+msgstr "Комиссия:"
+
+#: controllers/wcfmvm-controller-memberships.php:98 
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid "WC Checkout"
+msgstr "WC оформить заказ"
+
+#: controllers/wcfmvm-controller-memberships.php:98 
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid "Integrate Payment Options"
+msgstr "Интегрировать варианты оплаты"
+
+#: core/class-wcfmvm-ajax.php:185 core/class-wcfmvm-frontend.php:316 
+#: core/class-wcfmvm-frontend.php:617
+msgid "FREE"
+msgstr "БЕСПЛАТНО"
+
+#: core/class-wcfmvm-ajax.php:203 templates/vendor_registration.php:161
+msgid "First Name"
+msgstr "Имя"
+
+#: core/class-wcfmvm-ajax.php:209 templates/vendor_registration.php:162
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: core/class-wcfmvm-ajax.php:214
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: core/class-wcfmvm-ajax.php:218 templates/vendor_registration.php:68 
+#: templates/vendor_registration.php:74
+msgid "Email"
+msgstr "Email"
+
+#: core/class-wcfmvm-ajax.php:222 templates/vendor_registration.php:163
+msgid "Store Name"
+msgstr "Название магазина"
+
+#: core/class-wcfmvm-ajax.php:227
+msgid "Pay mode"
+msgstr "Режим оплаты"
+
+#: core/class-wcfmvm-ajax.php:315
+msgid "Rejection Reason"
+msgstr "Причина отказа"
+
+#: core/class-wcfmvm-ajax.php:321
+msgid "Status Update"
+msgstr "Обновление статуса"
+
+#: core/class-wcfmvm-ajax.php:323
+msgid "Approve"
+msgstr "Утвердить"
+
+#: core/class-wcfmvm-ajax.php:324
+msgid "Reject"
+msgstr "Отклонять"
+
+#: core/class-wcfmvm-ajax.php:332
+msgid "Update"
+msgstr "Обновить"
+
+#: core/class-wcfmvm-ajax.php:406
+msgid "Vendor Application Rejected"
+msgstr "Заявка продавца отклонена"
+
+#: core/class-wcfmvm-ajax.php:435
+msgid "Vendor Approval ststus successfully updated."
+msgstr "Статус одобрения поставщика успешно обновлен."
+
+#: core/class-wcfmvm-ajax.php:439
+msgid "Vendor Approval ststus update failed."
+msgstr "Не удалось обновить статус одобрения продавца."
+
+#: core/class-wcfmvm-ajax.php:455
+msgid "Manual Cancellation"
+msgstr "Отмена вручную"
+
+#: core/class-wcfmvm-ajax.php:457
+msgid "Your membership successfully cancelled."
+msgstr "Ваше членство успешно отменено."
+
+#: core/class-wcfmvm-ajax.php:460
+msgid ""
+"Your membership can not be cancelled right now, please contact your store "
+"admin."
+msgstr ""
+"Ваше членство не может быть отменено прямо сейчас, пожалуйста, свяжитесь с "
+"администратором вашего магазина."
+
+#: core/class-wcfmvm-ajax.php:481
+msgid "Vendor membership successfully changed."
+msgstr "Членство продавца успешно изменилось."
+
+#: core/class-wcfmvm-ajax.php:484
+msgid ""
+"Vendor membership can not be changed right now, please try after sometime."
+msgstr ""
+"Членство поставщика не может быть изменено прямо сейчас, пожалуйста, "
+"попробуйте через некоторое время."
+
+#: core/class-wcfmvm-ajax.php:516
+msgid "Membership Renewal Update"
+msgstr "Обновление членства"
+
+#: core/class-wcfmvm-ajax.php:520
+msgid "Next Renewal"
+msgstr "Следующее продление"
+
+#: core/class-wcfmvm-ajax.php:546 core/class-wcfmvm-frontend.php:290 
+#: core/class-wcfmvm-frontend.php:333 core/class-wcfmvm-frontend.php:594 
+#: core/class-wcfmvm-frontend.php:633
+msgid "Never Expire"
+msgstr "Никогда не истекает"
+
+#: core/class-wcfmvm-ajax.php:549
+msgid "Next renewal successfully updated."
+msgstr "Следующее обновление успешно обновлено."
+
+#: core/class-wcfmvm-ajax.php:587
+msgid "Hi"
+msgstr "Привет"
+
+#: core/class-wcfmvm-ajax.php:589
+#, php-format
+msgid "Here is your email verification code - <b>%s</b>"
+msgstr "Вот ваш код подтверждения электронной почты - <b>%s</b>"
+
+#: core/class-wcfmvm-ajax.php:590 helpers/wcfmvm-core-functions.php:209 
+#: helpers/wcfmvm-core-functions.php:223 
+#: views/wcfmvm-view-memberships-settings.php:511
+msgid "Thank You"
+msgstr "Спасибо Вам"
+
+#: core/class-wcfmvm-ajax.php:596
+msgid "Email Verification"
+msgstr "Подтверждение Email"
+
+#: core/class-wcfmvm-ajax.php:600
+#, php-format
+msgid "Verification code sent to your email: %s."
+msgstr "Код подтверждения, отправленный на вашу электронную почту: %s."
+
+#: core/class-wcfmvm-ajax.php:602
+msgid "Email verification not working right now, please try after sometime."
+msgstr ""
+"Проверка электронной почты сейчас не работает, попробуйте через некоторое "
+"время."
+
+#: core/class-wcfmvm-ajax.php:643
+msgid "Your verification code is"
+msgstr "Ваш проверочный код"
+
+#: core/class-wcfmvm-ajax.php:712
+#, php-format
+msgid "Verification code sent to your phone: %s."
+msgstr "Код подтверждения, отправленный на ваш телефон: %s."
+
+#: core/class-wcfmvm-ajax.php:718
+msgid "Phone verification not working right now, please try after sometime."
+msgstr "Проверка телефона не работает, попробуйте через некоторое время."
+
+#: core/class-wcfmvm-frontend.php:127 core/class-wcfmvm-frontend.php:193 
+#: views/wcfmvm-view-memberships-manage.php:185 
+#: views/wcfmvm-view-memberships-manage.php:185 
+#: views/wcfmvm-view-memberships-settings.php:308 
+#: views/wcfmvm-view-memberships-settings.php:308 
+#: views/wcfmvm-view-memberships.php:24
+msgid "Memberships"
+msgstr "Членство "
+
+#: core/class-wcfmvm-frontend.php:130
+msgid "Membership Manage"
+msgstr "Управление членством"
+
+#: core/class-wcfmvm-frontend.php:133 
+#: views/wcfmvm-view-memberships-settings.php:298
+msgid "Membership Settings"
+msgstr "Настройки членства"
+
+#: core/class-wcfmvm-frontend.php:162 core/class-wcfmvm-frontend.php:478 
+#: core/class-wcfmvm-frontend.php:480 core/class-wcfmvm-frontend.php:488 
+#: core/class-wcfmvm-frontend.php:506 core/class-wcfmvm-frontend.php:506 
+#: core/class-wcfmvm-frontend.php:526 views/wcfmvm-view-memberships.php:53 
+#: views/wcfmvm-view-memberships.php:63
+msgid "Membership"
+msgstr "Членство"
+
+#: core/class-wcfmvm-frontend.php:163 helpers/wcfmvm-core-functions.php:207 
+#: helpers/wcfmvm-core-functions.php:220 
+#: views/wcfmvm-view-memberships-settings.php:368 
+#: includes/shortcodes/class-wcfmvm-shortcode-vendor-registration.php:32
+msgid "Registration"
+msgstr ""
+"Регистрация\n"
+
+#: core/class-wcfmvm-frontend.php:244 core/class-wcfmvm-frontend.php:549 
+#: core/class-wcfmvm-frontend.php:1056 core/class-wcfmvm.php:1205 
+#: templates/vendor_membership.php:128 templates/vendor_payment.php:117 
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Day(s)"
+msgstr "День(й)"
+
+#: core/class-wcfmvm-frontend.php:244 core/class-wcfmvm-frontend.php:549 
+#: core/class-wcfmvm-frontend.php:1056 core/class-wcfmvm.php:1205 
+#: templates/vendor_membership.php:128 templates/vendor_payment.php:117 
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Month(s)"
+msgstr "Месяцы"
+
+#: core/class-wcfmvm-frontend.php:244 core/class-wcfmvm-frontend.php:549 
+#: core/class-wcfmvm-frontend.php:1056 core/class-wcfmvm.php:1205 
+#: templates/vendor_membership.php:128 templates/vendor_payment.php:117 
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Year(s)"
+msgstr "Год(ы)"
+
+#: core/class-wcfmvm-frontend.php:251
+msgid "Vendor's subscription details:"
+msgstr "Детали подписки продавца:"
+
+#: core/class-wcfmvm-frontend.php:277 core/class-wcfmvm-frontend.php:582
+msgid "Pricing Details: "
+msgstr "Информация о ценах:"
+
+#: core/class-wcfmvm-frontend.php:282 core/class-wcfmvm-frontend.php:587 
+#: templates/vendor_payment.php:93
+msgid "FREE Plan!!! There is no payment option for this."
+msgstr "БЕСПЛАТНЫЙ план !!! Для этого нет способа оплаты."
+
+#: core/class-wcfmvm-frontend.php:285 core/class-wcfmvm-frontend.php:325 
+#: core/class-wcfmvm-frontend.php:331 core/class-wcfmvm-frontend.php:590 
+#: core/class-wcfmvm-frontend.php:626 core/class-wcfmvm-frontend.php:632
+msgid "Expire on: "
+msgstr "Истекает на:"
+
+#: core/class-wcfmvm-frontend.php:294 core/class-wcfmvm-frontend.php:337
+msgid "Set or update member next renewal date."
+msgstr "Установить или обновить член следующую дату обновления."
+
+#: core/class-wcfmvm-frontend.php:320 core/class-wcfmvm-frontend.php:621
+msgid "Pay Mode: "
+msgstr "Режим оплаты:"
+
+#: core/class-wcfmvm-frontend.php:327 core/class-wcfmvm-frontend.php:628
+msgid "Next payment on: "
+msgstr "Следующий платеж на:"
+
+#: core/class-wcfmvm-frontend.php:342 core/class-wcfmvm-frontend.php:639 
+#: templates/vendor_membership.php:152 templates/vendor_membership.php:219 
+#: templates/vendor_payment.php:125
+msgid "One time payment"
+msgstr "Одноразовый платеж"
+
+#: core/class-wcfmvm-frontend.php:346 core/class-wcfmvm-frontend.php:643 
+#: templates/vendor_membership.php:155 templates/vendor_membership.php:222
+#, php-format
+msgid "for each %s %s"
+msgstr "за каждый %s %s"
+
+#: core/class-wcfmvm-frontend.php:348 core/class-wcfmvm-frontend.php:645 
+#: templates/vendor_membership.php:157 templates/vendor_membership.php:224
+#, php-format
+msgid "with %s for first %s %s"
+msgstr "с %s для первого %s %s"
+
+#: core/class-wcfmvm-frontend.php:350 core/class-wcfmvm-frontend.php:647 
+#: templates/vendor_membership.php:159 templates/vendor_membership.php:226 
+#: templates/vendor_payment.php:144
+#, php-format
+msgid "with %s %s free trial"
+msgstr "с %s %s бесплатная пробная версия"
+
+#: core/class-wcfmvm-frontend.php:366
+msgid "Cancel vendor membership: "
+msgstr "Отменить членство продавца:"
+
+#: core/class-wcfmvm-frontend.php:367 core/class-wcfmvm-frontend.php:664
+msgid "Cancel"
+msgstr "Отменить"
+
+#: core/class-wcfmvm-frontend.php:377
+msgid "Vendor not yet subscribed for a membership!"
+msgstr "Продавец еще не подписан на членство!"
+
+#: core/class-wcfmvm-frontend.php:387
+msgid "Change or Upgrade:"
+msgstr "Изменить или обновить:"
+
+#: core/class-wcfmvm-frontend.php:391
+msgid "-- Choose Membership --"
+msgstr "-- Выберите членство --"
+
+#: core/class-wcfmvm-frontend.php:427 core/class-wcfmvm-frontend.php:682
+msgid "Additional Info"
+msgstr "Дополнительная информация"
+
+#: core/class-wcfmvm-frontend.php:556
+msgid "Your subscription details:"
+msgstr "Детали вашей подписки:"
+
+#: core/class-wcfmvm-frontend.php:663
+msgid "Cancel my membership: "
+msgstr "Отменить мое членство:"
+
+#: core/class-wcfmvm-frontend.php:674
+msgid "You are not subscribed for a membership yet!"
+msgstr "Вы еще не подписаны на членство!"
+
+#: core/class-wcfmvm-frontend.php:720 core/class-wcfmvm-frontend.php:745
+#, php-format
+msgid "%sChange or Upgrade your current membership plan >>%s"
+msgstr "%sИзменить или обновить текущий тарифный план >>%s"
+
+#: core/class-wcfmvm-frontend.php:736
+msgid "OR"
+msgstr "ИЛИ"
+
+#: core/class-wcfmvm-frontend.php:750 core/class-wcfmvm.php:1094 
+#: core/class-wcfmvm.php:1166
+msgid "New Vendor"
+msgstr "Новый продавец"
+
+#: core/class-wcfmvm-frontend.php:751
+msgid "New Membership"
+msgstr "Новое членство"
+
+#: core/class-wcfmvm-frontend.php:752
+msgid "Approve Membership"
+msgstr "Утвердить членство"
+
+#: core/class-wcfmvm-frontend.php:753
+msgid "Reminder Membership"
+msgstr "Напоминание о членстве"
+
+#: core/class-wcfmvm-frontend.php:754
+msgid "Cancel Membership"
+msgstr "Отменить членство"
+
+#: core/class-wcfmvm-frontend.php:755
+msgid "Expire Membership"
+msgstr "Срок действия членства"
+
+#: core/class-wcfmvm-frontend.php:756
+msgid "Disable Vendor"
+msgstr "Отключить продавца"
+
+#: core/class-wcfmvm-frontend.php:757
+msgid "Enable Vendor"
+msgstr "Включить продавца"
+
+#: core/class-wcfmvm-frontend.php:1073
+msgid "Pay"
+msgstr "Оплатить"
+
+#: core/class-wcfmvm-frontend.php:1106
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: core/class-wcfmvm-frontend.php:1111
+msgid "Stripe Plan ID missing."
+msgstr "Stripe Plan ID missing."
+
+#: core/class-wcfmvm-frontend.php:1112 
+#: views/wcfmvm-view-memberships-manage.php:296
+#, php-format
+msgid "%sHow can I have this?%s"
+msgstr "%sКак я могу иметь это?%s"
+
+#: core/class-wcfmvm-frontend.php:1125 templates/vendor_payment.php:99 
+#: templates/vendor_payment.php:161 templates/vendor_payment.php:174 
+#: templates/vendor_payment.php:191
+msgid "Proceed"
+msgstr "Проследовать"
+
+#: core/class-wcfmvm-library.php:118 core/class-wcfmvm-library.php:125 
+#: core/class-wcfmvm-library.php:132
+msgid ""
+"Do you want to cancel this membership?\n"
+"You can't undo this action ..."
+msgstr ""
+"Вы хотите отменить это членство?\n"
+"Вы не можете отменить это действие ..."
+
+#: core/class-wcfmvm-non-ajax.php:31
+msgid "View WCFM Membership Settings"
+msgstr "Просмотр настроек членства в WCFM"
+
+#: core/class-wcfmvm-non-ajax.php:38 core/class-wcfmvm-non-ajax.php:65
+msgid "Add custom capability with each Membership Level."
+msgstr "Добавить пользовательские возможности с каждым уровнем членства."
+
+#: core/class-wcfmvm-non-ajax.php:38 core/class-wcfmvm-non-ajax.php:65
+msgid "WCFM - Groups & Staffs"
+msgstr "WCFM - Группы и сотрудники"
+
+#: core/class-wcfmvm-non-ajax.php:56
+msgid "View WCFM Membership documentation"
+msgstr "Просмотреть документацию по членству в WCFM"
+
+#: core/class-wcfmvm-pay-for-product.php:61 
+#: core/class-wcfmvm-pay-for-product.php:65 
+#: core/class-wcfmvm-pay-for-product.php:268 
+#: core/class-wcfmvm-pay-for-product.php:286 core/class-wcfmvm.php:297
+msgid "Pay for Product"
+msgstr "Оплатить товар"
+
+#: core/class-wcfmvm-pay-for-product.php:70
+msgid "Cost"
+msgstr "Стоимость"
+
+#: core/class-wcfmvm-pay-for-product.php:70
+msgid "Cost for purchasing product limit credit."
+msgstr "Стоимость покупки товара ограничена кредитом."
+
+#: core/class-wcfmvm-pay-for-product.php:71
+msgid "Product Limit Credit"
+msgstr "Кредитный лимит продукта"
+
+#: core/class-wcfmvm-pay-for-product.php:71
+msgid "No. of product(s) limit will be credited to the account."
+msgstr "Количество лимитов продуктов будет зачислено на счет."
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid "Default Product Limit"
+msgstr "Лимит продукта по умолчанию"
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid "As per capability"
+msgstr "Согласно возможности"
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid "No Limit - 0"
+msgstr "Без ограничений - 0"
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid ""
+"You may overwrite any other product limit setting by this and may set NO "
+"LIMIT to enforce vendors to purchase credit for adding new products."
+msgstr ""
+"Этим вы можете перезаписать любой другой лимит продукта и можете установить "
+"НЕТ ОГРАНИЧЕНИЯ, чтобы заставить поставщиков покупать кредит для добавления "
+"новых продуктов."
+
+#: core/class-wcfmvm-pay-for-product.php:105
+msgid "Product limit credit purchase"
+msgstr "Покупка товара в кредит"
+
+#: core/class-wcfmvm-pay-for-product.php:183
+msgid "Increase You product Limit .."
+msgstr "Увеличить лимит продукта .."
+
+#: core/class-wcfmvm-pay-for-product.php:191
+#, php-format
+msgid "Increase Limit By %s"
+msgstr "Увеличить лимит на %s"
+
+#: core/class-wcfmvm-pay-for-product.php:194
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: core/class-wcfmvm-pay-for-product.php:218
+msgid "Pay for Product succes!"
+msgstr "Оплатите продукт успешно!"
+
+#: core/class-wcfmvm-pay-for-product.php:222
+msgid "Pay for Product failed!"
+msgstr "Оплатить товар не удалось!"
+
+#: core/class-wcfmvm-pay-for-product.php:256
+msgid "Pay for Product Credit Limit"
+msgstr "Оплатить кредитный лимит продукта"
+
+#: core/class-wcfmvm-pay-for-product.php:259
+#, php-format
+msgid "%s has just purchased product credit limit: %s."
+msgstr "%s только что купил кредитный лимит продукта: %s."
+
+#: core/class-wcfmvm-pay-for-product.php:275
+msgid "Product Limit Credited"
+msgstr "Кредитный лимит продукта"
+
+#: core/class-wcfmvm-pay-for-product.php:278 
+#: core/class-wcfmvm-pay-for-product.php:297
+#, php-format
+msgid "You have just received product credit limit: %s"
+msgstr "Вы только что получили кредитный лимит продукта: %s"
+
+#: core/class-wcfmvm-pay-for-product.php:293
+#, php-format
+msgid "%s has just received product credit limit: %s"
+msgstr "%s только что получил кредитный лимит продукта: %s"
+
+#: core/class-wcfmvm-pay-for-product.php:309
+msgid "Pay for Product Credit"
+msgstr "Платите за товарный кредит"
+
+#: core/class-wcfmvm-shortcode.php:46 templates/vendor_membership.php:272 
+#: templates/vendor_membership.php:292
+msgid "Kindly logout from Admin account to have \"Subscribe Now\" button."
+msgstr ""
+"Пожалуйста, выйдите из учетной записи администратора, чтобы иметь кнопку "
+"\"Подписаться сейчас\"."
+
+#: core/class-wcfmvm-shortcode.php:59 templates/vendor_membership.php:265 
+#: templates/vendor_membership.php:285
+msgid "Your Plan"
+msgstr "Ваш план"
+
+#: core/class-wcfmvm.php:325
+msgid "Progress Bar Color"
+msgstr "Цвет прогресс бара"
+
+#: core/class-wcfmvm.php:326
+msgid "Membership Title Background Color"
+msgstr "Членство Цвет фона заголовка"
+
+#: core/class-wcfmvm.php:327
+msgid "Membership Title Color"
+msgstr "Членство Цвет заголовка"
+
+#: core/class-wcfmvm.php:328
+msgid "Table Body Background Color"
+msgstr "Цвет фона таблицы"
+
+#: core/class-wcfmvm.php:329
+msgid "Membership Price Color"
+msgstr "Членство Цвет Цены"
+
+#: core/class-wcfmvm.php:330
+msgid "Membership Price Description Color"
+msgstr "Членство Цена Цвет Описании"
+
+#: core/class-wcfmvm.php:331
+msgid "Membership Description Color"
+msgstr "Членство Описание Цвет"
+
+#: core/class-wcfmvm.php:332
+msgid "Table Border Color"
+msgstr "Цвет границы стола"
+
+#: core/class-wcfmvm.php:333
+msgid "Table Text Color"
+msgstr "Цвет текста таблицы"
+
+#: core/class-wcfmvm.php:334
+msgid "Table Background Color"
+msgstr "Цвет фона стола"
+
+#: core/class-wcfmvm.php:335
+msgid "Table Cell Heighlighter Color"
+msgstr "Цвет подсветки ячейки стола"
+
+#: core/class-wcfmvm.php:336
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: core/class-wcfmvm.php:337
+msgid "Button Hover Color"
+msgstr "Цвет наведения кнопки"
+
+#: core/class-wcfmvm.php:338
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: core/class-wcfmvm.php:339
+msgid "Preview Box Background Color"
+msgstr "Цвет фона окна предварительного просмотра"
+
+#: core/class-wcfmvm.php:340
+msgid "Preview Box Text Color"
+msgstr "Цвет текста в окне предварительного просмотра"
+
+#: core/class-wcfmvm.php:978
+msgid "Plan Details"
+msgstr "Детали плана"
+
+#: core/class-wcfmvm.php:1036 core/class-wcfmvm.php:1092 
+#: core/class-wcfmvm.php:1141 core/class-wcfmvm.php:1165
+msgid "Visit now ..."
+msgstr "Посетите сейчас ..."
+
+#: core/class-wcfmvm.php:1042 core/class-wcfmvm.php:1144
+msgid "Welcome to the store!"
+msgstr "Добро пожаловать в магазин!"
+
+#: core/class-wcfmvm.php:1044 core/class-wcfmvm.php:1096
+msgid "Membership Subscription Change"
+msgstr "Членство Изменение подписки"
+
+#: core/class-wcfmvm.php:1103
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) subscribed for <b>%s</b> membership plan."
+msgstr "<b>%s</b> (Store: <b>%s</b>) подписался на <b>%s</b> план членства."
+
+#: core/class-wcfmvm.php:1105
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) has changed membership plan to <b>%s</b>."
+msgstr "<b>%s</b> (Store: <b>%s</b>) изменил план членства на <b>%s</b>."
+
+#: core/class-wcfmvm.php:1111
+#, php-format
+msgid "You have subscribed for <b>%s</b> membership plan."
+msgstr "Вы подписались на <b>%s</b> план членства."
+
+#: core/class-wcfmvm.php:1113
+#, php-format
+msgid "You have changed membership plan to <b>%s</b>."
+msgstr "You have changed membership plan to <b>%s</b>."
+
+#: core/class-wcfmvm.php:1149
+msgid "{site_name}: A new vendor registered"
+msgstr "{site_name}: Новый продавец зарегистрирован"
+
+#: core/class-wcfmvm.php:1171
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) successfully registered to our site."
+msgstr "<b>%s</b> (Store: <b>%s</b>) успешно зарегистрирован на нашем сайте."
+
+#: core/class-wcfmvm.php:1175
+msgid "You have successfully registered to our site."
+msgstr "Вы успешно зарегистрировались на нашем сайте."
+
+#: core/class-wcfmvm.php:1394
+msgid "WC Subscription Cancellation"
+msgstr "Аннулирование подписки на WC"
+
+#: core/class-wcfmvm.php:1470
+msgid "No Membership"
+msgstr "Нет членства"
+
+#: core/class-wcfmvm.php:1474
+msgid "Check Here ..."
+msgstr "Проверьте здесь ..."
+
+#: core/class-wcfmvm.php:1475
+msgid "Vendor Approval"
+msgstr "Утверждение продавца"
+
+#: core/class-wcfmvm.php:1488
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) vendor application waiting for approval."
+msgstr "<b>%s</b> (Store: <b>%s</b>) Приложение поставщика ожидает одобрения."
+
+#: core/class-wcfmvm.php:1490
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) subscription for <b>%s</b> plan waiting for "
+"approval."
+msgstr ""
+"<b>%s</b> (Store: <b>%s</b>) подписка на <b>%s</b> план ждет одобрения."
+
+#: core/class-wcfmvm.php:1548
+msgid "Membership Subscription Cancel"
+msgstr "Членство Подписка Отмена"
+
+#: core/class-wcfmvm.php:1554
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) membership plan <b>%s</b> has been cancelled."
+msgstr "<b>%s</b> (Store: <b>%s</b>) план членства <b>%s</b> была отменена."
+
+#: core/class-wcfmvm.php:1560
+#, php-format
+msgid "Your membership plan <b>%s</b> has been cancelled."
+msgstr "Ваш тарифный план <b>%s</b> был отменен."
+
+#: core/class-wcfmvm.php:1654
+msgid "Membership Subscription Expired"
+msgstr "Членство Срок действия подписки истек"
+
+#: core/class-wcfmvm.php:1660
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) membership plan <b>%s</b> has been expired."
+msgstr "<b>%s</b> (Store: <b>%s</b>) план членства <b>%s</b> истек."
+
+#: core/class-wcfmvm.php:1666
+#, php-format
+msgid "Your membership plan <b>%s</b> has been expired."
+msgstr "Ваш тарифный план <b>%s</b> истек."
+
+#: core/class-wcfmvm.php:1756
+#, php-format
+msgid "Subscription cancelled at %s"
+msgstr "Подписка отменена на %s"
+
+#: core/class-wcfmvm.php:1915 core/class-wcfmvm.php:1918
+msgid "in"
+msgstr "в"
+
+#: core/class-wcfmvm.php:1915 core/class-wcfmvm.php:1918
+msgid "Days"
+msgstr "Дней"
+
+#: core/class-wcfmvm.php:1922
+msgid "Today"
+msgstr "Сегодня"
+
+#: core/class-wcfmvm.php:1948
+msgid "Membership Subscription Renewal"
+msgstr "Членство Обновление подписки"
+
+#: core/class-wcfmvm.php:1950
+msgid "Subscription Next Payment"
+msgstr "Подписка Следующий платеж"
+
+#: core/class-wcfmvm.php:1958
+#, php-format
+msgid "<b>%s</b> membership plan (<strong>%s</strong>) will expire <b>%s</b>."
+msgstr "<b>%s</b> план членства (<strong>%s</strong>) истечет <b>%s</b>."
+
+#: core/class-wcfmvm.php:1960
+#, php-format
+msgid ""
+"<b>%s</b> membership plan (<strong>%s</strong>) subscription next billing "
+"date <b>%s</b>."
+msgstr ""
+"<b>%s</b> план членства (<strong>%s</strong>) подписка следующая дата "
+"выставления счета <b>%s</b>."
+
+#: core/class-wcfmvm.php:1968
+#, php-format
+msgid "Your membership plan (<strong>%s</strong>) will expire <b>%s</b>."
+msgstr ""
+"Срок действия вашего плана членства (<strong>%s</strong>) истечет <b>%s</b>."
+
+#: core/class-wcfmvm.php:1970
+#, php-format
+msgid ""
+"Your membership plan (<strong>%s</strong>) subscription next billing date <b>"
+"%s</b>."
+msgstr ""
+"Ваш план членства (<strong>%s</strong>) подписка следующая дата выставления "
+"счета <b>%s</b>."
+
+#: helpers/class-wcfmvm-install.php:98
+msgid "Vendor Membership"
+msgstr "Продавец Членство"
+
+#: helpers/class-wcfmvm-install.php:99
+msgid "Vendor Registration"
+msgstr "Регистрация продавца"
+
+#: helpers/wcfmvm-core-functions.php:159
+msgid "PayPal"
+msgstr "PayPal"
+
+#: helpers/wcfmvm-core-functions.php:160
+msgid "Stripe"
+msgstr "Stripe"
+
+#: helpers/wcfmvm-core-functions.php:161
+msgid "Bank Transfer"
+msgstr "Банковский перевод"
+
+#: helpers/wcfmvm-core-functions.php:206 helpers/wcfmvm-core-functions.php:221 
+#: templates/vendor_registration.php:405
+msgid "Plans"
+msgstr "Планы"
+
+#: helpers/wcfmvm-core-functions.php:208 helpers/wcfmvm-core-functions.php:222 
+#: templates/vendor_payment.php:91
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+#: helpers/wcfmvm-core-functions.php:232
+msgid "Payment"
+msgstr "Оплата"
+
+#: helpers/wcfmvm-core-functions.php:237
+msgid "Profile"
+msgstr "Профиль"
+
+#: helpers/wcfmvm-core-functions.php:304
+msgid "Please insert Membership Name before submit."
+msgstr "Пожалуйста, введите имя участника перед отправкой."
+
+#: helpers/wcfmvm-core-functions.php:305
+msgid "Membership Saving Failed."
+msgstr "Членство Ошибка сохранения."
+
+#: helpers/wcfmvm-core-functions.php:306
+msgid "Membership Successfully Saved."
+msgstr "Членство Успешно сохранено."
+
+#: helpers/wcfmvm-core-functions.php:318
+msgid "Please insert Username before submit."
+msgstr "Пожалуйста, введите имя пользователя перед отправкой."
+
+#: helpers/wcfmvm-core-functions.php:319
+msgid "Please insert Email before submit."
+msgstr "Пожалуйста, введите адрес электронной почты перед отправкой."
+
+#: helpers/wcfmvm-core-functions.php:320
+msgid ""
+"This Username already exists. Please login to the site and apply as vendor."
+msgstr ""
+"Такое имя пользователя уже существует. Пожалуйста, войдите на сайт и подайте "
+"заявку в качестве продавца."
+
+#: helpers/wcfmvm-core-functions.php:321
+msgid ""
+"This Email already exists. Please login to the site and apply as vendor."
+msgstr ""
+"Это письмо уже существует. Пожалуйста, войдите на сайт и подайте заявку в "
+"качестве продавца."
+
+#: helpers/wcfmvm-core-functions.php:322
+msgid "Email verification code invalid."
+msgstr "Код подтверждения адреса электронной почты недействителен."
+
+#: helpers/wcfmvm-core-functions.php:323
+msgid "Phone verification code (OTP) invalid."
+msgstr "Телефонный код подтверждения (OTP) недействителен."
+
+#: helpers/wcfmvm-core-functions.php:324
+msgid "Registration Failed."
+msgstr "Регистрация не удалась."
+
+#: helpers/wcfmvm-core-functions.php:325
+msgid "Registration Successfully Completed."
+msgstr "Регистрация успешно завершена."
+
+#: helpers/wcfmvm-core-functions.php:337
+msgid "No Membership ID found, please try again."
+msgstr "ID участника не найден, пожалуйста, попробуйте еще раз."
+
+#: helpers/wcfmvm-core-functions.php:338
+msgid "Subscription Failed."
+msgstr "Сбой подписки."
+
+#: helpers/wcfmvm-core-functions.php:339
+msgid "Subscription Successfully Completed."
+msgstr "Подписка успешно завершена."
+
+#: helpers/wcfmvm-core-functions.php:374 helpers/wcfmvm-core-functions.php:391 
+#: views/wcfmvm-view-memberships-settings.php:499
+msgid "Tax"
+msgstr "Налог"
+
+#: helpers/wcfmvm-core-functions.php:378
+msgid "will be applied"
+msgstr "будет применяться"
+
+#: helpers/wcfmvm-core-functions.php:379
+msgid "applied"
+msgstr "прикладная"
+
+#: templates/vendor_membership.php:136 templates/vendor_membership.php:203
+msgid "Most Popular"
+msgstr "Самый популярный"
+
+#: templates/vendor_membership.php:148 templates/vendor_membership.php:215
+msgid "No payment required"
+msgstr "Оплата не требуется"
+
+#: templates/vendor_membership.php:262 templates/vendor_membership.php:282
+msgid "Extend Subscription"
+msgstr "Продлить подписку"
+
+#: templates/vendor_membership_block.php:18
+#, php-format
+msgid ""
+"Restricted: You are not allowed to access this page. May be you already have "
+"a %sMembership Plan%s or your %sUser Role%s does not allow for this action. "
+"%sPlease contact %sStore Admin%s for more details."
+msgstr ""
+"Ограничено: Вам не разрешен доступ к этой странице. Может быть, у вас уже "
+"есть %sMembership Plan%s или ваш %sUser Role%s не допускает это действие. "
+"%sПожалуйста, свяжитесь с %sStore Admin%s для большей подробности."
+
+#: templates/vendor_no_free_membership.php:18
+#, php-format
+msgid ""
+"Restricted: There is no %sFREE Membership Plan%s in the system or you are "
+"not allowed to access this page. Please contact %sStore Admin%s for more "
+"details."
+msgstr ""
+"Запрещено: нет %sБЕСПЛАТНЫЙ план членства%s в системе, или вы не можете "
+"получить доступ к этой странице. Пожалуйста, свяжитесь с %sStore Admin%s для "
+"большей подробности."
+
+#: templates/vendor_payment.php:54
+msgid ""
+"Something Wrong: You are not allowed to access this page now. Please contact "
+"Store Admin for more details."
+msgstr ""
+"Что-то не так: Вам не разрешен доступ к этой странице сейчас. Пожалуйста, "
+"свяжитесь с администратором магазина для более подробной информации."
+
+#: templates/vendor_payment.php:65
+msgid "Review your plan:"
+msgstr "Проверьте ваш план:"
+
+#: templates/vendor_payment.php:106
+msgid "Payment options:"
+msgstr "Варианты оплаты:"
+
+#: templates/vendor_payment.php:134
+#, php-format
+msgid "%s for first %s %s"
+msgstr "%s для первого %s %s"
+
+#: templates/vendor_payment.php:135
+#, php-format
+msgid "and then %s for each %s %s"
+msgstr "а затем %s для каждого %s %s"
+
+#: templates/vendor_payment.php:143 templates/vendor_payment.php:148
+#, php-format
+msgid "%s for each %s %s"
+msgstr "%s для каждого %s %s"
+
+#: templates/vendor_registration.php:67 templates/vendor_registration.php:73
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: templates/vendor_registration.php:96
+msgid "Email already verified"
+msgstr "Email  уже подтверждён"
+
+#: templates/vendor_registration.php:105
+msgid "Email Verification Code: "
+msgstr "Код подтверждения адреса электронной почты:"
+
+#: templates/vendor_registration.php:105
+msgid "Verification Code"
+msgstr "Код подтверждения"
+
+#: templates/vendor_registration.php:106 templates/vendor_registration.php:147
+msgid "Re-send Code"
+msgstr "Отправить код еще раз"
+
+#: templates/vendor_registration.php:137
+msgid "Phone already verified"
+msgstr "Телефон уже подтвержден"
+
+#: templates/vendor_registration.php:146
+msgid "Phone Verification Code: "
+msgstr "Телефонный код подтверждения:"
+
+#: templates/vendor_registration.php:146
+msgid "OTP"
+msgstr "OTP"
+
+#: templates/vendor_registration.php:182
+msgid "your_store"
+msgstr "your_store"
+
+#: templates/vendor_registration.php:184
+msgid "Available"
+msgstr "Имеется в наличии"
+
+#: templates/vendor_registration.php:184
+msgid "Un-available"
+msgstr "Недоступен"
+
+#: templates/vendor_registration.php:354
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/vendor_registration.php:354
+msgid "Password and Confirm-password are not same."
+msgstr "Пароль и Подтверждение пароля не совпадают."
+
+#: templates/vendor_registration.php:356
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+#: templates/vendor_registration.php:365 templates/vendor_registration.php:370
+msgid "Agree"
+msgstr "Согласен"
+
+#: templates/vendor_registration.php:365 templates/vendor_registration.php:373 
+#: templates/vendor_registration.php:375
+msgid "Terms & Conditions"
+msgstr "Условия использования"
+
+#: templates/vendor_registration.php:403
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: templates/vendor_registration.php:403
+msgid "Register"
+msgstr "Регистр"
+
+#: templates/vendor_registration.php:408
+msgid "Your user role not allowed to subscription!"
+msgstr "Ваша роль пользователя не разрешена для подписки!"
+
+#: templates/vendor_thankyou.php:61
+msgid "Goto Dashboard"
+msgstr "Перейти к приборной панели"
+
+#: templates/vendor_thankyou.php:62
+msgid "Setup your store"
+msgstr "Настройте свой магазин"
+
+#: views/wcfmvm-view-capability.php:31
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: views/wcfmvm-view-memberships-disable.php:21
+#, php-format
+msgid ""
+"Restricted: You are not allowed to access this page. May be you do not have "
+"a %sMulti-vendor Plugin%s on your site."
+msgstr ""
+"Ограничено: Вам не разрешен доступ к этой странице. Возможно, у вас нет "
+"%sMulti-vendor Plugin%s на вашем сайте."
+
+#: views/wcfmvm-view-memberships-manage.php:125
+msgid "- Choose a Group -"
+msgstr "- Выберите группу -"
+
+#: views/wcfmvm-view-memberships-manage.php:165
+msgid "Percent"
+msgstr "Процент"
+
+#: views/wcfmvm-view-memberships-manage.php:165
+msgid "Fixed"
+msgstr "Исправлена"
+
+#: views/wcfmvm-view-memberships-manage.php:174
+msgid "Manage Membership"
+msgstr "Управление членством"
+
+#: views/wcfmvm-view-memberships-manage.php:181
+msgid "Edit Membership"
+msgstr "Изменить членство"
+
+#: views/wcfmvm-view-memberships-manage.php:181
+msgid "Add Membership"
+msgstr "Добавить членство"
+
+#: views/wcfmvm-view-memberships-manage.php:187 
+#: views/wcfmvm-view-memberships-settings.php:310 
+#: views/wcfmvm-view-memberships.php:36
+msgid "Add New Membership"
+msgstr "Добавить новое членство"
+
+#: views/wcfmvm-view-memberships-manage.php:189 
+#: views/wcfmvm-view-memberships-settings.php:312 
+#: views/wcfmvm-view-memberships.php:38
+msgid "Membership Plan Table"
+msgstr "Таблица плана членства"
+
+#: views/wcfmvm-view-memberships-manage.php:190 
+#: views/wcfmvm-view-memberships-settings.php:313 
+#: views/wcfmvm-view-memberships.php:39
+msgid "Tutorial"
+msgstr "Руководство"
+
+#: views/wcfmvm-view-memberships-manage.php:207
+msgid "Disable Membership"
+msgstr "Отключить членство"
+
+#: views/wcfmvm-view-memberships-manage.php:208
+msgid "Hide from Plan Table"
+msgstr "Скрыть из таблицы плана"
+
+#: views/wcfmvm-view-memberships-manage.php:208
+msgid "Set this ON to hide this mebership level from Membership plan table."
+msgstr ""
+"Установите это ВКЛ, чтобы скрыть этот уровень членства из таблицы плана "
+"членства."
+
+#: views/wcfmvm-view-memberships-manage.php:209
+msgid "One Time Subscription"
+msgstr "Одноразовая подписка"
+
+#: views/wcfmvm-view-memberships-manage.php:209
+msgid ""
+"Enable this to restrict users from subscribe more than once to this plan."
+msgstr ""
+"Включите это, чтобы запретить пользователям подписываться на этот план более "
+"одного раза."
+
+#: views/wcfmvm-view-memberships-manage.php:210
+msgid "Name"
+msgstr "Название"
+
+#: views/wcfmvm-view-memberships-manage.php:211 
+#: views/wcfmvm-view-memberships-settings.php:371
+msgid "Subscribe Button Label"
+msgstr "Ярлык кнопки подписки"
+
+#: views/wcfmvm-view-memberships-manage.php:212
+msgid "Description"
+msgstr "Описание"
+
+#: views/wcfmvm-view-memberships-manage.php:213
+msgid "Subscribe Button"
+msgstr "Кнопка подписки"
+
+#: views/wcfmvm-view-memberships-manage.php:213
+msgid ""
+"Add this short code anywhere to your site to show subscribe button for this "
+"membership plan. Default button label `Subscribe Now`, change using "
+"parameter `subscribe_now`. e.g. [wcfmvm_subscribe id=\"599\" "
+"subscribe_now=\"Register Now\"]"
+msgstr ""
+"Добавьте этот короткий код в любое место на свой сайт, чтобы показать кнопку "
+"подписки для этого плана членства. Метка кнопки по умолчанию `Подписаться "
+"сейчас`, изменить с помощью параметра `subscribe_now`. e.g. "
+"[wcfmvm_subscribe id=\"599\" subscribe_now=\"Зарегистрироваться\"]"
+
+#: views/wcfmvm-view-memberships-manage.php:226 
+#: views/wcfmvm-view-memberships-settings.php:400
+msgid "Features"
+msgstr "Характеристики"
+
+#: views/wcfmvm-view-memberships-manage.php:244
+msgid "First setup membership basic settings"
+msgstr "Первая настройка членства основные настройки"
+
+#: views/wcfmvm-view-memberships-manage.php:244 
+#: views/wcfmvm-view-memberships-manage.php:247
+msgid "here"
+msgstr "здесь"
+
+#: views/wcfmvm-view-memberships-manage.php:247
+msgid "Define feature list from membership basic settings"
+msgstr "Определить список функций из основных настроек членства"
+
+#: views/wcfmvm-view-memberships-manage.php:258
+msgid "Subscription"
+msgstr "Подписка"
+
+#: views/wcfmvm-view-memberships-manage.php:264
+msgid "Free Membership"
+msgstr "Бесплатное членство"
+
+#: views/wcfmvm-view-memberships-manage.php:270
+msgid "Subscription Type"
+msgstr "Тип подписки"
+
+#: views/wcfmvm-view-memberships-manage.php:270
+msgid "Recurring"
+msgstr "Периодическая"
+
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid "Payment Mode"
+msgstr "Режим оплаты"
+
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid ""
+"WC Checkout option will allow to process payment using WC default checkout "
+"page, all WC payment gateways supported."
+msgstr ""
+"Опция WC Checkout позволит обрабатывать платеж, используя страницу проверки "
+"WC по умолчанию, поддерживаются все платежные шлюзы WC."
+
+#: views/wcfmvm-view-memberships-manage.php:272
+msgid "This product will be used at WC checkout for membership purchase."
+msgstr "Этот продукт будет использоваться на кассе WC для покупки членства."
+
+#: views/wcfmvm-view-memberships-manage.php:281
+msgid "Payment Amount"
+msgstr "Сумма оплаты"
+
+#: views/wcfmvm-view-memberships-manage.php:281
+msgid ""
+"Enter payment amount. Example values: 10.00 or 19.50 or 299.95 etc (do not "
+"put currency symbol)."
+msgstr ""
+"Введите сумму платежа. Пример значения: 10,00 или 19,50 или 299,95 и т. д. "
+"(Не ставьте символ валюты)."
+
+#: views/wcfmvm-view-memberships-manage.php:290
+#, php-format
+msgid ""
+"<b>PayPal</b> does not support Free trial, if leave empty it will be "
+"considered as <b>%s1</b>."
+msgstr ""
+"<b>PayPal</b> не поддерживает бесплатную пробную версию, если оставить "
+"пустым, он будет считаться <b>%s1</b>."
+
+#: views/wcfmvm-view-memberships-manage.php:294
+msgid ""
+"<b>Stripe</b> does not support trial amount, trial period will be always <b>"
+"FREE</b>."
+msgstr ""
+"<b>Stripe</b> не поддерживает пробную сумму, пробный период будет всегда <b>"
+"Бесплатно</b>."
+
+#: views/wcfmvm-view-memberships-manage.php:296
+msgid "Stripe Plan ID"
+msgstr "Stripe Plan ID"
+
+#: views/wcfmvm-view-memberships-manage.php:296
+msgid "ID of the plan that you want subscribers to be assigned to."
+msgstr "ID плана, которому вы хотите назначить подписчиков."
+
+#: views/wcfmvm-view-memberships-manage.php:301
+msgid ""
+"Trial Billing Details (Leave empty if you are not offering a trial period)"
+msgstr ""
+"Сведения о пробном счете (оставьте пустым, если вы не предлагаете пробный "
+"период)"
+
+#: views/wcfmvm-view-memberships-manage.php:305
+msgid "Trial Billing Period"
+msgstr "Пробный платежный период"
+
+#: views/wcfmvm-view-memberships-manage.php:305
+msgid ""
+"Length of the trial period. Leave empty to disable trial period for this "
+"subscription."
+msgstr ""
+"Продолжительность испытательного срока. Оставьте пустым, чтобы отключить "
+"пробный период для этой подписки."
+
+#: views/wcfmvm-view-memberships-manage.php:307
+msgid "Trial Billing Amount"
+msgstr "Сумма пробного платежа"
+
+#: views/wcfmvm-view-memberships-manage.php:307
+msgid ""
+"Amount to be charged for the trial period. Leave empty if you want to offer "
+"a free trial period."
+msgstr ""
+"Сумма, взимаемая за пробный период. Оставьте пустым, если хотите предложить "
+"бесплатный пробный период."
+
+#: views/wcfmvm-view-memberships-manage.php:311
+msgid "Billing Details"
+msgstr "Платежные реквизиты"
+
+#: views/wcfmvm-view-memberships-manage.php:315
+msgid "Billing Amount Each Cycle"
+msgstr "Сумма счета за каждый цикл"
+
+#: views/wcfmvm-view-memberships-manage.php:315
+msgid ""
+"Amount to be charged on every billing cycle. If used with a trial period "
+"then this amount will be charged after the trial period is over. Example "
+"values: 10.00 or 19.50 or 299.95 etc (do not put currency symbol)."
+msgstr ""
+"Сумма, взимаемая за каждый платежный цикл. Если используется пробный период, "
+"то эта сумма будет списана после окончания пробного периода. Пример значения:"
+" 10,00 или 19,50 или 299,95 и т. д. (Не ставьте символ валюты)."
+
+#: views/wcfmvm-view-memberships-manage.php:316
+msgid "Billing Cycle"
+msgstr "Платежный цикл"
+
+#: views/wcfmvm-view-memberships-manage.php:316
+msgid ""
+"Set the interval of the recurring payment. Example value: 1 Month (if you "
+"want to charge every month)"
+msgstr ""
+"Установите интервал регулярного платежа. Пример значения: 1 месяц (если вы "
+"хотите заряжать каждый месяц)"
+
+#: views/wcfmvm-view-memberships-manage.php:318
+msgid "Billing Cycle Count"
+msgstr "Счетчик платежных циклов"
+
+#: views/wcfmvm-view-memberships-manage.php:318
+msgid ""
+"After how many cycles should billing stop. Leave this field empty (or enter "
+"0) if you want the payment to continue until the subscription is canceled."
+msgstr ""
+"Через сколько циклов биллинг должен прекратиться. Оставьте это поле пустым "
+"(или введите 0), если вы хотите, чтобы платеж продолжался до отмены подписки."
+
+#: views/wcfmvm-view-memberships-manage.php:319
+msgid "Re-attempt on Failure"
+msgstr "Повторная попытка отказа"
+
+#: views/wcfmvm-view-memberships-manage.php:319
+msgid ""
+"When checked, the payment will be re-attempted two more times if the payment "
+"fails. After the third failure, the subscription will be canceled."
+msgstr ""
+"Если этот флажок установлен, платеж будет повторен еще два раза, если платеж "
+"не прошел. После третьего сбоя подписка будет отменена."
+
+#: views/wcfmvm-view-memberships-manage.php:327
+msgid "Expire After"
+msgstr "Истекает после"
+
+#: views/wcfmvm-view-memberships-manage.php:327
+msgid ""
+"Length of the subscripton period. Set `Never Expire` leave this field empty."
+msgstr ""
+"Продолжительность подписного периода. Установите `Никогда не истекает`, "
+"оставьте это поле пустым."
+
+#: views/wcfmvm-view-memberships-manage.php:340
+msgid "Approval"
+msgstr "Утверждение"
+
+#: views/wcfmvm-view-memberships-manage.php:346 
+#: views/wcfmvm-view-memberships-settings.php:351
+msgid "Required Approval"
+msgstr "Требуется утверждение"
+
+#: views/wcfmvm-view-memberships-manage.php:346 
+#: views/wcfmvm-view-memberships-settings.php:351
+msgid "Whether user required Admin Approval to become vendor or not!"
+msgstr ""
+"Требуется ли пользователю утверждение администратора, чтобы стать "
+"поставщиком, или нет!"
+
+#: views/wcfmvm-view-memberships-manage.php:347 
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "If Application Rejected?"
+msgstr "Если заявка отклонена?"
+
+#: views/wcfmvm-view-memberships-manage.php:347 
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "Keep as normal user"
+msgstr "Сохранить как обычный пользователь"
+
+#: views/wcfmvm-view-memberships-manage.php:347 
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "Delete user from system"
+msgstr "Удалить пользователя из системы"
+
+#: views/wcfmvm-view-memberships-manage.php:347 
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "This rule will be applicable if a vendor application reject by Admin."
+msgstr ""
+"Это правило будет применяться, если приложение продавца отклонено "
+"администратором."
+
+#: views/wcfmvm-view-memberships-manage.php:358
+msgid "Commission"
+msgstr "Комиссия"
+
+#: views/wcfmvm-view-memberships-manage.php:364
+msgid "Commission Type"
+msgstr "Тип комиссии"
+
+#: views/wcfmvm-view-memberships-manage.php:365
+msgid "Commission Value"
+msgstr "Значение комиссии"
+
+#: views/wcfmvm-view-memberships-manage.php:378
+msgid "Capability"
+msgstr "Возможность"
+
+#: views/wcfmvm-view-memberships-manage.php:382
+msgid "Capability Controller"
+msgstr "Контроллер возможностей"
+
+#: views/wcfmvm-view-memberships-manage.php:388
+msgid "Associate Group"
+msgstr "Ассоциированная группа"
+
+#: views/wcfmvm-view-memberships-manage.php:392
+msgid "Associate Capability"
+msgstr "Ассоциированная способность"
+
+#: views/wcfmvm-view-memberships-manage.php:405
+msgid "Badges"
+msgstr "Значки"
+
+#: views/wcfmvm-view-memberships-manage.php:414
+msgid "Member Badges"
+msgstr "Значки участников"
+
+#: views/wcfmvm-view-memberships-manage.php:416
+#, php-format
+msgid "<a target=\"_blank\" href=\"%s\">Know more about WCFM Badges.</a>"
+msgstr "<a target=\"_blank\" href=\"%s\">Узнайте больше о значках WCFM.</a>"
+
+#: views/wcfmvm-view-memberships-settings.php:278
+msgid "- Choose Membership -"
+msgstr "- Выберите членство -"
+
+#: views/wcfmvm-view-memberships-settings.php:305
+msgid "Membership General Options"
+msgstr "Общие параметры членства"
+
+#: views/wcfmvm-view-memberships-settings.php:357
+msgid "OPT Verification on Registration"
+msgstr "Подтверждение OPT при регистрации"
+
+#: views/wcfmvm-view-memberships-settings.php:363
+msgid "Email Verification on Registration"
+msgstr "Подтверждение электронной почты при регистрации"
+
+#: views/wcfmvm-view-memberships-settings.php:364
+msgid "Custom Plan Page"
+msgstr "Пользовательская страница плана"
+
+#: views/wcfmvm-view-memberships-settings.php:364
+msgid ""
+"You have created your own membership plan page then set that here. It is "
+"important when vendors will change plan."
+msgstr ""
+"Вы создали свою собственную страницу плана членства, а затем установите ее "
+"здесь. Важно, когда продавцы будут менять план."
+
+#: views/wcfmvm-view-memberships-settings.php:365
+msgid "Custom Thank You Page"
+msgstr "Пользовательская страница благодарности"
+
+#: views/wcfmvm-view-memberships-settings.php:365
+msgid "You have created your own thank you page then set that here."
+msgstr ""
+"Вы создали свою собственную страницу благодарности, а затем установите ее "
+"здесь."
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid "Subscription First Step"
+msgstr "Первый шаг подписки"
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid "Choose Plan"
+msgstr "Выберите план"
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid ""
+"This will ensure which will be first step of membership subscription - Plan "
+"selection or Registration."
+msgstr ""
+"Это гарантирует, какой будет первый шаг подписки на членство - выбор плана "
+"или регистрация."
+
+#: views/wcfmvm-view-memberships-settings.php:369
+msgid "Basic Membership"
+msgstr "Основное членство"
+
+#: views/wcfmvm-view-memberships-settings.php:369
+msgid ""
+"This membership will auto-assign to vendors when subscription expired or "
+"recurring subscription cancelled."
+msgstr ""
+"Это членство будет автоматически назначаться продавцам по истечении срока "
+"действия подписки или отмене повторяющейся подписки."
+
+#: views/wcfmvm-view-memberships-settings.php:370
+msgid "Featured Membership"
+msgstr "Рекомендуемое членство"
+
+#: views/wcfmvm-view-memberships-settings.php:374
+msgid "Membership plan display visibility priority (Left to Right)"
+msgstr "План членства отображает приоритет видимости (Слева Направо)"
+
+#: views/wcfmvm-view-memberships-settings.php:383
+msgid "Priority"
+msgstr "Приоритет"
+
+#: views/wcfmvm-view-memberships-settings.php:388
+msgid "Please define some membership level first."
+msgstr "Пожалуйста, сначала определите уровень членства."
+
+#: views/wcfmvm-view-memberships-settings.php:406
+msgid "Features List"
+msgstr "Список возможностей"
+
+#: views/wcfmvm-view-memberships-settings.php:407
+msgid "Feature"
+msgstr "Особенность"
+
+#: views/wcfmvm-view-memberships-settings.php:408
+msgid "Help Message"
+msgstr "Справочное сообщение"
+
+#: views/wcfmvm-view-memberships-settings.php:419
+msgid "Registration Fields"
+msgstr "Поля регистрации"
+
+#: views/wcfmvm-view-memberships-settings.php:423
+msgid "Registration Form Fields"
+msgstr "Поля регистрационной формы"
+
+#: views/wcfmvm-view-memberships-settings.php:427
+msgid "-- Choose Terms Page --"
+msgstr "-- Выберите страницу условий --"
+
+#: views/wcfmvm-view-memberships-settings.php:446
+msgid "Registration Form Custom Fields"
+msgstr "Пользовательские поля формы регистрации"
+
+#: views/wcfmvm-view-memberships-settings.php:470
+msgid "Payment Methods"
+msgstr "Способы оплаты"
+
+#: views/wcfmvm-view-memberships-settings.php:471
+msgid "Enable Test Mode"
+msgstr "Включить тестовый режим"
+
+#: views/wcfmvm-view-memberships-settings.php:472
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#: views/wcfmvm-view-memberships-settings.php:476
+msgid "Stripe Live Publishable Key"
+msgstr "Stripe Live Publishable Key"
+
+#: views/wcfmvm-view-memberships-settings.php:477
+msgid "Stripe Live Secret Key"
+msgstr "Stripe Live Secret Key"
+
+#: views/wcfmvm-view-memberships-settings.php:478
+msgid "Stripe Test Publishable Key"
+msgstr "Stripe Test Publishable Key"
+
+#: views/wcfmvm-view-memberships-settings.php:479
+msgid "Stripe Test Secret Key"
+msgstr "Stripe Test Secret Key"
+
+#: views/wcfmvm-view-memberships-settings.php:480
+msgid "Bank Details"
+msgstr "Банковские реквизиты"
+
+#: views/wcfmvm-view-memberships-settings.php:481
+msgid "Payment Terms"
+msgstr "Условия оплаты"
+
+#: views/wcfmvm-view-memberships-settings.php:492
+msgid "Tax Setting"
+msgstr "Настройка налогов"
+
+#: views/wcfmvm-view-memberships-settings.php:498
+msgid "Enable"
+msgstr "Включить"
+
+#: views/wcfmvm-view-memberships-settings.php:498
+msgid "Enable this to apply tax on subscription costs."
+msgstr "Включите это, чтобы применить налог на стоимость подписки."
+
+#: views/wcfmvm-view-memberships-settings.php:499
+msgid "Tax Label"
+msgstr "Налоговая метка"
+
+#: views/wcfmvm-view-memberships-settings.php:500
+msgid "Tax Percent (%)"
+msgstr "Процент налога (%)"
+
+#: views/wcfmvm-view-memberships-settings.php:515
+msgid "Thank You Page Content"
+msgstr "Спасибо, Содержание страницы"
+
+#: views/wcfmvm-view-memberships-settings.php:520
+msgid "Free Membership Thank You page content"
+msgstr "Бесплатное членство Спасибо за содержание страницы"
+
+#: views/wcfmvm-view-memberships-settings.php:520
+msgid "This content will be visible when user subscribe to FREE plan."
+msgstr "Этот контент будет виден, когда пользователь оплатит через PayPal."
+
+#: views/wcfmvm-view-memberships-settings.php:520
+msgid ""
+"Please don't include Dashboard URL, it will be automatically append with the "
+"content."
+msgstr ""
+"Пожалуйста, не включайте URL панели инструментов, он будет автоматически "
+"добавляться к контенту."
+
+#: views/wcfmvm-view-memberships-settings.php:524
+msgid "On Approval Thank You Page Content"
+msgstr "Об одобрении содержимого страницы с благодарностью"
+
+#: views/wcfmvm-view-memberships-settings.php:528
+msgid "Subscription membership Thank You page content"
+msgstr "Подписка на членство Спасибо за содержание страницы"
+
+#: views/wcfmvm-view-memberships-settings.php:528
+msgid "This content will be visible when user pay via PayPal."
+msgstr "Этот контент будет виден, когда пользователь оплатит через PayPal."
+
+#: views/wcfmvm-view-memberships-settings.php:540
+msgid "Welcome Email"
+msgstr "Приветственное Email"
+
+#: views/wcfmvm-view-memberships-settings.php:544
+msgid "Vendor Welcome Email"
+msgstr "Приветствие Продавца Email"
+
+#: views/wcfmvm-view-memberships-settings.php:548
+msgid "Non-Membership Notification Subject"
+msgstr "Тема уведомления, не связанная с членством"
+
+#: views/wcfmvm-view-memberships-settings.php:549
+msgid "Non-Membership Notification Content"
+msgstr "Содержание уведомлений, не связанных с членством"
+
+#: views/wcfmvm-view-memberships-settings.php:554
+msgid "Membership Notification Subject"
+msgstr "Тема уведомления о членстве"
+
+#: views/wcfmvm-view-memberships-settings.php:555
+msgid "Membership Notification Content"
+msgstr "Содержание уведомления о членстве"
+
+#: views/wcfmvm-view-memberships-settings.php:567 
+#: views/wcfmvm-view-memberships-settings.php:601
+msgid "Admin Notification"
+msgstr "Уведомление администратора"
+
+#: views/wcfmvm-view-memberships-settings.php:571
+msgid "New Subscription Notification"
+msgstr "Уведомление о новой подписке"
+
+#: views/wcfmvm-view-memberships-settings.php:575 
+#: views/wcfmvm-view-memberships-settings.php:584 
+#: views/wcfmvm-view-memberships-settings.php:605 
+#: views/wcfmvm-view-memberships-settings.php:614 
+#: views/wcfmvm-view-memberships-settings.php:636 
+#: views/wcfmvm-view-memberships-settings.php:658 
+#: views/wcfmvm-view-memberships-settings.php:681 
+#: views/wcfmvm-view-memberships-settings.php:703 
+#: views/wcfmvm-view-memberships-settings.php:725
+msgid "Notification Subject"
+msgstr "Тема уведомления"
+
+#: views/wcfmvm-view-memberships-settings.php:576 
+#: views/wcfmvm-view-memberships-settings.php:585 
+#: views/wcfmvm-view-memberships-settings.php:606 
+#: views/wcfmvm-view-memberships-settings.php:615 
+#: views/wcfmvm-view-memberships-settings.php:637 
+#: views/wcfmvm-view-memberships-settings.php:659 
+#: views/wcfmvm-view-memberships-settings.php:726
+msgid "Notification Content"
+msgstr "Содержание уведомления"
+
+#: views/wcfmvm-view-memberships-settings.php:580
+msgid "New Subscription Approval Notification"
+msgstr "Уведомление об утверждении новой подписки"
+
+#: views/wcfmvm-view-memberships-settings.php:597
+msgid "Membership Change"
+msgstr "Изменение членства"
+
+#: views/wcfmvm-view-memberships-settings.php:610
+msgid "Vendor Notification"
+msgstr "Уведомление Продавца"
+
+#: views/wcfmvm-view-memberships-settings.php:626
+msgid "Next Payment"
+msgstr "Следующий платеж"
+
+#: views/wcfmvm-view-memberships-settings.php:630
+msgid "Recurring Next Payment Notification"
+msgstr "Повторное уведомление о следующем платеже"
+
+#: views/wcfmvm-view-memberships-settings.php:634 
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "First Reminder"
+msgstr "Первое напоминание"
+
+#: views/wcfmvm-view-memberships-settings.php:634 
+#: views/wcfmvm-view-memberships-settings.php:635 
+#: views/wcfmvm-view-memberships-settings.php:656 
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Never"
+msgstr "Никогда"
+
+#: views/wcfmvm-view-memberships-settings.php:634 
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "Before 5 Days"
+msgstr "До 5 дней"
+
+#: views/wcfmvm-view-memberships-settings.php:634 
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "Before 7 Days"
+msgstr "До 7 дней"
+
+#: views/wcfmvm-view-memberships-settings.php:634 
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "Before 10 Days"
+msgstr "До 10 дней"
+
+#: views/wcfmvm-view-memberships-settings.php:634
+msgid "First next payment notification for recurring subscription."
+msgstr "Первое уведомление о следующем платеже для повторяющейся подписки."
+
+#: views/wcfmvm-view-memberships-settings.php:635 
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Second Reminder"
+msgstr "Второе напоминание"
+
+#: views/wcfmvm-view-memberships-settings.php:635 
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Before 3 Days"
+msgstr "До 3 дней"
+
+#: views/wcfmvm-view-memberships-settings.php:635 
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Before 2 Days"
+msgstr "До 2 дней"
+
+#: views/wcfmvm-view-memberships-settings.php:635 
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Before 1 Day"
+msgstr "До 1 дня"
+
+#: views/wcfmvm-view-memberships-settings.php:635
+msgid "Second next payment notification for recurring subscription."
+msgstr "Второе уведомление о следующем платеже для повторяющейся подписки."
+
+#: views/wcfmvm-view-memberships-settings.php:648
+msgid "Renewal Notification"
+msgstr "Уведомление о продлении"
+
+#: views/wcfmvm-view-memberships-settings.php:652
+msgid "Subscription Renewal Notification"
+msgstr "Уведомление о продлении подписки"
+
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "First renewal notification for recurring subscription."
+msgstr "Первое уведомление о продлении для повторяющейся подписки."
+
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Second renewal notification for recurring subscription."
+msgstr "Второе уведомление о продлении подписки."
+
+#: views/wcfmvm-view-memberships-settings.php:670
+msgid "Cancel Rules"
+msgstr "Отменить правила"
+
+#: views/wcfmvm-view-memberships-settings.php:674
+msgid "Cancel Rules Setup"
+msgstr "Отмена настройки правил"
+
+#: views/wcfmvm-view-memberships-settings.php:679
+msgid "If Membership Cancelled?"
+msgstr "Если членство отменено?"
+
+#: views/wcfmvm-view-memberships-settings.php:679 
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "Assign Basic Membership"
+msgstr "Назначить базовое членство"
+
+#: views/wcfmvm-view-memberships-settings.php:679 
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "Disable Vendor User"
+msgstr "Отключить продавца"
+
+#: views/wcfmvm-view-memberships-settings.php:679
+msgid "This rule will be applicable if a vendor cancel his membership."
+msgstr "Это правило будет применяться, если продавец отменит свое членство."
+
+#: views/wcfmvm-view-memberships-settings.php:680 
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Product Status?"
+msgstr "Статус продукта?"
+
+#: views/wcfmvm-view-memberships-settings.php:680 
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Keep as same"
+msgstr "Держать как то же"
+
+#: views/wcfmvm-view-memberships-settings.php:680 
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Save as Draft"
+msgstr "Сохранить как черновик"
+
+#: views/wcfmvm-view-memberships-settings.php:680 
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Delete from site"
+msgstr "Удалить с сайта"
+
+#: views/wcfmvm-view-memberships-settings.php:682 
+#: views/wcfmvm-view-memberships-settings.php:704
+msgid "Notification content"
+msgstr "Содержание уведомления"
+
+#: views/wcfmvm-view-memberships-settings.php:693
+msgid "Expiry Rules"
+msgstr "Правила истечения"
+
+#: views/wcfmvm-view-memberships-settings.php:697
+msgid "Expiry Rules Setup"
+msgstr "Установка правил истечения срока действия"
+
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "If Membership Expireled?"
+msgstr "Если срок действия членства истек?"
+
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "This rule will be applicable if a vendor expire his membership."
+msgstr ""
+"Это правило будет применяться, если у продавца истекает срок его членства."
+
+#: views/wcfmvm-view-memberships-settings.php:715
+msgid "Rejection Rules"
+msgstr "Правила отказа"
+
+#: views/wcfmvm-view-memberships-settings.php:719
+msgid "Application Rejection Notification"
+msgstr "Уведомление об отклонении заявки"
+
+#: views/wcfmvm-view-memberships-settings.php:724
+msgid "Is user notified on rejection?"
+msgstr "Пользователь уведомлен об отказе?"
+
+#: views/wcfmvm-view-memberships-settings.php:741
+msgid "Membership plan display page styling"
+msgstr "Стилизация страницы отображения плана членства"
+
+#: views/wcfmvm-view-memberships.php:31
+msgid "Manage Memberships"
+msgstr "Управление Членством"
+
+#: views/wcfmvm-view-memberships.php:54 views/wcfmvm-view-memberships.php:64
+msgid "Details"
+msgstr "Подробности"
+
+#: views/wcfmvm-view-memberships.php:55 views/wcfmvm-view-memberships.php:65
+msgid "Pay Mode"
+msgstr "Режим оплаты"
+
+#: views/wcfmvm-view-memberships.php:56 views/wcfmvm-view-memberships.php:66
+msgid "Group"
+msgstr "Группа"
+
+#: views/wcfmvm-view-memberships.php:57 views/wcfmvm-view-memberships.php:67
+msgid "User(s)"
+msgstr "Пользователь(и)"
+
+#: views/wcfmvm-view-memberships.php:58 views/wcfmvm-view-memberships.php:68
+msgid "Actions"
+msgstr "Действия"
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Multivendor Membership"
+msgstr "WCFM - Членство в мультивендорах WooCommerce"
+
+#. Description of the plugin
+msgid "A simple membership plugin for your multi-vendor marketplace."
+msgstr "Простой членский плагин для вашего мультивендорного рынка."
+
+#. URI of the plugin
+msgid "https://wclovers.com/product/woocommerce-multivendor-membership"
+msgstr "https://wclovers.com/product/woocommerce-multivendor-membership"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"

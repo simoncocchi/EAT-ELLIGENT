@@ -1,0 +1,79 @@
+.wpclever_settings_page .plugin-card-bottom.premium {
+    color: #999;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wpclever_settings_page .plugin-card-bottom.premium strong {
+    color: #b05d93;
+}
+
+.wpclever_settings_page .plugin-card-bottom.premium a.activate-now,
+.wpclever_settings_page .plugin-card-bottom.premium a.deactivate-now {
+    border-color: #b05d93;
+}
+
+.wpclever_settings_page .plugin-card-bottom.premium a.deactivate-now {
+    background-color: #b05d93;
+    color: #b05d93;
+}
+
+.wpclever_settings_page a.activate-now,
+.wpclever_settings_page a.deactivate-now {
+    position: relative;
+    display: inline-block;
+    border-radius: 12px;
+    box-sizing: border-box;
+    padding: 2px;
+    width: 40px;
+    height: 24px;
+    min-height: 24px;
+    background: #ddd;
+    vertical-align: middle;
+    outline: 0;
+    cursor: pointer;
+    transition: all .4s ease;
+    box-shadow: none;
+    color: #ddd;
+    font-size: 12px;
+    text-align: right;
+    margin-left: 5px;
+    text-indent: 100px;
+    overflow: hidden;
+}
+
+.wpclever_settings_page a.deactivate-now {
+    background-color: #0073aa;
+    color: #0073aa;
+}
+
+.wpclever_settings_page a.activate-now:before, .wpclever_settings_page a.activate-now:after,
+.wpclever_settings_page a.deactivate-now:before, .wpclever_settings_page a.deactivate-now:after {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 20px;
+    height: 20px;
+    top: 1px;
+    transition: all .4s ease;
+}
+
+.wpclever_settings_page a.deactivate-now:after {
+    right: 1px;
+    left: auto;
+    border-radius: 50%;
+    background: #fff;
+    transition: all .2s ease
+}
+
+.wpclever_settings_page a.activate-now:after {
+    left: 1px;
+    border-radius: 50%;
+    background: #fff;
+    transition: all .2s ease;
+}
+
+.wpckit-install-now.updating-message {
+    pointer-events: none;
+}

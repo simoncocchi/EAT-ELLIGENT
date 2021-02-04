@@ -1,0 +1,1018 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-22 21:19+0000\n"
+"PO-Revision-Date: 2018-04-22 21:19+0000\n"
+"Language-Team: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: admin <nordine@actipop.fr>\n"
+"Language: de_DE"
+
+#: controllers/wcfmvm-controller-memberships-payment.php:67
+#: controllers/wcfmvm-controller-memberships-registration.php:166
+#: ipn/wcfmvm-handle-pp-ipn.php:112 ipn/wcfmvm-handle-pp-ipn.php:196
+#: ipn/wcfmvm-handle-stripe-ipn.php:154
+#: ipn/wcfmvm-handle-stripe-subs-ipn.php:145
+msgid "Vendor Approval"
+msgstr ""
+
+#: controllers/wcfmvm-controller-memberships-payment.php:76
+#: controllers/wcfmvm-controller-memberships-registration.php:175
+#: ipn/wcfmvm-handle-pp-ipn.php:125 ipn/wcfmvm-handle-pp-ipn.php:209
+#: ipn/wcfmvm-handle-stripe-ipn.php:167
+#: ipn/wcfmvm-handle-stripe-subs-ipn.php:158
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) subscription for <b>%s</b> plan waiting for "
+"approval."
+msgstr ""
+"<b>%s</b> (Store: <b>%s</b> ) Abonnement für <b>%s-</b> Plan, wartet auf die "
+"Genehmigung."
+
+#: controllers/wcfmvm-controller-memberships.php:79
+msgid "Plan type: "
+msgstr "Paket Typ: "
+
+#: controllers/wcfmvm-controller-memberships.php:83
+#: views/wcfmvm-view-memberships-manage.php:218
+msgid "One Time"
+msgstr "Einmalig"
+
+#: controllers/wcfmvm-controller-memberships.php:90
+msgid "Commission: "
+msgstr "Provision: "
+
+#: core/class-wcfmvm-ajax.php:131 templates/vendor_registration.php:64
+msgid "First Name"
+msgstr "Vorname"
+
+#: core/class-wcfmvm-ajax.php:135 templates/vendor_registration.php:65
+msgid "Last Name"
+msgstr "Nachname"
+
+#: core/class-wcfmvm-ajax.php:139
+msgid "Login"
+msgstr "Anmeldung"
+
+#: core/class-wcfmvm-ajax.php:143 templates/vendor_registration.php:53
+#: templates/vendor_registration.php:59
+msgid "Email"
+msgstr "Email"
+
+#: core/class-wcfmvm-ajax.php:147 templates/vendor_registration.php:66
+msgid "Store Name"
+msgstr "Shopname"
+
+#: core/class-wcfmvm-ajax.php:151
+msgid "Pay mode"
+msgstr "Zahlungsart"
+
+#: core/class-wcfmvm-ajax.php:152 core/class-wcfmvm-frontend.php:264
+#: core/class-wcfmvm-frontend.php:465
+msgid "FREE"
+msgstr "Frei"
+
+#: core/class-wcfmvm-ajax.php:225
+msgid "Status Update"
+msgstr "Status Aktualisierung"
+
+#: core/class-wcfmvm-ajax.php:227
+msgid "Approve"
+msgstr "Genehmigen"
+
+#: core/class-wcfmvm-ajax.php:228
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: core/class-wcfmvm-ajax.php:236
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: core/class-wcfmvm-ajax.php:288
+msgid "Vendor Approval ststus successfully updated."
+msgstr "Verkäufer Genehmigung Status erfolgreich aktualisiert."
+
+#: core/class-wcfmvm-ajax.php:292
+msgid "Vendor Approval ststus update failed."
+msgstr "Verkäufer Genehmigung Status nicht erfolgreich aktualisiert."
+
+#: core/class-wcfmvm-ajax.php:329
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) membership plan <b>%s</b> has been cancelled."
+msgstr ""
+"<b>%s</b> (Store: <b>%s</b> ) Mitgliedschaftsplan <b>%s</b> wurde "
+"abgebrochen."
+
+#: core/class-wcfmvm-ajax.php:344
+msgid "Your membership successfully cancelled."
+msgstr "Ihre Mitgliedschaft wurde erfolgreich abgebrochen."
+
+#: core/class-wcfmvm-ajax.php:347
+msgid ""
+"Your membership can not be cancelled right now, please contact your store "
+"admin."
+msgstr ""
+"Ihre Mitgliedschaft kann derzeit nicht storniert werden. Bitte wenden Sie "
+"sich an Ihren Store-Administrator."
+
+#: core/class-wcfmvm-ajax.php:369
+msgid "Vendor membership successfully changed."
+msgstr "Die Verkäufer-Mitgliedschaft wurde erfolgreich geändert."
+
+#: core/class-wcfmvm-ajax.php:372
+msgid ""
+"Vendor membership can not be changed right now, please try after sometime."
+msgstr ""
+"Die Verkäufer-Mitgliedschaft kann momentan nicht geändert werden, bitte "
+"versuchen Sie es später erneut."
+
+#: core/class-wcfmvm-frontend.php:103 core/class-wcfmvm-frontend.php:169
+#: views/wcfmvm-view-memberships-manage.php:142
+#: views/wcfmvm-view-memberships-manage.php:142
+#: views/wcfmvm-view-memberships-settings.php:158
+#: views/wcfmvm-view-memberships-settings.php:158
+#: views/wcfmvm-view-memberships.php:24
+msgid "Memberships"
+msgstr "Mitgliedschaften"
+
+#: core/class-wcfmvm-frontend.php:106
+msgid "Membership Manage"
+msgstr "Mitgliedschaftsverwaltung"
+
+#: core/class-wcfmvm-frontend.php:109
+#: views/wcfmvm-view-memberships-settings.php:148
+msgid "Membership Settings"
+msgstr "Mitgliedschaft Einstellungen"
+
+#: core/class-wcfmvm-frontend.php:138 core/class-wcfmvm-frontend.php:373
+#: core/class-wcfmvm-frontend.php:380 core/class-wcfmvm-frontend.php:394
+#: views/wcfmvm-view-memberships.php:52 views/wcfmvm-view-memberships.php:61
+msgid "Membership"
+msgstr "Mitgliedschaft"
+
+#: core/class-wcfmvm-frontend.php:139 helpers/wcfmvm-core-functions.php:175
+#: includes/shortcodes/class-wcfmvm-shortcode-vendor-registration.php:32
+msgid "Registration"
+msgstr "Registrierung"
+
+#: core/class-wcfmvm-frontend.php:215 core/class-wcfmvm-frontend.php:416
+#: core/class-wcfmvm-frontend.php:759 core/class-wcfmvm.php:720
+#: templates/vendor_membership.php:101 templates/vendor_payment.php:117
+#: views/wcfmvm-view-memberships-manage.php:120
+msgid "Day(s)"
+msgstr "Tag(e)"
+
+#: core/class-wcfmvm-frontend.php:215 core/class-wcfmvm-frontend.php:416
+#: core/class-wcfmvm-frontend.php:759 core/class-wcfmvm.php:720
+#: templates/vendor_membership.php:101 templates/vendor_payment.php:117
+#: views/wcfmvm-view-memberships-manage.php:120
+msgid "Month(s)"
+msgstr "Monat(e)"
+
+#: core/class-wcfmvm-frontend.php:215 core/class-wcfmvm-frontend.php:416
+#: core/class-wcfmvm-frontend.php:759 core/class-wcfmvm.php:720
+#: templates/vendor_membership.php:101 templates/vendor_payment.php:117
+#: views/wcfmvm-view-memberships-manage.php:120
+msgid "Year(s)"
+msgstr "Jahr(e)"
+
+#: core/class-wcfmvm-frontend.php:222
+msgid "Vendor's subscription details:"
+msgstr "Details zum Verkäufer:"
+
+#: core/class-wcfmvm-frontend.php:248 core/class-wcfmvm-frontend.php:449
+msgid "Pricing Details: "
+msgstr "Preisdetails: "
+
+#: core/class-wcfmvm-frontend.php:252 core/class-wcfmvm-frontend.php:453
+#: templates/vendor_payment.php:93
+msgid "FREE Plan!!! There is no payment option for this."
+msgstr "KOSTENLOSER Plan !!! Es gibt keine Zahlungsmöglichkeit dafür."
+
+#: core/class-wcfmvm-frontend.php:263 core/class-wcfmvm-frontend.php:464
+msgid "Pay Mode: "
+msgstr "Zahlungsart: "
+
+#: core/class-wcfmvm-frontend.php:268 core/class-wcfmvm-frontend.php:469
+#: templates/vendor_membership.php:123 templates/vendor_membership.php:184
+#: templates/vendor_payment.php:124
+msgid "One time payment"
+msgstr "Einmalige Zahlung"
+
+#: core/class-wcfmvm-frontend.php:272 core/class-wcfmvm-frontend.php:473
+#: templates/vendor_membership.php:126 templates/vendor_membership.php:187
+#: templates/vendor_payment.php:127
+#, php-format
+msgid "for each %s %s"
+msgstr "für jede %s %s"
+
+#: core/class-wcfmvm-frontend.php:274 core/class-wcfmvm-frontend.php:475
+#: templates/vendor_membership.php:128 templates/vendor_membership.php:189
+#: templates/vendor_payment.php:129
+#, php-format
+msgid "with %s for first %s %s"
+msgstr "mit %s für die erste %s%s"
+
+#: core/class-wcfmvm-frontend.php:276 core/class-wcfmvm-frontend.php:477
+#: templates/vendor_membership.php:130 templates/vendor_membership.php:191
+#: templates/vendor_payment.php:131
+#, php-format
+msgid "with %s %s free trial"
+msgstr "mit %s%s kostenlose Testversion"
+
+#: core/class-wcfmvm-frontend.php:290
+msgid "Cancel vendor's current subscription: "
+msgstr "Aktuelles Abonnement des Anbieters stornieren: "
+
+#: core/class-wcfmvm-frontend.php:291 core/class-wcfmvm-frontend.php:492
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: core/class-wcfmvm-frontend.php:302
+msgid "Vendor not yet subscribed for a membership!"
+msgstr "Verkäufer hat noch keine Mitgliedschaft abonniert!"
+
+#: core/class-wcfmvm-frontend.php:310 core/class-wcfmvm-frontend.php:511
+msgid "Additional Infos"
+msgstr "Weitere Informationen"
+
+#: core/class-wcfmvm-frontend.php:337
+msgid "Change or Upgrade:"
+msgstr "Ändern oder Hochstufen:"
+
+#: core/class-wcfmvm-frontend.php:341
+msgid "-- Choose Membership --"
+msgstr "- Wähle ein Mitgliedschaft Paket -"
+
+#: core/class-wcfmvm-frontend.php:359 core/class-wcfmvm-frontend.php:540
+#, php-format
+msgid "%sChange or Upgrade: First cancel your current subscription.%s"
+msgstr ""
+"%sÄndern oder Upgrade: Stornieren Sie zuerst Ihr aktuelles Abonnement.% s"
+
+#: core/class-wcfmvm-frontend.php:423
+msgid "Your subscription details:"
+msgstr "Ihre Abonnement-Details:"
+
+#: core/class-wcfmvm-frontend.php:491
+msgid "Cancel my current subscription: "
+msgstr "Storniere mein aktuelles Abonnement: "
+
+#: core/class-wcfmvm-frontend.php:503
+msgid "You are not subscribed for a membership yet!"
+msgstr "Sie haben noch keine Mitgliedschaft abonniert!"
+
+#: core/class-wcfmvm-frontend.php:538
+#, php-format
+msgid "%sChange or Upgrade your current membership plan >>%s"
+msgstr ""
+"%sÄndern oder aktualisieren Sie Ihren aktuellen Mitgliedschaftsplan >>%s"
+
+#: core/class-wcfmvm-frontend.php:550
+msgid "New Membership"
+msgstr "Neue Mitgliedschaft"
+
+#: core/class-wcfmvm-frontend.php:551
+msgid "Approve Membership"
+msgstr "Genehmigung der Mitgliedschaft"
+
+#: core/class-wcfmvm-frontend.php:552
+msgid "Cancel Membership"
+msgstr "Mitgliedschaft kündigen"
+
+#: core/class-wcfmvm-frontend.php:811
+msgid "Pay"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:815 templates/vendor_payment.php:99
+#: templates/vendor_payment.php:144 templates/vendor_payment.php:156
+#: templates/vendor_payment.php:172
+msgid "Proceed"
+msgstr "Fortfahren"
+
+#: core/class-wcfmvm-non-ajax.php:31
+msgid "View WCFM Membership Settings"
+msgstr "Zeigen Sie WCFM-Mitgliedschaftseinstellungen an"
+
+#: core/class-wcfmvm-non-ajax.php:48
+msgid "View WCFM Membership documentation"
+msgstr "Zeigen Sie die WCFM-Mitgliedschaftsdokumentation an"
+
+#: core/class-wcfmvm-non-ajax.php:55
+msgid "Add custom capability with each Membership Level."
+msgstr ""
+"Fügen Sie für jedes Mitgliedschaftspaket benutzerdefinierte Funktionen hinzu."
+
+#: core/class-wcfmvm-non-ajax.php:55
+msgid "WCFM - Groups & Staffs"
+msgstr "WCFM Gruppen & Mitarbeiter"
+
+#: core/class-wcfmvm-shortcode.php:51 templates/vendor_membership.php:226
+#: templates/vendor_membership.php:238
+msgid "Subscribe Now"
+msgstr "Jetzt anmelden"
+
+#: core/class-wcfmvm.php:190
+msgid "Progress Bar Color"
+msgstr "Fortschrittsbalkenfarbe"
+
+#: core/class-wcfmvm.php:191
+msgid "Table Border Color"
+msgstr "Tabelle Rahmenfarbe"
+
+#: core/class-wcfmvm.php:192
+msgid "Table Text Color"
+msgstr "Tabelle Textfarbe"
+
+#: core/class-wcfmvm.php:193
+msgid "Table Background Color"
+msgstr "Tabelle Hintergrundfarbe"
+
+#: core/class-wcfmvm.php:194
+msgid "Table Cell Heighlighter Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:195
+msgid "Table Head Background Color"
+msgstr "Tabellenkopf Hintergrundfarbe"
+
+#: core/class-wcfmvm.php:196
+msgid "Membership Title Color"
+msgstr "Titelfarbe der Mitgliedschaft"
+
+#: core/class-wcfmvm.php:197
+msgid "Membership Price Color"
+msgstr "Mitgliedschaft Preis Farbe"
+
+#: core/class-wcfmvm.php:198
+msgid "Membership Price Description Color"
+msgstr "Mitgliedschaft Preis Beschreibung Farbe"
+
+#: core/class-wcfmvm.php:199
+msgid "Membership Description Color"
+msgstr "Mitgliedschaft Beschreibung Farbe"
+
+#: core/class-wcfmvm.php:200
+msgid "Subscribe Button Color"
+msgstr "Abonnieren, Schaltflächen Farbe"
+
+#: core/class-wcfmvm.php:201
+msgid "Subscribe Button Hover Color"
+msgstr "Abonnieren, Schaltflächenfarbe Hover"
+
+#: core/class-wcfmvm.php:202
+msgid "Subscribe Button Text Color"
+msgstr "Abonnieren, Schaltfläche Textfarbe"
+
+#: core/class-wcfmvm.php:645
+msgid "Welcome to the store!"
+msgstr ""
+
+#: core/class-wcfmvm.php:670
+msgid "New Vendor"
+msgstr ""
+
+#: core/class-wcfmvm.php:683
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) subscribed for <b>%s</b> membership plan."
+msgstr ""
+"<b>%s</b> (Store: <b>%s</b>) angemeldet für <b>%s</b> Mitgliedschaft Plan."
+
+#: helpers/class-wcfmvm-install.php:93
+msgid "Vendor Membership"
+msgstr "Verkäufer Mitgliedschaft"
+
+#: helpers/wcfmvm-core-functions.php:127
+msgid "PayPal"
+msgstr "PayPal"
+
+#: helpers/wcfmvm-core-functions.php:128
+msgid "Stripe"
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:129
+msgid "Bank Transfer"
+msgstr "Bank Überweisung"
+
+#: helpers/wcfmvm-core-functions.php:174 templates/vendor_registration.php:222
+msgid "Plans"
+msgstr "Preise Ansichten"
+
+#: helpers/wcfmvm-core-functions.php:176 templates/vendor_payment.php:91
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+#: helpers/wcfmvm-core-functions.php:177
+#: views/wcfmvm-view-memberships-settings.php:301
+msgid "Thank You"
+msgstr "Danke"
+
+#: helpers/wcfmvm-core-functions.php:186
+msgid "Payment"
+msgstr "Zahlung"
+
+#: helpers/wcfmvm-core-functions.php:242
+msgid "Please insert Membership Name before submit."
+msgstr "Bitte geben Sie den Mitgliedsnamen vor dem Absenden ein."
+
+#: helpers/wcfmvm-core-functions.php:243
+msgid "Membership Saving Failed."
+msgstr "Mitgliedschaftsspeicherung fehlgeschlagen."
+
+#: helpers/wcfmvm-core-functions.php:244
+msgid "Membership Successfully Saved."
+msgstr "Mitgliedschaft erfolgreich gespeichert."
+
+#: helpers/wcfmvm-core-functions.php:256
+msgid "Please insert Username before submit."
+msgstr "Bitte geben Sie den Benutzernamen vor dem Absenden ein."
+
+#: helpers/wcfmvm-core-functions.php:257
+msgid "Please insert Email before submit."
+msgstr "Bitte fügen vor dem senden eine E-Mail Adresse ein."
+
+#: helpers/wcfmvm-core-functions.php:258
+msgid "This Username already exists."
+msgstr "Dieser Benutzername wird bereits verwendet."
+
+#: helpers/wcfmvm-core-functions.php:259
+msgid "This Email already exists."
+msgstr "Diese E-Mail-Adresse existiert bereits."
+
+#: helpers/wcfmvm-core-functions.php:260
+msgid "Registration Failed."
+msgstr "Registrierung fehlgeschlagen."
+
+#: helpers/wcfmvm-core-functions.php:261
+msgid "Registration Successfully Completed."
+msgstr "Registrierung erfolgreich abgeschlossen."
+
+#: helpers/wcfmvm-core-functions.php:273
+msgid "No Membership ID found, please try again."
+msgstr "Keine Mitgliedschaft-ID gefunden, bitte versuchen Sie es erneut."
+
+#: helpers/wcfmvm-core-functions.php:274
+msgid "Subscription Failed."
+msgstr "Anmeldung fehlgeschlagen."
+
+#: helpers/wcfmvm-core-functions.php:275
+msgid "Subscription Successfully Completed."
+msgstr "Abonnement erfolgreich abgeschlossen."
+
+#: templates/vendor_membership.php:109 templates/vendor_membership.php:170
+msgid "Most Popular"
+msgstr "Beliebteste"
+
+#: templates/vendor_membership.php:119 templates/vendor_membership.php:180
+msgid "No payment required"
+msgstr "Keine Zahlung erforderlich"
+
+#: templates/vendor_membership.php:224 templates/vendor_membership.php:236
+msgid "Your Plan"
+msgstr "Ihr Paket"
+
+#: templates/vendor_membership.php:228 templates/vendor_membership.php:240
+#: templates/vendor_registration.php:224
+msgid "You are not allowed to subscribe!"
+msgstr "Sie dürfen nicht abonnieren!"
+
+#: templates/vendor_membership_block.php:18
+#, php-format
+msgid ""
+"Restricted: You are not allowed to access this page. May be you already have "
+"a %sMembership Plan%s or your %sUser Role%s does not allow for this action. "
+"%sPlease contact %sStore Admin%s for more details."
+msgstr ""
+"Eingeschränkt: Sie haben keinen Zugriff auf diese Seite. Möglicherweise "
+"haben Sie bereits einen %sMembership-Plan%s oder Ihre %sUser-Rolle%s lässt "
+"diese Aktion nicht zu. %skontaktieren Sie %sStore Admin%s für weitere "
+"Details."
+
+#: templates/vendor_no_free_membership.php:18
+#, php-format
+msgid ""
+"Restricted: There is no %sFREE Membership Plan%s in the system or you are "
+"not allowed to access this page. Please contact %sStore Admin%s for more "
+"details."
+msgstr ""
+"Eingeschränkt: Es gibt keinen%sFreien Mitgliedschaftsplan%s im System oder "
+"Sie dürfen nicht auf diese Seite zugreifen. Bitte kontaktieren Sie%s Store "
+"Admin% s für weitere Details."
+
+#: templates/vendor_payment.php:54
+msgid ""
+"Something Wrong: You are not allowed to access this page now. Please contact "
+"Store Admin for more details."
+msgstr ""
+"Etwas ist nicht OK: Sie dürfen jetzt nicht auf diese Seite zugreifen. Bitte "
+"kontaktieren Sie den Store Admin für weitere Details."
+
+#: templates/vendor_payment.php:65
+msgid "Review your plan:"
+msgstr "Überprüfen Sie Ihren Plan:"
+
+#: templates/vendor_payment.php:106
+msgid "Payment options:"
+msgstr "Zahlungsmöglichkeiten:"
+
+#: templates/vendor_registration.php:52 templates/vendor_registration.php:58
+msgid "Username"
+msgstr "Benutzername"
+
+#: templates/vendor_registration.php:71
+msgid "Password"
+msgstr "Passwort"
+
+#: templates/vendor_registration.php:71
+msgid "Password and Confirm-password are not same."
+msgstr "Ihr neues Passwort und die Passwortbestätigung stimmen nicht überein."
+
+#: templates/vendor_registration.php:72
+msgid "Confirm Password"
+msgstr "Kennwort bestätigen"
+
+#: templates/vendor_registration.php:195 templates/vendor_registration.php:200
+msgid "Agree"
+msgstr "Zustimmen"
+
+#: templates/vendor_registration.php:195 templates/vendor_registration.php:203
+#: templates/vendor_registration.php:205
+msgid "Terms & Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+#: templates/vendor_registration.php:221
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: templates/vendor_registration.php:221
+msgid "Register"
+msgstr "Registrieren"
+
+#: templates/vendor_thankyou.php:51
+msgid "Goto Dashboard"
+msgstr "Gehe zur Zentrale"
+
+#: templates/vendor_thankyou.php:52
+msgid "Setup your store"
+msgstr "Richten Sie Ihren Shop ein"
+
+#: views/wcfmvm-view-capability.php:31
+msgid "Analytics"
+msgstr "Analysen"
+
+#: views/wcfmvm-view-memberships-manage.php:82
+msgid "- Choose a Group -"
+msgstr "- Wähle eine Gruppe -"
+
+#: views/wcfmvm-view-memberships-manage.php:122
+msgid "Percent"
+msgstr "Prozent"
+
+#: views/wcfmvm-view-memberships-manage.php:122
+msgid "Fixed"
+msgstr "Fest"
+
+#: views/wcfmvm-view-memberships-manage.php:131
+msgid "Manage Membership"
+msgstr "Mitgliederschaft verwalten"
+
+#: views/wcfmvm-view-memberships-manage.php:138
+msgid "Edit Membership"
+msgstr "Mitgliedschaft bearbeiten"
+
+#: views/wcfmvm-view-memberships-manage.php:138
+msgid "Add Membership"
+msgstr "Mitgliedschaft hinzufügen"
+
+#: views/wcfmvm-view-memberships-manage.php:144
+#: views/wcfmvm-view-memberships-settings.php:160
+#: views/wcfmvm-view-memberships.php:36
+msgid "Add New Membership"
+msgstr "Neue Mitgliedschaft hinzufügen"
+
+#: views/wcfmvm-view-memberships-manage.php:146
+#: views/wcfmvm-view-memberships-settings.php:162
+#: views/wcfmvm-view-memberships.php:38
+msgid "Membership Plan Table"
+msgstr "Mitgliedschaftsplan-Tabelle"
+
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Disable Membership"
+msgstr "Deaktiviere die Mitgliedschaft"
+
+#: views/wcfmvm-view-memberships-manage.php:164
+msgid "Name"
+msgstr "Name"
+
+#: views/wcfmvm-view-memberships-manage.php:165
+msgid "Description"
+msgstr "Beschreibung"
+
+#: views/wcfmvm-view-memberships-manage.php:166
+msgid "Subscribe Button"
+msgstr "Schaltfläche abonnieren"
+
+#: views/wcfmvm-view-memberships-manage.php:166
+msgid ""
+"Add this short code anywhere to your site to show subscribe button for this "
+"membership plan."
+msgstr ""
+"Fügen Sie diesen Code überall auf Ihrer Website hinzu, um den Abonnement-"
+"Button für diesen Mitgliedschaftsplan anzuzeigen."
+
+#: views/wcfmvm-view-memberships-manage.php:179
+#: views/wcfmvm-view-memberships-settings.php:203
+msgid "Features"
+msgstr "Merkmale"
+
+#: views/wcfmvm-view-memberships-manage.php:195
+msgid "First setup membership basic settings"
+msgstr "Erste Einstellungen für die Grundeinstellungen der Mitgliedschaft"
+
+#: views/wcfmvm-view-memberships-manage.php:195
+msgid "here"
+msgstr "hier"
+
+#: views/wcfmvm-view-memberships-manage.php:206
+msgid "Subscription"
+msgstr "Abonnementen"
+
+#: views/wcfmvm-view-memberships-manage.php:212
+#: views/wcfmvm-view-memberships-settings.php:253
+msgid "Free Membership"
+msgstr "Kostenfreie Mitgliedschaft"
+
+#: views/wcfmvm-view-memberships-manage.php:218
+msgid "Subscription Type"
+msgstr "Abonnemententyp"
+
+#: views/wcfmvm-view-memberships-manage.php:218
+msgid "Recurring"
+msgstr "Abo"
+
+#: views/wcfmvm-view-memberships-manage.php:224
+msgid "Payment Amount"
+msgstr "Zahlungsbetrag"
+
+#: views/wcfmvm-view-memberships-manage.php:224
+msgid ""
+"Enter payment amount. Example values: 10.00 or 19.50 or 299.95 etc (do not "
+"put currency symbol)."
+msgstr ""
+"Geben Sie den Zahlungsbetrag ein. Beispielwerte: 10.00 oder 19.50 oder 299."
+"95 usw. (kein Währungssymbol eingeben)."
+
+#: views/wcfmvm-view-memberships-manage.php:233
+msgid "Stripe Plan ID"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:233
+msgid "ID of the plan that you want subscribers to be assigned to."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:233
+#, php-format
+msgid "%sHow can I have this?%s"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:238
+msgid ""
+"Trial Billing Details (Leave empty if you are not offering a trial period)"
+msgstr "Test Rechnung Details (Leer lassen, wenn Sie keine Probezeit anbieten)"
+
+#: views/wcfmvm-view-memberships-manage.php:242
+msgid "Trial Billing Amount"
+msgstr "Probeabrechnungsbetrag"
+
+#: views/wcfmvm-view-memberships-manage.php:242
+msgid ""
+"Amount to be charged for the trial period. Enter 0 if you want to offer a "
+"free trial period."
+msgstr ""
+"Betrag, der für die Probezeit zu zahlen ist. Geben Sie 0 ein, wenn Sie eine "
+"kostenlose Testphase anbieten möchten."
+
+#: views/wcfmvm-view-memberships-manage.php:243
+msgid "Trial Billing Period"
+msgstr "Probeabrechnungszeitraum"
+
+#: views/wcfmvm-view-memberships-manage.php:243
+msgid ""
+"Length of the trial period. Leave empty to disable trial period for this "
+"subscription."
+msgstr ""
+"Länge der Probezeit Leer lassen, um den Testzeitraum für dieses Abonnement "
+"zu deaktivieren."
+
+#: views/wcfmvm-view-memberships-manage.php:248
+msgid "Billing Details"
+msgstr "Rechnungsdetails"
+
+#: views/wcfmvm-view-memberships-manage.php:252
+msgid "Billing Amount Each Cycle"
+msgstr "Abrechnungsbetrag für jeden Zyklus"
+
+#: views/wcfmvm-view-memberships-manage.php:252
+msgid ""
+"Amount to be charged on every billing cycle. If used with a trial period "
+"then this amount will be charged after the trial period is over. Example "
+"values: 10.00 or 19.50 or 299.95 etc (do not put currency symbol)."
+msgstr ""
+"Betrag, der in jedem Abrechnungszyklus berechnet wird. Bei Verwendung mit "
+"einer Probezeit wird dieser Betrag nach Ablauf der Probezeit in Rechnung "
+"gestellt. Beispielwerte: 10.00 oder 19.50 oder 299.95 usw. (ohne "
+"Währungssymbol eingeben)."
+
+#: views/wcfmvm-view-memberships-manage.php:253
+msgid "Billing Cycle"
+msgstr "Zahlungszyklus"
+
+#: views/wcfmvm-view-memberships-manage.php:253
+msgid ""
+"Set the interval of the recurring payment. Example value: 1 Month (if you "
+"want to charge every month)"
+msgstr ""
+"Legen Sie das Intervall für die wiederkehrende Zahlung fest. Beispielwert: 1 "
+"Monat (wenn Sie jeden Monat berechnen möchten)"
+
+#: views/wcfmvm-view-memberships-manage.php:255
+msgid "Billing Cycle Count"
+msgstr "Abrechnungszyklus"
+
+#: views/wcfmvm-view-memberships-manage.php:255
+msgid ""
+"After how many cycles should billing stop. Leave this field empty (or enter "
+"0) if you want the payment to continue until the subscription is canceled."
+msgstr ""
+"Nach wie vielen Zyklen sollte die Abrechnung gestoppt werden. Lassen Sie "
+"dieses Feld leer (oder geben Sie 0 ein), wenn die Zahlung fortgeführt werden "
+"soll, bis das Abonnement storniert wird."
+
+#: views/wcfmvm-view-memberships-manage.php:256
+msgid "Re-attempt on Failure"
+msgstr "Bitte versuchen sie es erneut"
+
+#: views/wcfmvm-view-memberships-manage.php:256
+msgid ""
+"When checked, the payment will be re-attempted two more times if the payment "
+"fails. After the third failure, the subscription will be canceled."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird die Zahlung zwei Mal wiederholt, wenn "
+"die Zahlung fehlschlägt. Nach dem dritten Fehler wird das Abonnement "
+"abgebrochen."
+
+#: views/wcfmvm-view-memberships-manage.php:269
+msgid "Approval"
+msgstr "Genehmigung"
+
+#: views/wcfmvm-view-memberships-manage.php:275
+msgid "Required Approval"
+msgstr "Erforderliche Genehmigung"
+
+#: views/wcfmvm-view-memberships-manage.php:275
+msgid "Whether user required Admin Approval to become vendor or not!"
+msgstr ""
+"Ob der Benutzer eine Administratorgenehmigung benötigt, um zum Anbieter zu "
+"werden oder nicht!"
+
+#: views/wcfmvm-view-memberships-manage.php:286
+msgid "Commission"
+msgstr "Provision"
+
+#: views/wcfmvm-view-memberships-manage.php:292
+msgid "Commission Type"
+msgstr "Porvisionstyp"
+
+#: views/wcfmvm-view-memberships-manage.php:293
+msgid "Commission Value"
+msgstr "Porvision-Wert"
+
+#: views/wcfmvm-view-memberships-manage.php:304
+msgid "Capability"
+msgstr "Eigenschaften"
+
+#: views/wcfmvm-view-memberships-manage.php:311
+msgid "Associate Group"
+msgstr "Gruppe"
+
+#: views/wcfmvm-view-memberships-manage.php:315
+msgid "Associate Capability"
+msgstr "Berechtigungen"
+
+#: views/wcfmvm-view-memberships-manage.php:328
+msgid "Badges"
+msgstr "Abzeichen"
+
+#: views/wcfmvm-view-memberships-manage.php:337
+msgid "Member Badges"
+msgstr "Mitgliedsabzeichen"
+
+#: views/wcfmvm-view-memberships-manage.php:339
+#, php-format
+msgid "<a target=\"_blank\" href=\"%s\">Know more about WCFM Badges.</a>"
+msgstr ""
+"<a target=\"_blank\" href=\"%s\">Erfahren Sie mehr über WCFM Abzeichen.</a>"
+
+#: views/wcfmvm-view-memberships-settings.php:128
+msgid "- Choose Membership -"
+msgstr "- Wähle ein Mitgliedschaft Paket -"
+
+#: views/wcfmvm-view-memberships-settings.php:155
+msgid "Membership General Options"
+msgstr "Allgemeine Optionen für Mitglieder"
+
+#: views/wcfmvm-view-memberships-settings.php:184
+msgid "Payment Methods"
+msgstr "Zahlungsmethode"
+
+#: views/wcfmvm-view-memberships-settings.php:185
+msgid "Enable Sandbox"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:186
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#: views/wcfmvm-view-memberships-settings.php:187
+msgid "Live Publishable Key"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:188
+msgid "Live Secret Key"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:189
+msgid "Test Publishable Key"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:190
+msgid "Test Secret Key"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:191
+msgid "Bank Details"
+msgstr "Bankverbindung"
+
+#: views/wcfmvm-view-memberships-settings.php:192
+msgid "Payment Terms"
+msgstr "Zahlungsbedingungen"
+
+#: views/wcfmvm-view-memberships-settings.php:209
+msgid "Features List"
+msgstr "Funktionsliste"
+
+#: views/wcfmvm-view-memberships-settings.php:210
+msgid "Feature"
+msgstr "Eigenschaft"
+
+#: views/wcfmvm-view-memberships-settings.php:225
+msgid "Membership plan display page styling"
+msgstr "Design des Seitenlayouts für Mitgliedschaftspläne"
+
+#: views/wcfmvm-view-memberships-settings.php:254
+msgid "Featured Membership"
+msgstr "Featured Mitgliedschaft"
+
+#: views/wcfmvm-view-memberships-settings.php:257
+msgid "Membership plan display visibility priority (Left to Right)"
+msgstr "Membership Plan Anzeigepriorität Sichtbarkeit (von links nach rechts)"
+
+#: views/wcfmvm-view-memberships-settings.php:266
+msgid "Priority"
+msgstr "Priorität"
+
+#: views/wcfmvm-view-memberships-settings.php:271
+msgid "Please define some membership level first."
+msgstr "Bitte definieren Sie zuerst einen Mitgliedschaftslevel."
+
+#: views/wcfmvm-view-memberships-settings.php:289
+msgid "Membership on Cancel"
+msgstr "Mitgliedschaft wird aufgelöst"
+
+#: views/wcfmvm-view-memberships-settings.php:289
+msgid ""
+"This membership will be assigned to vendors if they cancel recurring "
+"subscription anytime."
+msgstr ""
+"Diese Mitgliedschaft wird den Händlern zugewiesen, wenn sie ein "
+"wiederkehrendes Abonnement jederzeit kündigen können."
+
+#: views/wcfmvm-view-memberships-settings.php:309
+msgid "Free Membership Thank You page content"
+msgstr "Kostenlose Mitgliedschaft Danke Seiteninhalt"
+
+#: views/wcfmvm-view-memberships-settings.php:309
+msgid "This content will be visible when user subscribe to FREE plan."
+msgstr ""
+"Dieser Inhalt wird sichtbar, wenn der Nutzer den KOSTENLOSEN Plan abonniert."
+
+#: views/wcfmvm-view-memberships-settings.php:309
+msgid ""
+"Please don't include Dashboard URL, it will be automatically append with the "
+"content."
+msgstr ""
+"Bitte keine Dashboard-URL angeben, sie wird automatisch an den Inhalt "
+"angehängt."
+
+#: views/wcfmvm-view-memberships-settings.php:310
+msgid "Subscription membership Thank You page content"
+msgstr "Kostenlose Mitgliedschaft Danke Seiteninhalt"
+
+#: views/wcfmvm-view-memberships-settings.php:310
+msgid "This content will be visible when user pay via PayPal."
+msgstr "Dieser Inhalt wird sichtbar, wenn Nutzer über PayPal bezahlen."
+
+#: views/wcfmvm-view-memberships-settings.php:322
+msgid "Welcome Email"
+msgstr "Willkommens E-Mail"
+
+#: views/wcfmvm-view-memberships-settings.php:329
+msgid "Welcome Email Subject"
+msgstr "Betreff der Willkommens E-Mail"
+
+#: views/wcfmvm-view-memberships-settings.php:330
+msgid "Welcome Email content"
+msgstr "Inhalt der Willkommens E-Mail"
+
+#: views/wcfmvm-view-memberships-settings.php:342
+msgid "Admin Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:349
+msgid "New Subscription Notification Subject"
+msgstr "Neues Abo-Benachrichtigungs-Betreff"
+
+#: views/wcfmvm-view-memberships-settings.php:350
+msgid "New Subscription Notification content"
+msgstr "Neuer Abo-Benachrichtigungsinhalt"
+
+#: views/wcfmvm-view-memberships-settings.php:351
+msgid "Subscription Approval Notification Subject"
+msgstr "Neues Abo-Benachrichtigungs-Betreff"
+
+#: views/wcfmvm-view-memberships-settings.php:352
+msgid "Subscription Approval Notification content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:364
+msgid "Registration Fields"
+msgstr "Registrierungsfelder"
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid "Registration Form Fields"
+msgstr "Anmeldeformular Felder"
+
+#: views/wcfmvm-view-memberships-settings.php:372
+msgid "-- Choose Terms Page --"
+msgstr "---Geschäftsbedingungen Seite auswählen---"
+
+#: views/wcfmvm-view-memberships-settings.php:388
+msgid "Registration Form Custom Fields"
+msgstr "Anmeldeformular Benutzerdefinierte Felder"
+
+#: views/wcfmvm-view-memberships.php:31
+msgid "Manage Memberships"
+msgstr "Verwalten von Mitgliedschaften"
+
+#: views/wcfmvm-view-memberships.php:53 views/wcfmvm-view-memberships.php:62
+msgid "Details"
+msgstr "Details"
+
+#: views/wcfmvm-view-memberships.php:54 views/wcfmvm-view-memberships.php:63
+msgid "Group"
+msgstr "Gruppe"
+
+#: views/wcfmvm-view-memberships.php:55 views/wcfmvm-view-memberships.php:64
+msgid "User(s)"
+msgstr "Nutzer"
+
+#: views/wcfmvm-view-memberships.php:56 views/wcfmvm-view-memberships.php:65
+msgid "Actions"
+msgstr "Aktionen"
+
+#. Name of the plugin
+msgid "WooCommerce Multivendor Membership"
+msgstr "WooCommerce Multivendor-Mitgliedschaft"
+
+#. Description of the plugin
+msgid "A simple membership plugin for your multi-vendor marketplace."
+msgstr ""
+"Ein einfaches Mitgliedschafts-Plugin für Ihren Multi-Vendor-Marktplatz."
+
+#. URI of the plugin
+msgid "https://wclovers.com/product/woocommerce-multivendor-membership"
+msgstr "https://wclovers.com/product/woocommerce-multivendor-membership"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"

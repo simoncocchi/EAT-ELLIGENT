@@ -1,0 +1,205 @@
+/* Dashboard Widget */
+
+#wpclever_dashboard_widget .inside {
+    padding: 0;
+    margin: 0;
+    max-height: 365px;
+    display: inline-block;
+    width: 100%;
+    overflow-y: auto;
+}
+
+#wpclever_dashboard_widget.closed .inside {
+    display: none;
+}
+
+#wpclever_dashboard_widget .item {
+    border-bottom: 1px solid #eee;
+    margin: 0;
+    padding: 10px 12px;
+    display: block;
+}
+
+#wpclever_dashboard_widget .item:hover {
+    background-color: #fafafa;
+}
+
+#wpclever_dashboard_widget .item:last-child {
+    border-bottom: none;
+}
+
+#wpclever_dashboard_widget .item a {
+    display: inline-block;
+    width: 100%;
+    color: #23282d;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+}
+
+#wpclever_dashboard_widget .item img {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+
+#wpclever_dashboard_widget .item .num {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-color: #b05d93;
+    text-align: center;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+#wpclever_dashboard_widget .item .info {
+    opacity: .5;
+}
+
+/* Welcome Page */
+
+.wpclever_welcome_page {
+    background-image: url('../images/wpc-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wpclever_welcome_page .card {
+    border-color: #eee;
+}
+
+.wpclever_welcome_page img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Settings Page */
+
+.wpclever_settings_page img {
+    max-width: 100%;
+    height: auto;
+}
+
+.wpclever_settings_page .wpclever_settings_page_desc a {
+    outline: none;
+    box-shadow: none;
+}
+
+.wpclever_settings_page .wpclever_settings_page_nav .nav-tab-wrapper {
+    border-color: #eee;
+}
+
+.wpclever_settings_page .wpclever_settings_page_nav .nav-tab-wrapper a {
+    margin-left: 0;
+    margin-right: 7px;
+    padding: 10px 20px;
+    outline: none;
+    box-shadow: none;
+    border-color: #eee;
+}
+
+.wpclever_settings_page .wpclever_settings_page_nav .nav-tab-wrapper a.nav-tab-active, .wpclever_settings_page .wpclever_settings_page_nav .nav-tab-wrapper a:hover {
+    background-color: #fafafa;
+    border-color: #fafafa;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content {
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: #eee;
+    background-color: #fff;
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content table tr.heading th, .wpclever_settings_page .wpclever_settings_page_content table tr.heading td, .wpclever_settings_page .wpclever_settings_page_content table tr.submit th {
+    background-color: #fafafa;
+    padding: 15px 20px;
+    margin: 0;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content table tr.heading {
+    border-bottom: 1px dashed #eee;
+    border-left: 4px solid #23282d;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content table tr.heading .dashicons {
+    font-size: 14px;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content table {
+    margin: 0;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content .wpclever_settings_page_content_text {
+    padding: 20px;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content .wpclever_settings_page_content_text p {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content .wpclever_settings_page_content_text p:last-child {
+    margin-bottom: 0;
+}
+
+.wpclever_settings_page .wpclever_settings_page_content table tr th, .wpclever_settings_page .wpclever_settings_page_content table tr td {
+    padding: 15px 20px;
+    border-bottom: 1px dashed #eee;
+}
+
+.wpclever_plugins .item {
+    border-bottom: 1px solid #eee;
+    margin: 0;
+    padding: 10px 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.wpclever_plugins .item:hover {
+    background-color: #fafafa;
+}
+
+.wpclever_plugins .item:last-child {
+    border-bottom: none;
+}
+
+.wpclever_plugins .item a {
+    display: inline-block;
+    width: 100%;
+    color: #23282d;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.wpclever_plugins .item img {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+
+.wpclever_plugins .item .num {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-color: #b05d93;
+    text-align: center;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+.wpclever_plugins .item .info {
+    opacity: .5;
+}

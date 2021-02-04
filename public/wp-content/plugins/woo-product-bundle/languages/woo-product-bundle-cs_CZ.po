@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Bundles for WooCommerce (Premium)\n"
+"POT-Creation-Date: 2020-07-01 08:37+0200\n"
+"PO-Revision-Date: 2020-07-01 11:09+0200\n"
+"Last-Translator: Radim Pešout <info@profiweblevne.cz>\n"
+"Language-Team: Radim Pešout <info@profiweblevne.cz>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpc-product-bundles.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-product.php:33 includes/class-product.php:59
+#: includes/class-woosb.php:633 includes/class-woosb.php:656
+msgid "Add to cart"
+msgstr "Přidat do košíku"
+
+#: includes/class-product.php:39 includes/class-woosb.php:639
+msgid "Select options"
+msgstr "Výběr možností"
+
+#: includes/class-product.php:46 includes/class-woosb.php:645
+msgid "Read more"
+msgstr "Číst více"
+
+#: includes/class-woosb.php:242 includes/class-woosb.php:253
+msgid "WPC Product Bundles"
+msgstr "WPC produktové balíčky"
+
+#: includes/class-woosb.php:242
+msgid "Product Bundles"
+msgstr "Balíčky produktů"
+
+#: includes/class-woosb.php:256
+#, php-format
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Děkujeme vám za použití našeho pluginu! Pokud jste spokojeni, odměňte ho v "
+"pětihvězdičkovém %s hodnocení ."
+
+#: includes/class-woosb.php:259
+msgid "Reviews"
+msgstr "Hodnocení"
+
+#: includes/class-woosb.php:261
+msgid "Changelog"
+msgstr "Historie změn"
+
+#: includes/class-woosb.php:263
+msgid "Discussion"
+msgstr "Diskuze"
+
+#: includes/class-woosb.php:270
+msgid "How to use?"
+msgstr "Jak používat?"
+
+#: includes/class-woosb.php:274 includes/class-woosb.php:1008
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/class-woosb.php:278
+msgid "Compatible"
+msgstr "Kompatibilní"
+
+#: includes/class-woosb.php:284
+msgid "Premium Version"
+msgstr "Prémiová verze"
+
+#: includes/class-woosb.php:289
+msgid "Premium Support"
+msgstr "Prémiová podpora"
+
+#: includes/class-woosb.php:297
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"Při vytváření produktu zvolte \"Data produktu\" jako \"Chytrý balíček\", pak "
+"můžete vidět vyhledávací pole pro zahájení vyhledávání a přidání produktů do "
+"balíčku."
+
+#: includes/class-woosb.php:309
+msgid "General"
+msgstr "Obecné"
+
+#: includes/class-woosb.php:313
+msgid "Price format"
+msgstr "Cenový formát"
+
+#: includes/class-woosb.php:316
+msgid "From min price"
+msgstr "Od minimální ceny"
+
+#: includes/class-woosb.php:317
+msgid "Min price only"
+msgstr "Pouze minimální cena"
+
+#: includes/class-woosb.php:318
+msgid "Min - max"
+msgstr "Min - max"
+
+#: includes/class-woosb.php:319
+msgid "Regular and sale price"
+msgstr "Běžná a prodejní cena"
+
+#: includes/class-woosb.php:322
+msgid "Choose the price format for bundle on the shop page."
+msgstr "Na stránce obchodu zvolte formát ceny balíčku."
+
+#: includes/class-woosb.php:327
+msgid "Calculate bundled prices"
+msgstr "Vypočítej ceny balíčků"
+
+#: includes/class-woosb.php:332
+msgid "from Sale price"
+msgstr "z prodejní ceny"
+
+#: includes/class-woosb.php:336
+msgid "from Regular price"
+msgstr "z běžné ceny"
+
+#: includes/class-woosb.php:340
+msgid "Bundled pricing methods: from Sale price (default) or Regular price."
+msgstr "Balíčky cenových metod: z prodejní ceny (výchozí) nebo běžné ceny."
+
+#: includes/class-woosb.php:346 includes/class-woosb.php:1445
+#: includes/class-woosb.php:1468 includes/class-woosb.php:1742
+msgid "Bundled products"
+msgstr "Produkty v balíčku"
+
+#: includes/class-woosb.php:350 includes/class-woosb.php:578
+msgid "Position"
+msgstr "Pozice"
+
+#: includes/class-woosb.php:355 includes/class-woosb.php:583
+msgid "Above the add to cart button"
+msgstr "Nad tlačítkem Přidat do košíku"
+
+#: includes/class-woosb.php:359 includes/class-woosb.php:587
+msgid "Under the add to cart button"
+msgstr "Pod tlačítkem Přidat do košíku"
+
+#: includes/class-woosb.php:363
+msgid "Under the title"
+msgstr "Pod názvem"
+
+#: includes/class-woosb.php:367
+msgid "Under the price"
+msgstr "Pod cenou"
+
+#: includes/class-woosb.php:371
+msgid "Under the excerpt"
+msgstr "Pod stručným obsahem"
+
+#: includes/class-woosb.php:375 includes/class-woosb.php:591
+msgid "In a new tab"
+msgstr "Na nové kartě"
+
+#: includes/class-woosb.php:379 includes/class-woosb.php:595
+msgid "No (hide it)"
+msgstr "Ne (skrýt)"
+
+#: includes/class-woosb.php:382
+msgid "Choose the position to show the bundled products list."
+msgstr "Zvolte pozici, ve které chcete zobrazit seznam produktů."
+
+#: includes/class-woosb.php:387
+msgid "Variations selector"
+msgstr "Volič variant"
+
+#: includes/class-woosb.php:392
+msgid "Default"
+msgstr "Výchozí"
+
+#: includes/class-woosb.php:396
+msgid "Use WPC Variations Radio Buttons"
+msgstr "Použít WPC přepínač variant"
+
+#: includes/class-woosb.php:405
+msgid "Show thumbnail"
+msgstr "Zobrazit náhled"
+
+#: includes/class-woosb.php:410 includes/class-woosb.php:425
+#: includes/class-woosb.php:440 includes/class-woosb.php:474
+#: includes/class-woosb.php:515 includes/class-woosb.php:533
+#: includes/class-woosb.php:696 includes/class-woosb.php:733
+#: includes/class-woosb.php:767 includes/class-woosb.php:798
+#: includes/class-woosb.php:813 includes/class-woosb.php:829
+#: includes/class-woosb.php:845 includes/class-woosb.php:861
+#: includes/class-woosb.php:898 includes/class-woosb.php:907
+#: includes/class-woosb.php:924 includes/class-woosb.php:933
+msgid "Yes"
+msgstr "Ano"
+
+#: includes/class-woosb.php:414 includes/class-woosb.php:429
+#: includes/class-woosb.php:444 includes/class-woosb.php:463
+#: includes/class-woosb.php:478 includes/class-woosb.php:502
+#: includes/class-woosb.php:519 includes/class-woosb.php:541
+#: includes/class-woosb.php:670 includes/class-woosb.php:700
+#: includes/class-woosb.php:737 includes/class-woosb.php:756
+#: includes/class-woosb.php:771 includes/class-woosb.php:802
+#: includes/class-woosb.php:817 includes/class-woosb.php:833
+#: includes/class-woosb.php:849 includes/class-woosb.php:865
+#: includes/class-woosb.php:899 includes/class-woosb.php:908
+#: includes/class-woosb.php:925 includes/class-woosb.php:934
+msgid "No"
+msgstr "Ne"
+
+#: includes/class-woosb.php:420
+msgid "Show quantity"
+msgstr "Zobrazit množství"
+
+#: includes/class-woosb.php:435
+msgid "Show short description"
+msgstr "Zobrazit krátký popis"
+
+#: includes/class-woosb.php:450
+msgid "Show price"
+msgstr "Ukaž cenu"
+
+#: includes/class-woosb.php:455
+msgid "Price"
+msgstr "Cena"
+
+#: includes/class-woosb.php:459
+msgid "Subtotal"
+msgstr "Mezisoučet"
+
+#: includes/class-woosb.php:469
+msgid "Show plus/minus button"
+msgstr "Tlačítko Zobrazit plus/mínus"
+
+#: includes/class-woosb.php:481
+msgid "Show the plus/minus button for the quantity input."
+msgstr "Zobrazí tlačítko plus/mínus pro vstup množství."
+
+#: includes/class-woosb.php:485
+msgid "Link to individual product"
+msgstr "Odkaz na jednotlivé produkty"
+
+#: includes/class-woosb.php:490
+msgid "Yes, open in the same tab"
+msgstr "Ano, otevřít na stejné kartě"
+
+#: includes/class-woosb.php:494
+msgid "Yes, open in the new tab"
+msgstr "Ano, otevřít na nové kartě"
+
+#: includes/class-woosb.php:498
+msgid "Yes, open quick view popup"
+msgstr "Ano, otevřít vyskakovací okno rychlého zobrazení"
+
+#: includes/class-woosb.php:510
+msgid "Change image"
+msgstr "Změnit fotku"
+
+#: includes/class-woosb.php:523
+msgid ""
+"Change the main product image when choosing the variation of bundled "
+"products."
+msgstr ""
+"Při výběru varianty přibalených produktů změňte obrázek hlavního produktu."
+
+#: includes/class-woosb.php:528
+msgid "Change price"
+msgstr "Změna ceny"
+
+#: includes/class-woosb.php:537
+msgid "Yes, custom selector"
+msgstr "Ano, vlastní volič"
+
+#: includes/class-woosb.php:548
+msgid ""
+"Change the main product price when choosing the variation of bundled "
+"products. It uses JavaScript to change product price so it is very dependent "
+"on theme’s HTML. If it cannot find and update the product price, please "
+"contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+"Změňte hlavní cenu produktu při výběru varianty přibalených produktů. "
+"Používá JavaScript ke změně ceny produktu, takže je velmi závislá na HTML "
+"šablony. Pokud nemůže najít a aktualizovat cenu produktu, kontaktujte nás a "
+"my vám pomůžeme najít správný volič nebo upravit soubor JS."
+
+#: includes/class-woosb.php:553
+msgid "Total text"
+msgstr "Celkový text"
+
+#: includes/class-woosb.php:556
+msgid "Bundle price:"
+msgstr "Cena balíčku:"
+
+#: includes/class-woosb.php:560
+msgid "Saved text"
+msgstr "Text ušetřeno"
+
+#: includes/class-woosb.php:563 includes/class-woosb.php:979
+msgid "(saved [d])"
+msgstr "(ušetřeno [d])"
+
+#: includes/class-woosb.php:565
+msgid "Use [d] to show the saved percentage or amount."
+msgstr "Pomocí [d] můžete zobrazit uložené procento nebo částku."
+
+#: includes/class-woosb.php:571 includes/class-woosb.php:1750
+msgid "Bundles"
+msgstr "Skupiny"
+
+#: includes/class-woosb.php:574
+msgid "Settings for bundles on the bundled product page."
+msgstr "Nastavení balíčků na stránce balíčku produktu."
+
+#: includes/class-woosb.php:598
+msgid "Choose the position to show the bundles list."
+msgstr "Zvolte pozici, ze které chcete zobrazit seznam balíčku."
+
+#: includes/class-woosb.php:604 includes/class-woosb.php:1940
+msgid "Above text"
+msgstr "Nad textem"
+
+#: includes/class-woosb.php:613 includes/class-woosb.php:1949
+msgid "Under text"
+msgstr "Pod textem"
+
+#: includes/class-woosb.php:622
+msgid "\"Add to Cart\" button labels"
+msgstr "Popisky tlačítek \"Přidat do košíku\""
+
+#: includes/class-woosb.php:625
+msgid "Leave blank if you want to use the default text and can be translated."
+msgstr ""
+"Pokud chcete použít výchozí text a lze jej přeložit, ponechejte prázdné."
+
+#: includes/class-woosb.php:629
+msgid "Archive/shop page"
+msgstr "Stránka archivu/obchodu"
+
+#: includes/class-woosb.php:635
+msgid "For purchasable bundle."
+msgstr "Pro zakoupitelný balíček."
+
+#: includes/class-woosb.php:641
+msgid "For purchasable bundle and has variable product(s)."
+msgstr "Pro prodejný balíček a má variabilní produkt(y)."
+
+#: includes/class-woosb.php:647
+msgid "For un-purchasable bundle."
+msgstr "Pro nezakoupitelný balíček."
+
+#: includes/class-woosb.php:652
+msgid "Single product page"
+msgstr "Stránka produktu"
+
+#: includes/class-woosb.php:661
+msgid "Cart & Checkout"
+msgstr "Košík a pokladna"
+
+#: includes/class-woosb.php:665
+msgid "Coupon restrictions"
+msgstr "Omezení kupónů"
+
+#: includes/class-woosb.php:674
+msgid "Exclude bundles"
+msgstr "Vyloučit balíčky"
+
+#: includes/class-woosb.php:678
+msgid "Exclude bundled products"
+msgstr "Vyloučení přibalené produkty"
+
+#: includes/class-woosb.php:682
+msgid "Exclude both bundles and bundled products"
+msgstr "Vyloučení balíčků i přibalených produktů"
+
+#: includes/class-woosb.php:686
+msgid "Choose products you want to exclude from coupons."
+msgstr "Vyberte produkty, které chcete vyloučit z kupónů."
+
+#: includes/class-woosb.php:691
+msgid "Exclude un-purchasable products"
+msgstr "Vyloučit produkty, které nelze zakoupit"
+
+#: includes/class-woosb.php:704
+msgid ""
+"Make the bundle still purchasable when one of the bundled products is un-"
+"purchasable. These bundled products are excluded from the orders."
+msgstr ""
+"Balíček bude stále ke koupi, i když jeden z přibalených produktů není k "
+"zakoupení. Tyto přibalené produkty jsou z objednávek vyloučeny."
+
+#: includes/class-woosb.php:709
+msgid "Cart contents count"
+msgstr "Počet obsahu košíku"
+
+#: includes/class-woosb.php:714
+msgid "Bundles only"
+msgstr "Pouze balíčky"
+
+#: includes/class-woosb.php:718
+msgid "Bundled products only"
+msgstr "Pouze přibalené produkty"
+
+#: includes/class-woosb.php:722
+msgid "Both bundles and bundled products"
+msgstr "Balíčky i přibalené produkty"
+
+#: includes/class-woosb.php:728
+msgid "Hide bundle name before bundled products"
+msgstr "Skrýt název balíčku před přibalenými produkty"
+
+#: includes/class-woosb.php:743
+msgid "Hide bundled products on cart & checkout page"
+msgstr "Skrýt přibalené produkty na stránce košíku a pokladny"
+
+#: includes/class-woosb.php:748
+msgid "Yes, just show the main product"
+msgstr "Ano, stačí ukázat hlavní produkt"
+
+#: includes/class-woosb.php:752
+msgid "Yes, but show bundled product names under the main product"
+msgstr "Ano, ale zobrazit názvy přibalených produktů pod hlavním produktem"
+
+#: includes/class-woosb.php:762
+msgid "Hide bundled products on mini-cart"
+msgstr "Skrýt přibalené produkty na mini-košíku"
+
+#: includes/class-woosb.php:775
+msgid "Hide bundled products, just show the main product on mini-cart."
+msgstr "Skrýt přibalené produkty, stačí ukázat hlavní produkt na mini-vozíku."
+
+#: includes/class-woosb.php:781 includes/class-woosb.php:1799
+msgid "Search"
+msgstr "Hledat"
+
+#: includes/class-woosb.php:785
+msgid "Search limit"
+msgstr "Limit vyhledávání"
+
+#: includes/class-woosb.php:793
+msgid "Search by SKU"
+msgstr "Vyhledávání podle SKU"
+
+#: includes/class-woosb.php:808
+msgid "Search by ID"
+msgstr "Hledat podle ID"
+
+#: includes/class-woosb.php:820
+msgid "Search by ID when only entered the numeric."
+msgstr "Hledat podle ID pouze při zadání čísla."
+
+#: includes/class-woosb.php:824
+msgid "Search exact"
+msgstr "Hledat přesně"
+
+#: includes/class-woosb.php:836
+msgid "Match whole product title or content?"
+msgstr "Přesný název nebo celý název produktu?"
+
+#: includes/class-woosb.php:840
+msgid "Search sentence"
+msgstr "Hledat obecně"
+
+#: includes/class-woosb.php:852
+msgid "Do a phrase search?"
+msgstr "Hledat fráze?"
+
+#: includes/class-woosb.php:856
+msgid "Accept same products"
+msgstr "Přidat stejné produkty"
+
+#: includes/class-woosb.php:868
+msgid "If yes, a product can be added many times."
+msgstr "Pokud ano, produkt lze přidat mnohokrát."
+
+#: includes/class-woosb.php:874 includes/class-woosb.php:941
+msgid "Update Options"
+msgstr "Aktualizovat možnosti"
+
+#: includes/class-woosb.php:888
+msgid "WooCommerce PDF Invoices & Packing Slips"
+msgstr "WooCommerce PDF faktury & dodací listy"
+
+#: includes/class-woosb.php:895 includes/class-woosb.php:921
+msgid "Hide bundles"
+msgstr "Skrýt balíčky"
+
+#: includes/class-woosb.php:904 includes/class-woosb.php:930
+msgid "Hide bundled products"
+msgstr "Skrýt přibalené produkty"
+
+#: includes/class-woosb.php:914
+msgid ""
+"WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels"
+msgstr ""
+"WooCommerce PDF faktury, dodací listy, dodací poznámky & přepravní štítky"
+
+#: includes/class-woosb.php:974
+msgid ""
+"Please select some product options for [name] before adding this bundle to "
+"the cart."
+msgstr "Vyberte prosím variantu [name] před přidáním balíčku do košíku."
+
+#: includes/class-woosb.php:975
+msgid ""
+"Please choose at least one product before adding this bundle to the cart."
+msgstr "Před přidáním tohoto balíčku do košíku zvolte alespoň jeden produkt."
+
+#: includes/class-woosb.php:976
+msgid ""
+"Please choose at least [min] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Před přidáním tohoto balíčku do košíku zvolte alespoň [min] v produktech."
+
+#: includes/class-woosb.php:977
+msgid ""
+"Please choose maximum [max] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Před přidáním tohoto balíčku do košíku zvolte maximálně [max] v produktech."
+
+#: includes/class-woosb.php:1018
+msgid "Premium support"
+msgstr "Prémiová podpora"
+
+#: includes/class-woosb.php:1132
+msgid "One of the bundled products is unavailable."
+msgstr "Jeden z přibalených produktů není k dispozici."
+
+#: includes/class-woosb.php:1133 includes/class-woosb.php:1140
+#: includes/class-woosb.php:1147 includes/class-woosb.php:1154
+#: includes/class-woosb.php:1161 includes/class-woosb.php:1171
+#: includes/class-woosb.php:1179
+msgid "You cannot add this bundle to the cart."
+msgstr "Tento balíček nelze přidat do košíku."
+
+#: includes/class-woosb.php:1139 includes/class-woosb.php:1146
+#, php-format
+msgid "\"%s\" is un-purchasable."
+msgstr "\"%s\" nelze zakoupit."
+
+#: includes/class-woosb.php:1153 includes/class-woosb.php:1170
+#, php-format
+msgid "\"%s\" has not enough stock."
+msgstr "\"%s\" nemá dostatek zásob."
+
+#: includes/class-woosb.php:1160
+#, php-format
+msgid "You cannot add another \"%s\" to the cart."
+msgstr "Do košíku nelze přidat další \"%s\"."
+
+#: includes/class-woosb.php:1178
+#, php-format
+msgid "\"%s\" is protected and cannot be purchased."
+msgstr "\"%s\" je chráněn a nelze jej zakoupit."
+
+#: includes/class-woosb.php:1562
+#, php-format
+msgid "(bundled in %s)"
+msgstr "(dodáváno v %s)"
+
+#: includes/class-woosb.php:1667
+#, php-format
+msgid "No results found for \"%s\""
+msgstr "Nebyly nalezeny žádné výsledky pro \"%s\""
+
+#: includes/class-woosb.php:1713 includes/class-woosb.php:1768
+msgid "Smart bundle"
+msgstr "Chytrý balíček"
+
+#: includes/class-woosb.php:1720
+msgid "Bundled Products"
+msgstr "Přibalené produkty"
+
+#: includes/class-woosb.php:1801
+msgid "settings"
+msgstr "nastavení"
+
+#: includes/class-woosb.php:1806
+msgid "searching..."
+msgstr "hledání..."
+
+#: includes/class-woosb.php:1808
+msgid "Type any keyword to search"
+msgstr "Zadejte libovolné slovo pro hledání"
+
+#: includes/class-woosb.php:1814
+msgid "Selected"
+msgstr "Vybráno"
+
+#: includes/class-woosb.php:1845
+msgid "Regular price"
+msgstr "Běžná cena"
+
+#: includes/class-woosb.php:1851
+msgid "Fixed price"
+msgstr "Fixní cena"
+
+#: includes/class-woosb.php:1855
+msgid "Disable auto calculate price."
+msgstr "Zakázat automatický výpočet ceny."
+
+#: includes/class-woosb.php:1855
+#, php-format
+msgid "If checked, %s click here to set price %s by manually."
+msgstr "Je-li zaškrtnuto, %s klikněte sem a nastavte cenu %s ručně."
+
+#: includes/class-woosb.php:1859
+msgid "Discount"
+msgstr "Sleva"
+
+#: includes/class-woosb.php:1866
+#, php-format
+msgid "% or amount"
+msgstr "% nebo částka"
+
+#: includes/class-woosb.php:1872
+msgid "If you fill both, the amount will be used."
+msgstr "Pokud vyplníte obě, částka bude použita."
+
+#: includes/class-woosb.php:1876
+msgid "Custom quantity"
+msgstr "Vlastní množství"
+
+#: includes/class-woosb.php:1880
+msgid "Buyer can change the quantity of bundled products."
+msgstr "Kupující může změnit množství přibalených produktů."
+
+#: includes/class-woosb.php:1884
+msgid "Each item's quantity limit"
+msgstr "Limit množství každé položky"
+
+#: includes/class-woosb.php:1888
+msgid "Use default quantity as min?"
+msgstr "Použít výchozí množství jako minimální?"
+
+#: includes/class-woosb.php:1900
+msgid "All items' quantity limit"
+msgstr "Limit množství všech položek"
+
+#: includes/class-woosb.php:1913
+msgid "Shipping fee"
+msgstr "Přepravní poplatek"
+
+#: includes/class-woosb.php:1916
+msgid "Apply to the whole bundle"
+msgstr "Aplikujte na celý balíček"
+
+#: includes/class-woosb.php:1917
+msgid "Apply to each bundled product"
+msgstr "Aplikujte na každý přibalený produkt"
+
+#: includes/class-woosb.php:1922
+msgid "Manage stock"
+msgstr "Správa zásob"
+
+#: includes/class-woosb.php:1926
+msgid "Enable stock management at bundle level."
+msgstr "Povolte správu zásob na úrovni balíčku."
+
+#: includes/class-woosb.php:1928
+msgid ""
+"By default, the bundle' stock was calculated automatically from bundled "
+"products. After enabling, please press \"Update\" then you can change the "
+"stock settings on the \"Inventory\" tab."
+msgstr ""
+"Ve výchozím nastavení je zásoba balíčku vypočtena automaticky z přibalených "
+"produktů. Po povolení stiskněte tlačítko \"Aktuliazovat\", pak můžete změnit "
+"nastavení na kartě \"Zásoby\"."
+
+#: includes/class-woosb.php:1932
+msgid "Custom display price"
+msgstr "Vlastní zobrazovaná cena"
+
+#: includes/class-woosb.php:1981
+msgid "Add"
+msgstr "Přidat"
+
+#: includes/class-woosb.php:1983
+msgid "Remove"
+msgstr "Odstranit"
+
+#: includes/class-woosb.php:1988
+msgid "Default quantity"
+msgstr "Výchozí množství"
+
+#: includes/class-woosb.php:1988
+msgid "sold individually"
+msgstr "prodávány jednotlivě"
+
+#: includes/class-woosb.php:2215 includes/class-woosb.php:2246
+msgid "From"
+msgstr "Od"
+
+#: includes/class-woosb.php:2484
+msgid "Choose"
+msgstr "Vybrat"
+
+#: includes/class-woosb.php:2491
+msgid "Clear"
+msgstr "Vymazat"
+
+#: includes/class-woosb.php:2791
+msgid "Bundle(s) low in stock"
+msgstr "Balíčky s nízkým stavem zásob"
+
+#: includes/class-woosb.php:2796
+#, php-format
+msgid "%s is low in stock."
+msgstr "%s je nízký stav skladu."
+
+#: includes/class-woosb.php:2799
+#, php-format
+msgid "%1$s is low in stock. There are %2$d left."
+msgstr "%1$s má nízké skladové zásoby. Zbývají %2$d."
+
+#: includes/class-woosb.php:2820
+#, php-format
+msgid "Bundle (%s)"
+msgstr "Balíček (%s)"
+
+#: includes/class-woosb.php:2839
+msgid "Create a Smart bundle"
+msgstr "Vytvořit Chytrý balíček"
+
+#: includes/class-woosb.php:2858
+#, php-format
+msgid "Added %s product(s) to this bundle."
+msgstr "Bylo přidáno %s produkt(ů) do tohoto balíčku."
+
+#: includes/class-woosb.php:2868
+msgid "Bundle(s) out of stock"
+msgstr "Balíček je vyprodaný"
+
+#: includes/class-woosb.php:2873 includes/class-woosb.php:2876
+#, php-format
+msgid "%s is out of stock."
+msgstr "%s není skladem."
+
+#. Plugin Name of the plugin/theme
+msgid "WPC Product Bundles for WooCommerce (Premium)"
+msgstr "WPC produktové balíčky pro WooCommerce (Premium)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin/theme
+msgid ""
+"WPC Product Bundles is a plugin help you bundle a few products, offer them "
+"at a discount and watch the sales go up!"
+msgstr ""
+"WPC Produktové balíčky je plugin, který vám pomůže spojit několik produktů, "
+"nabídnout je se slevou a sledovat, jak prodeje rostou!"
+
+#. Author of the plugin/theme
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin/theme
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"

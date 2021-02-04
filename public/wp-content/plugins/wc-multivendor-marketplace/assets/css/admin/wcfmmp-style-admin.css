@@ -1,0 +1,89 @@
+.wcfm_addon_inactive_notice_box {
+	background-color: #4f86a7;
+	border-left: 0px;
+	padding-left: 97px;
+	min-height: 100px;
+	position: relative;
+}
+
+.wcfmmp_addon_inactive_notice_box a.promo-btn {
+	background: #fff !important;
+	border-color: #fafafa #fafafa #fafafa;
+	box-shadow: 0 1px 0 #fafafa;
+	color: #000 !important;
+	text-decoration: none;
+	text-shadow: none;
+	position: absolute;
+	top: 30px !important;
+	right: 26px !important;
+	height: 40px!important;
+	line-height: 40px;
+	width: 130px!important;
+	text-align: center;
+	font-weight: 700;
+}
+
+.wcfmmp_addon_inactive_notice_box a.promo-btn:hover {
+	background: #000 !important;
+	color: #fff !important;
+}
+
+.wcfm_addon_inactive_notice_box h2 {
+	font-size: 18px;
+	width: 80%;
+	color: rgba(250, 250, 250, 1);
+	margin-bottom: 8px;
+	font-weight: normal;
+	margin-top: 15px;
+	-webkit-text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	-moz-text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	-o-text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	font-weight: 600;
+}
+
+#wcfm-groups-sttafs-notice h2 {
+	color: #13171c;
+}
+
+.wcfm_addon_inactive_notice_box img {
+	position: absolute;
+	width: 80px;
+	top: 10px;
+	left: 10px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.wcfm_addon_inactive_notice_box h2 span {
+	position: relative;
+	top: -1px;
+}
+
+.wcfm_addon_inactive_notice_box p {
+	width: 80%;
+	color: rgba(250, 250, 250, 0.77);
+	font-size: 14px;
+	margin-bottom: 10px;
+	-webkit-text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	-moz-text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	-o-text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+	text-shadow: 0.1px 0.1px 0px rgba(250, 250, 250, 0.24);
+}
+
+.wcfmmp_addon_inactive_notice_box p {
+	color: rgba(250, 250, 250, 0.77) !important;
+}
+
+#wcfm-groups-sttafs-notice p {
+	color: #ffffff !important;
+}
+
+.wcfm_addon_inactive_notice_box p strong.highlight-text {
+	color: #fff;
+}
+
+.wcfm_addon_inactive_notice_box p a {
+	color: #fafafa;
+}

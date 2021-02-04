@@ -1,0 +1,79 @@
+#wcfm-main-contentainer #customers_details_general_expander input[type="text"].wcfm-text, #wcfm-main-contentainer #customers_details_general_expander textarea {
+	border: 0px !important;
+}
+
+#wcfm-main-contentainer #customers_details_general_expander textarea {
+	resize: vertical;
+}
+
+.show_order_items {
+	font-size: 18px;
+	color: #e83e8c;
+}
+
+.order-status, .booking-status, .appointment-status {
+  font-size: 20px;	
+}
+
+.booking-orderno, .appointment-orderno {
+	padding: 2px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	background-color: #4096EE;
+}
+
+.booking-orderno a, .appointment-orderno a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.wcicon-status-complete:before, .wcicon-status-paid:before {
+	content: "\e015";
+}
+
+.wcicon-status-confirmed:before, .wcicon-status-wc-partial-payment:before {
+	content: "\e011";
+}
+
+.wcicon-status-pending-confirmation:before {
+  content: "\e012";
+}
+
+.status-cancelled { color: #36393D; }
+.wcicon-status-complete { color: #4096EE; }
+.wcicon-status-confirmed { color: #008C00; }
+.wcicon-status-paid { color: #FF0084; }
+.wcicon-status-unpaid { color: #6d6d6d; }
+.wcicon-status-wc-partial-payment { color: #C79810; }
+.wcicon-status-pending-confirmation { color: #FF7400; }
+
+#wcfm-main-contentainer .wcfm_customer_details_change_customer {
+	display: inline-block;
+	float: none;
+	margin-left: -100px;
+}
+
+#wcfm-main-contentainer .wcfm_customer_details_change_customer .select2-container { margin-bottom: 10px; }
+#wcfm-main-contentainer .wcfm_customer_details_change_customer .select2-container, #wcfm-main-contentainer .wcfm_customer_details_change_customer .select2-container .select2-selection { min-height: 35px !important; }
+#wcfm-main-contentainer .wcfm_customer_details_change_customer .select2-container--default .select2-selection--single .select2-selection__rendered, #wcfm-main-contentainer .select2-search input { padding-top: 0px !important; padding-bottom: 0px !important; line-height: 2.407em !important; }
+
+table.dataTable.display tr td:nth-child(8), 
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr td:nth-child(4),
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr th:nth-child(8),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6),
+table.dataTable.display tr th:nth-child(7) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 414px) {
+	a.add_new_wcfm_ele_dashboard .text { display: none; }
+}

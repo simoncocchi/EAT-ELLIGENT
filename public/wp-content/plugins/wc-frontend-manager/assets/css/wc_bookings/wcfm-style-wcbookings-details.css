@@ -1,0 +1,55 @@
+#bookings_details_general_expander .form-field-wide label, #bookings_details_booking_expander .form-field-wide label {
+	font-size: 15px;
+	margin-bottom: 10px !important;
+	font-style: normal;
+	width: 39%;
+	display: inline-block;
+	vertical-align: top; 
+}
+
+#booking_start_date, #booking_end_date, #booking_start_time, #booking_end_time {
+	width: 120px !important;
+}
+
+.booking_start_time_label, .booking_end_time_label{
+	width: 25px !important;
+}
+
+#wcfm-main-contentainer #wcfm_modify_booking_status {
+	float: right;
+	margin-top: 0px;
+	margin-left: 10px;
+	
+	background: #1a1a1a none repeat scroll 0 0;
+	border: 0 none;
+	border-radius: 4px;
+	color: #fff;
+	font-family: Montserrat,"Helvetica Neue",sans-serif;
+	font-weight: 500;
+	letter-spacing: 0.046875em;
+	line-height: 1;
+	padding: 0.84375em 0.875em 0.78125em !important;
+	text-transform: uppercase;
+	
+	color: #ffffff !important;
+	float: none;
+	padding: 4px;
+}
+
+#wcfm-main-contentainer #wcfm_modify_booking_status:hover {
+	background: #17a2b8 none repeat scroll 0 0;
+}
+
+.booking-orderno {
+	padding: 2px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	background-color: #4096EE;
+}
+
+.booking-orderno a {
+	color: #fff;
+	text-decoration: none;
+}

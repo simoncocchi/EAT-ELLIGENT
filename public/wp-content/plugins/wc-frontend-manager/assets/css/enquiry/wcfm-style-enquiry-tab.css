@@ -1,0 +1,57 @@
+.enquiry_form_wrapper_hide {
+	display: none;
+}
+
+p.wcfm-enquiries-count {
+  background-color: #17a2b8;
+	padding: 1em 1.618em;
+	margin-bottom: 2.617924em;
+	margin-left: 0;
+	border-radius: 2px;
+	color: #fff;
+	clear: both;
+	border-left: .6180469716em solid rgba(0,0,0,.15);
+}
+
+.wcfm_enquiry_reviews .comment + .wcfm_enquiry_reviews .comment {
+  border-top: 1px dashed #ddd;
+}
+
+ol.wcfm_enquiry_list {
+	margin-bottom: 1.3em;
+	margin-top: 0;
+  padding: 0;
+  list-style: decimal;
+}
+
+ol.wcfm_enquiry_list li.wcfm_enquiry_item {
+	margin-left: 1.3em;
+	list-style: none;
+	padding: 1em 0 0 0;
+	display: block;
+	margin-bottom: .6em;
+}
+
+ol.wcfm_enquiry_list li.wcfm_enquiry_item .wcfm_enquiry_container {
+	
+}
+
+.wcfm_enquiry_reviews ol.wcfm_enquiry_list li.wcfm_enquiry_item .wcfm_enquiry_container .comment-text {
+	width: 100% !important;
+	float: left !important;
+	margin-top: 40px;
+	padding: 0 1.5em;
+}
+
+.wcfm_enquiry_reviews ol.wcfm_enquiry_list li.wcfm_enquiry_item .wcfm_enquiry_container .comment-text .enquiry-by {
+	float: right;
+	font-size: .875em;
+	line-height: 1;
+	height: 1em;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm_enquiry_form .comment-form-author, #wcfm_enquiry_form .comment-form-email {
+		width: 100%;
+	}
+}

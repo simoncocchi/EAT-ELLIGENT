@@ -1,0 +1,16 @@
+.wc-setup-content {
+	text-align: right !important;
+}
+
+.wc-setup-content .wcfm-wp-fields-uploader {
+	margin-right: auto!important;
+	margin-left:25%;
+}
+
+.wc-setup .wc-setup-actions .button {
+	margin-right:0;
+}
+
+.img_tip {
+	margin-right: 5px;
+}

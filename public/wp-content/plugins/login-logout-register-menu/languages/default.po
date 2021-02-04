@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login Logout Register Menu\n"
+"POT-Creation-Date: 2017-04-13 20:08+0530\n"
+"PO-Revision-Date: 2017-04-13 20:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: Free WP TP <freewptp@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_attr_e;"
+"esc_attr__;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-login-logout-register-menu-admin.php:81
+msgid "Get Support"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:82
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:102
+#, php-format
+msgid ""
+"To configure <em>Login Logout Register Menu plugin</em> please visit its <a "
+"href=\"%1$s\">configuration page</a> and to get plugin support contact us on "
+"<a href=\"%2$s\">plugin support forum</a> or <a href=\"%3$s\">contact us "
+"page</a>."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:122
+#: ../admin/class-login-logout-register-menu-admin.php:153
+msgid "Login Logout Register Menu Settings"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:122
+msgid "Login Logout Register"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:136
+msgid "Like Login Logout Register Menu?"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:136
+msgid "Give us a rating"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:139
+msgid "Need Help or Have Suggestions?"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:139
+msgid "contact us on"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:139
+msgid "Plugin support forum"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:139
+msgid "or"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:139
+msgid "Contact us page"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:142
+msgid "Access Plugin Documentation on"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:155
+msgid "Login URL : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:156
+msgid "Register URL : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:157
+msgid "Profile URL : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:158
+msgid "Login Redirection URL : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:159
+msgid "Logout Redirection URL : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:160
+msgid "Register Redirection URL : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:161
+msgid "Hide Links on Mobile : "
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:169
+msgid "Configure the Login Logout Register Menu plugin settings here."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:178
+msgid "Only use this field if your site uses custom login URL."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:187
+msgid "Only use this field if your site uses custom register URL."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:196
+msgid "Only use this field if your site uses custom profile URL."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:205
+msgid "Add URL where you want users to redirect after logging in."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:214
+msgid "Add URL where you want users to redirect after log out."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:223
+msgid "Add URL where you want users to redirect after registration."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:233
+msgid "Toggle Display"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:235
+msgid "If checked, the links added in menu don't display on mobile devices."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:242
+msgid "Login / Logout / Register links"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:250
+#: ../admin/class-login-logout-register-menu-admin.php:252
+#: ../public/class-login-logout-register-menu-public.php:218
+#: ../public/class-login-logout-register-menu-public.php:269
+msgid "Log In"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:251
+#: ../admin/class-login-logout-register-menu-admin.php:252
+msgid "Log Out"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:253
+#: ../public/class-login-logout-register-menu-public.php:321
+msgid "Register"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:254
+#: ../public/class-login-logout-register-menu-public.php:349
+msgid "Profile"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:290
+msgid "Usage Information"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:293
+msgid ""
+"To redirect user after login/logout/register just add a relative link after "
+"the link's keyword, example :"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:294
+msgid "You can also use"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:294
+msgid ""
+"to redirect the user on the current visited page after login/logout/"
+"register, example :"
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:295
+#, php-format
+msgid ""
+"To configure <em>Login Logout Register Menu plugin</em> please visit its <a "
+"href=\"%1$s\">configuration page</a> and to get plugin support contact us on "
+"<a href=\"%2$s\" target=\"_blank\">plugin support forum</a> or <a href=\"%3$s"
+"\" target=\"_blank\">contact us page</a>."
+msgstr ""
+
+#: ../admin/class-login-logout-register-menu-admin.php:301
+msgid "Add to Menu"
+msgstr ""
+
+#: ../public/class-login-logout-register-menu-public.php:269
+#: ../public/class-login-logout-register-menu-public.php:298
+msgid "Logout"
+msgstr ""

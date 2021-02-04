@@ -1,0 +1,96 @@
+.booking-status {
+  font-size: 20px;	
+}
+
+.wcicon-status-complete:before, .wcicon-status-paid:before {
+	content: "\e015";
+}
+
+.wcicon-status-confirmed:before {
+	content: "\e011";
+}
+
+.wcicon-status-pending-confirmation:before {
+    content: "\e012";
+}
+
+.wcicon-status-complete { color: #4dbd74; }
+.wcicon-status-confirmed { color: #20c997; }
+.wcicon-status-paid { color: #20a8d8; }
+.wcicon-status-unpaid { color: #6d6d6d; }
+.wcicon-status-pending-confirmation { color: #f8cb00; }
+
+.booking-orderno {
+	padding: 6px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	width: 80px;
+	display: block;
+	background-color: #4096EE;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.booking-orderno a {
+	color: #fff;
+	text-decoration: none;
+}
+
+ul.wcfm_bookings_menus {
+	list-style: none;
+	margin-left: 0px;
+	padding: 0;
+	font-size: 13px;
+	color: #666;
+	display: table-cell;
+	float: left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+ul.wcfm_bookings_menus li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+ul.wcfm_bookings_menus li a {
+	color: #17a2b8;
+	font-weight: 500;
+	-webkit-transition-property: bbooking,background,color;
+	transition-property: bbooking,background,color;
+	-webkit-transition-duration: .05s;
+	transition-duration: .05s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+#wcfm-main-contentainer ul.wcfm_bookings_menus li a.active {
+	color: #666;
+}
+
+.wcfm_booking_by_customer{color:#f86c6b}
+
+.wcfm_filters_wrap { opacity: 1 !important; }
+
+table.dataTable.display tr td:nth-child(3), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5), 
+table.dataTable.display tr td:nth-child(6), 
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5), 
+table.dataTable.display tr th:nth-child(6), 
+table.dataTable.display tr th:nth-child(7), 
+table.dataTable.display tr th:nth-child(8) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 414px) {
+	a#wcfm_bookings_calendar { display: none; }
+}

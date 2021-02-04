@@ -1,0 +1,143 @@
+.attachment-thumbnail.size-thumbnail.wp-post-image, .woocommerce-placeholder.wp-post-image {
+	max-height: 40px;
+	max-width: 40px;
+}
+
+.dropdown_product_cat { margin-right: 10px; } 
+#dropdown_product_type {
+	max-width: 200px;
+}
+
+.product-status {
+	padding: 6px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	width: 80px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#wcfm-products_wrapper span.product-status-archived { background-color: #f86c6b; }
+#wcfm-products_wrapper span.product-status-publish { background-color: #20c997; }
+#wcfm-products_wrapper span.product-status-pending { background-color: #ffc107; }
+#wcfm-products_wrapper span.product-status-draft { background-color: #63c2de; }
+span.view_count { color: #e83e8c; font-weight: 500; font-size: 18px; }
+
+.instock { color: #4dbd74;font-weight: 600; }
+.outofstock { color: #f86c6b;font-weight: 600; }
+.onbackorder { color: #20c997;font-weight: 600; }
+
+del span.woocommerce-Price-amount { display: block; color: #CC0000; }
+ins span.woocommerce-Price-amount { color: #006E2E; }
+
+ul.wcfm_products_menus {
+	list-style: none;
+	margin-left: 0px;
+	padding: 0;
+	font-size: 13px;
+  color: #666;
+  display: table-cell;
+  float:left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+ul.wcfm_products_menus li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+ul.wcfm_products_menus li a {
+	color: #17a2b8;
+	font-weight: 500;
+	-webkit-transition-property: bproduct,background,color;
+	transition-property: bproduct,background,color;
+	-webkit-transition-duration: .05s;
+	transition-duration: .05s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+ul.wcfm_products_menus li a.active {
+	color: #666;
+}
+
+.wcfm_products_limit_label {
+	padding: 2px 10px;
+	font-size: 15px;
+  color: #e85656;
+  border: 1px solid #e85656;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  display: inline-block;
+  float: none;
+}
+
+.wcfm_filters_wrap { opacity: 1 !important; }
+
+#wcfm-main-contentainer .dataTables_wrapper { text-align: center; }
+
+table.dataTable.display tr td:nth-child(1), 
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5), 
+table.dataTable.display tr td:nth-child(6), 
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr td:nth-child(9),
+table.dataTable.display tr td:nth-child(10),
+table.dataTable.display tr td:nth-child(11),
+table.dataTable.display tr td:nth-child(12),
+table.dataTable.display tr td:nth-child(13),
+table.dataTable.display tr td:nth-child(14),
+table.dataTable.display tr th:nth-child(1), 
+table.dataTable.display tr th:nth-child(2), 
+table.dataTable.display tr th:nth-child(4), 
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6), 
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8),
+table.dataTable.display tr th:nth-child(9),
+table.dataTable.display tr th:nth-child(10),
+table.dataTable.display tr th:nth-child(11),
+table.dataTable.display tr th:nth-child(12),
+table.dataTable.display tr th:nth-child(13),
+table.dataTable.display tr th:nth-child(14) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 980px) {
+  .wcfm_products_filter_wrap { width: 100%; }
+  
+  .wcfm_products_limit_label {
+		width: 100%;
+		margin: 10px 0px;
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	ul.wcfm_products_menus {
+		width: 100%;
+		text-align: center;
+	}
+	
+	#wcfm-main-contentainer .wcfm-top-element-container {
+		text-align: center;
+	}
+	
+	#wcfm-main-contentainer .wcfm-top-element-container ul, #wcfm-main-contentainer .wcfm-top-element-container a {
+    float: none;
+    display: inline-block;
+  }
+  
+  #wcfm-main-contentainer a.wcfm_wp_admin_view, #wcfm-main-contentainer a.wcfm_screen_manager_dummy, #wcfm-main-contentainer a.wcfm_screen_manager, #wcfm-main-contentainer .dataTables_wrapper #dropdown_product_type {
+		display: none;
+	}
+}

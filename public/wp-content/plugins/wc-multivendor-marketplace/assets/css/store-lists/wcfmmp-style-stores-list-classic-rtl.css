@@ -1,0 +1,19 @@
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-3 .store-footer .store-avatar{left:auto;right:10px;}
+
+#wcfmmp-stores-wrap a.wcfmmp-visit-store{right:inherit;left:20px;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-3 a.wcfmmp-visit-store{right:auto;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-4 a.wcfmmp-visit-store{right:auto;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-5 a.wcfmmp-visit-store{right:auto;}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li p.store-enquiry {right:inherit;left:130px;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-3 p.store-enquiry {right:auto;left:110px;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-4 p.store-enquiry {right:10px;left:auto;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-5 p.store-enquiry {right:10px;left:auto;}
+
+
+.bd_rating .star-rating, .bd_rating .wcfm_vendor_badges{float:right;margin-right: 0px;margin-left: 20px;}
+.store-data .star-rating > span, .store-ratings .star-rating > span{left:auto;right:0;}
+
+.wcfmmp-store-search-form i.wcfmmmp_locate_icon{right:auto;left:10px;}
+.wcfmmp-store-search-form div.wcfm_radius_slidecontainer .wcfmmp_radius_range_start{float:right}
+.wcfmmp-store-search-form div.wcfm_radius_slidecontainer .wcfmmp_radius_range_end{float:left}

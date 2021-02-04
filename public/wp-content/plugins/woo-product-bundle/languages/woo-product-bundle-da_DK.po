@@ -1,0 +1,746 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Product Bundles for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Bundles for WooCommerce 4.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-product-"
+"bundle\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-21T02:25:39+00:00\n"
+"PO-Revision-Date: 2020-03-25 14:43+0100\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: woo-product-bundle\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: da_DK\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Product Bundles for WooCommerce"
+msgstr "WPC Pakketilbud"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid ""
+"WPC Product Bundles is a plugin help you bundle a few products, offer them "
+"at a discount and watch the sales go up!"
+msgstr ""
+"WPC Pakketilbud er en plugin der hjælper dig med at samle nogle udvalgte "
+"produkter til en samlet pakke til en særlig samlet pris!"
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net/"
+
+#: index.php:71 index.php:97 index.php:1184 index.php:1207
+msgid "Add to cart"
+msgstr "Tilføj til kurv"
+
+#: index.php:77 index.php:1190
+msgid "Select options"
+msgstr "Valg"
+
+#: index.php:84 index.php:1196
+msgid "Read more"
+msgstr "Læs mere"
+
+#: index.php:691
+msgid "Once Every 5 Minutes"
+msgstr "Hvert 5, minut"
+
+#: index.php:834 index.php:845 index.php:2212
+msgid "WPC Product Bundles"
+msgstr "WPC Pakketilbud"
+
+#: index.php:834
+msgid "Product Bundles"
+msgstr "Pakketilbud"
+
+#: index.php:848
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Tak fordi du bruger vores plugin! Hvis du er tilfreds, så beder vi dig give "
+"os hele fem-stjerners %s bedømmelse."
+
+#: index.php:851
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+#: index.php:853
+msgid "Changelog"
+msgstr "Ændringslog"
+
+#: index.php:855
+msgid "Discussion"
+msgstr "Debat"
+
+#: index.php:862
+msgid "How to use?"
+msgstr "Hvordan bruges den?"
+
+#: index.php:866 index.php:1539
+msgid "Settings"
+msgstr "Opsætning"
+
+#: index.php:870
+msgid "Tools"
+msgstr "Værktøj"
+
+#: index.php:874 index.php:1540
+msgid "Premium Version"
+msgstr "Premium version"
+
+#: index.php:882
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"Når du opretter et produkt skal du vælge varedata \"Pakketilbud\" herefter "
+"vil du se et søgefelt hvor du vælger de varer der skal med i pakken."
+
+#: index.php:894
+msgid "General"
+msgstr "Generalt"
+
+#: index.php:898
+msgid "Price format"
+msgstr "Pris format"
+
+#: index.php:901
+msgid "From min price"
+msgstr "Fra mindstepris"
+
+#: index.php:902
+msgid "Min price only"
+msgstr "Kun mindstepris"
+
+#: index.php:903
+msgid "Min - max"
+msgstr "Min - Max"
+
+#: index.php:904
+msgid "Regular and sale price"
+msgstr "Normal- og tilbudspris"
+
+#: index.php:907
+msgid "Choose the price format for bundle on the shop page."
+msgstr "Vælg prisformat på pakketilbud på webshoppen"
+
+#: index.php:913 index.php:1978 index.php:2001 index.php:2310
+msgid "Bundled products"
+msgstr "Tilbudte produkter"
+
+#: index.php:917 index.php:1129
+msgid "Position"
+msgstr "Placering"
+
+#: index.php:922 index.php:1134
+msgid "Above the add to cart button"
+msgstr "Over \"tilføj til kurv\""
+
+#: index.php:926 index.php:1138
+msgid "Under the add to cart button"
+msgstr "Under \"tilføj til kurv\""
+
+#: index.php:930
+msgid "Under the title"
+msgstr "Under titel"
+
+#: index.php:934
+msgid "Under the price"
+msgstr "Under pris"
+
+#: index.php:938
+msgid "Under the excerpt"
+msgstr "Under forventet"
+
+#: index.php:942 index.php:1142
+msgid "In a new tab"
+msgstr "I ny tab"
+
+#: index.php:946 index.php:1146
+msgid "No (hide it)"
+msgstr "Ingen (skjul den)"
+
+#: index.php:949
+msgid "Choose the position to show the bundled products list."
+msgstr "Vælg placering for listen over produkter i pakketilbudet"
+
+#: index.php:954
+msgid "Variations selector"
+msgstr "Vælg varianter"
+
+#: index.php:959
+msgid "Default"
+msgstr "Standard"
+
+#: index.php:963
+msgid "Use WPC Variations Radio Buttons"
+msgstr "Brug WPC Variant Radio Knapper"
+
+#: index.php:972
+msgid "Show thumbnail"
+msgstr "Hvis miniature billede"
+
+#: index.php:977 index.php:992 index.php:1007 index.php:1066 index.php:1084
+#: index.php:1221 index.php:1258 index.php:1292 index.php:1323 index.php:1338
+#: index.php:1354 index.php:1370 index.php:1386 index.php:1407 index.php:1424
+msgid "Yes"
+msgstr "Ja"
+
+#: index.php:981 index.php:996 index.php:1011 index.php:1030 index.php:1053
+#: index.php:1070 index.php:1092 index.php:1225 index.php:1262 index.php:1281
+#: index.php:1296 index.php:1327 index.php:1342 index.php:1358 index.php:1374
+#: index.php:1390 index.php:1411 index.php:1428
+msgid "No"
+msgstr "Nej"
+
+#: index.php:987
+msgid "Show quantity"
+msgstr "Vis antal"
+
+#: index.php:1002
+msgid "Show short description"
+msgstr "Vis kort beskrivelse"
+
+#: index.php:1017
+msgid "Show price"
+msgstr "Vis pris"
+
+#: index.php:1022
+msgid "Price"
+msgstr "Pris"
+
+#: index.php:1026
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: index.php:1036
+msgid "Link to individual product"
+msgstr "Link til individuelle produkter"
+
+#: index.php:1041
+msgid "Yes, open in the same tab"
+msgstr "Ja, åben i samme tab"
+
+#: index.php:1045
+msgid "Yes, open in the new tab"
+msgstr "Ja, åben i ny tab"
+
+#: index.php:1049
+msgid "Yes, open quick view popup"
+msgstr "Ja, åben hurtigvisnings popup"
+
+#: index.php:1061
+msgid "Change image"
+msgstr "Skift billede"
+
+#: index.php:1074
+msgid ""
+"Change the main product image when choosing the variation of bundled "
+"products."
+msgstr "Skift produktbillede (main) når variant vælges"
+
+#: index.php:1079
+msgid "Change price"
+msgstr "Skift pris"
+
+#: index.php:1088
+msgid "Yes, custom selector"
+msgstr "Ja, kundevalg"
+
+#: index.php:1099
+msgid ""
+"Change the main product price when choosing the variation of bundled "
+"products. It uses JavaScript to change product price so it is very dependent "
+"on theme’s HTML. If it cannot find and update the product price, please "
+"contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+"Skift produktpris (main) når du vælger variation for pakketilbuds produkter. "
+"Vi benytter JavaScript til at ændre produkt prisen så det er meget afhængig "
+"af dit tema’s HTML. Hvis vores kode ikke finder og opdatere produktprisen, "
+"så beder vi dig kontakte os så vi kan hjælpe med at finde den rigtige "
+"løsning og tilrette JS filen."
+
+#: index.php:1104
+msgid "Total text"
+msgstr "Samlet tekst"
+
+#: index.php:1107
+msgid "Bundle price:"
+msgstr "Pakketilbuds pris:"
+
+#: index.php:1111
+msgid "Saved text"
+msgstr "Gemt tekst"
+
+#: index.php:1114 index.php:1505
+msgid "(saved [d])"
+msgstr "(gemt [d])"
+
+#: index.php:1116
+msgid "Use [d] to show the saved percentage or amount."
+msgstr "brug [d] til at vise den gemte procent eller beløb."
+
+#: index.php:1122 index.php:2318
+msgid "Bundles"
+msgstr "Pakketilbud"
+
+#: index.php:1125
+msgid "Settings for bundles on the bundled product page."
+msgstr "Opsætning for tilbuddet på Pakketilbuds siden"
+
+#: index.php:1149
+msgid "Choose the position to show the bundles list."
+msgstr "Vælg hvor listen for pakketilbuddet skal vises"
+
+#: index.php:1155 index.php:2506
+msgid "Above text"
+msgstr "Over tekst"
+
+#: index.php:1164 index.php:2515
+msgid "Under text"
+msgstr "Under tekst"
+
+#: index.php:1173
+msgid "\"Add to Cart\" button labels"
+msgstr "\"Tilføj til kurv\" knappen navn"
+
+#: index.php:1176
+msgid "Leave blank if you want to use the default text and can be translated."
+msgstr "Efterlades blank for standard (oversættes)"
+
+#: index.php:1180
+msgid "Archive/shop page"
+msgstr "Arkiv/webshop side"
+
+#: index.php:1186
+msgid "For purchasable bundle."
+msgstr "For aktive pakketilbud"
+
+#: index.php:1192
+msgid "For purchasable bundle and has variable product(s)."
+msgstr "For aktive pakketilbud med variable produkter"
+
+#: index.php:1198
+msgid "For un-purchasable bundle."
+msgstr "Fir ikke aktive pakketilbud"
+
+#: index.php:1203
+msgid "Single product page"
+msgstr "Enkelt vare"
+
+#: index.php:1212
+msgid "Cart & Checkout"
+msgstr "Kurv og kasse"
+
+#: index.php:1216
+msgid "Exclude un-purchasable products"
+msgstr "Udeluk ikke aktive produkter"
+
+#: index.php:1229
+msgid ""
+"Make the bundle still purchasable when one of the bundled products is un-"
+"purchasable. These bundled products are excluded from the orders."
+msgstr ""
+"Lad pakketilbuddet forsat være aktiv selvom et af produkterne i pakken ikke "
+"er aktivt. Produkter vil blive udelukket fra bestillingen."
+
+#: index.php:1234
+msgid "Cart contents count"
+msgstr "Tæl kurvens varer"
+
+#: index.php:1239
+msgid "Bundles only"
+msgstr "Kun pakketilbudet"
+
+#: index.php:1243
+msgid "Bundled products only"
+msgstr "Kun produkterne"
+
+#: index.php:1247
+msgid "Both bundles and bundled products"
+msgstr "Både pakketilbud og produkter"
+
+#: index.php:1253
+msgid "Hide bundle name before bundled products"
+msgstr "Skjul pakketilbudsnavn før produktnavn"
+
+#: index.php:1268
+msgid "Hide bundled products on cart & checkout page"
+msgstr "Skjul pakketilbudsprodukt i kurv og checkout"
+
+#: index.php:1273
+msgid "Yes, just show the main product"
+msgstr "Ja, vis kun hovedproduktet"
+
+#: index.php:1277
+msgid "Yes, but show bundled product names under the main product"
+msgstr "Ja, men vis pakketilbudsnavn under hovedproduktet"
+
+#: index.php:1287
+msgid "Hide bundled products on mini-cart"
+msgstr "Skjul pakketilbuds produkterne i mini-kurv"
+
+#: index.php:1300
+msgid "Hide bundled products, just show the main product on mini-cart."
+msgstr "Skjul pakketilbuds produkter, vis kun hoved produkterne i kurven"
+
+#: index.php:1306 index.php:2367
+msgid "Search"
+msgstr "Søg"
+
+#: index.php:1310
+msgid "Search limit"
+msgstr "Søg begrænsning"
+
+#: index.php:1318
+msgid "Search by SKU"
+msgstr "Søg på varenummer"
+
+#: index.php:1333
+msgid "Search by ID"
+msgstr "Søg på ID"
+
+#: index.php:1345
+msgid "Search by ID when only entered the numeric."
+msgstr "Søg på ID (kun numerisk)"
+
+#: index.php:1349
+msgid "Search exact"
+msgstr "Søg præcist"
+
+#: index.php:1361
+msgid "Match whole product title or content?"
+msgstr "Match hele produkt titlen eller indhold"
+
+#: index.php:1365
+msgid "Search sentence"
+msgstr "Søg sætning"
+
+#: index.php:1377
+msgid "Do a phrase search?"
+msgstr "Søg et udtryk?"
+
+#: index.php:1381
+msgid "Accept same products"
+msgstr "Accepter samme produkt"
+
+#: index.php:1393
+msgid "If yes, a product can be added many times."
+msgstr "Hvis ja kan et produkt angives flere gange"
+
+#: index.php:1398
+msgid "Advance"
+msgstr "Avanceret"
+
+#: index.php:1402 index.php:1462
+msgid "Price sync"
+msgstr "Synkroniser pris"
+
+#: index.php:1414
+msgid ""
+"Enable this option to change the bundle price automatically when changing "
+"the price of the bundled product. You also can do it by manually on the "
+"Tools tab."
+msgstr ""
+"Aktiver dette valg for automatisk at ændre pakketilbuddets pris, når pris på "
+"et af produkterne ændre sig. Du kan gøre det manuelt på \"Værktøjs\" tab'en."
+
+#: index.php:1419
+msgid "Price update"
+msgstr "Pris opdatering"
+
+#: index.php:1431
+msgid ""
+"Enable this option to show the update price tool in each product. Use this "
+"tool to update the price for all bundles contain the current product."
+msgstr ""
+"Aktiver dette valg for at vise prisopdaterings værktøjet for hvert enkelt "
+"produkt i pakketilbuddet"
+
+#: index.php:1438
+msgid "Update Options"
+msgstr "Opdaterings valg"
+
+#: index.php:1451
+msgid "Product bundles"
+msgstr "Pakketilbud"
+
+#: index.php:1456
+msgid "View all product bundles"
+msgstr "Vis alle pakketilbud"
+
+#: index.php:1467
+msgid "Update price for all bundles"
+msgstr "Opdater pris på alle pakketilbud"
+
+#: index.php:1470
+msgid ""
+"The bundle price will be updated every 5 minutes automatically, you can "
+"click to update immediately."
+msgstr ""
+"Prisen for pakketilbud vil automatisk blive opdateret hvert 5. minut, klikke "
+"for opdatering med det samme "
+
+#: index.php:1500
+msgid ""
+"Please select some product options before adding this bundle to the cart."
+msgstr ""
+"Du skal vælge variant før du kan tilføje dette pakketilbud til din kurv"
+
+#: index.php:1501
+msgid ""
+"Please choose at least one product before adding this bundle to the cart."
+msgstr ""
+"Du skal vælge mindst et produkt før du kan tilføje dette pakketilbud til din "
+"kurv"
+
+#: index.php:1502
+msgid ""
+"Please choose at least [min] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Du skal vælge mindst [min] før du kan tilføje dette pakketilbud til din kurv"
+
+#: index.php:1503
+msgid ""
+"Please choose maximum [max] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Du skal vælge højest [max] før du kan tilføje dette pakketilbud til din kurv"
+
+#: index.php:1556
+msgid "Premium support"
+msgstr "Premium support"
+
+#: index.php:1682
+msgid "One of the bundled products is unavailable."
+msgstr "Et af produkterne i pakketilbuddet er ikke tilgængeligt"
+
+#: index.php:1683 index.php:1690 index.php:1697 index.php:1704 index.php:1711
+#: index.php:1721 index.php:1729
+msgid "You cannot add this bundle to the cart."
+msgstr "Dette pakketilbud kan ikke tilføjes din kurv nu"
+
+#: index.php:1689 index.php:1696
+msgid "\"%s\" is un-purchasable."
+msgstr "\"%s\" kan ikke købes."
+
+#: index.php:1703 index.php:1720
+msgid "\"%s\" has not enough stock."
+msgstr "\"%s\" er ikke på lager"
+
+#: index.php:1710
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Du kan ikke tilføje endnu en \"%s\"  til din kurv"
+
+#: index.php:1728
+msgid "\"%s\" is protected and cannot be purchased."
+msgstr "\"%s\"  er beskyttet og kan ikke købes nu"
+
+#: index.php:2095
+msgid "(bundled in %s)"
+msgstr "(pakketilbud i \"%s\" )"
+
+#: index.php:2205
+msgid "No results found for \"%s\""
+msgstr "Ingen resultater fundet for \"%s\" "
+
+#: index.php:2227
+msgid ""
+"Update the price of all bundles containing this product. The completion time "
+"for this process depends on the number of bundles you have in your store."
+msgstr ""
+"Opdater prisen for alle pakketilbud der indeholder dette produkt. Tiden for "
+"denne handling afhænger af antallet af pakketilbud i din webshop."
+
+#: index.php:2230
+msgid "Update Price"
+msgstr "Opdater pris"
+
+#: index.php:2234
+msgid ""
+"This tool is for updating the price of all bundles containing the modified "
+"product. It is invalid for a bundle."
+msgstr ""
+"Dette værktøj bruges til at opdatere prisen på alle pakketilbud der "
+"indeholder det ændrede produkt. Det kan ikke anvendes i pakketilbud."
+
+#: index.php:2237
+msgid "This box content just appears after you publish the product."
+msgstr "Denne boks indhold vises efter du har udgivet produktet"
+
+#: index.php:2281 index.php:2336
+msgid "Smart bundle"
+msgstr "Pakketilbud"
+
+#: index.php:2288
+msgid "Bundled Products"
+msgstr "Pakketilbuds produkter"
+
+#: index.php:2369
+msgid "settings"
+msgstr "indstillinger"
+
+#: index.php:2374
+msgid "searching..."
+msgstr "søg ..."
+
+#: index.php:2376
+msgid "Type any keyword to search"
+msgstr "Skriv et hvert nøgleord til søgningen"
+
+#: index.php:2382
+msgid "Selected"
+msgstr "Valgt"
+
+#: index.php:2411
+msgid "Regular price"
+msgstr "Normal pris"
+
+#: index.php:2417
+msgid "Fixed price"
+msgstr "Fast pris"
+
+#: index.php:2421
+msgid "Disable auto calculate price."
+msgstr "Stop automatisk prisjustering"
+
+#: index.php:2421
+msgid "If checked, %s click here to set price %s by manually."
+msgstr "hvis valgt, %s klik her for at sætte prisen for %s manuelt."
+
+#: index.php:2425
+msgid "Discount"
+msgstr "Rabat"
+
+#: index.php:2432
+msgid "% or amount"
+msgstr "& eller beløb"
+
+#: index.php:2438
+msgid "If you fill both, the amount will be used."
+msgstr "Hvis du vælger begge vil beløb blive anvendt"
+
+#: index.php:2442
+msgid "Custom quantity"
+msgstr "Kunde antal"
+
+#: index.php:2446
+msgid "Buyer can change the quantity of bundled products."
+msgstr "Køber kan ændre antallet af produkter i pakketilbuddet"
+
+#: index.php:2450
+msgid "Limit of each item"
+msgstr "Begræns hvert produkt"
+
+#: index.php:2454
+msgid "Use default quantity as min?"
+msgstr "Brug standard antal som minimum"
+
+#: index.php:2466
+msgid "Limit of whole items"
+msgstr "Begræns alle produkter"
+
+#: index.php:2479
+msgid "Shipping fee"
+msgstr "Gratis fragt"
+
+#: index.php:2482
+msgid "Apply to the whole bundle"
+msgstr "Gælder for hele tilbuddet"
+
+#: index.php:2483
+msgid "Apply to each bundled product"
+msgstr "Gælder for hvert produkt i pakken"
+
+#: index.php:2488
+msgid "Manage stock"
+msgstr "Styr lager"
+
+#: index.php:2492
+msgid "Enable stock management at bundle level."
+msgstr "Aktiver lagerstyring på pakketilbus niveau"
+
+#: index.php:2494
+msgid ""
+"By default, the bundle' stock was calculated automatically from bundled "
+"products. After enabling, please press \"Update\" then you can change the "
+"stock settings on the \"Inventory\" tab."
+msgstr ""
+"Som standard vil pakketilbuds lager blive beregnet automatisk ud fra "
+"pakketilbuddets produkter. Når aktiveret, så klik straks på \"Opdater\" "
+"hvorefter du kan ændre indstillingerne på \"Beholdning\" tab."
+
+#: index.php:2498
+msgid "Custom display price"
+msgstr "Tilpas viste pris"
+
+#: index.php:2551
+msgid "Add"
+msgstr "Tilføj"
+
+#: index.php:2553
+msgid "Remove"
+msgstr "Fjern"
+
+#: index.php:2558
+msgid "Default quantity"
+msgstr "Standard antal"
+
+#: index.php:2770 index.php:2812
+msgid "From"
+msgstr "Fra"
+
+#: index.php:3028
+msgid "Choose"
+msgstr "Vælg"
+
+#: index.php:3034
+msgid "Clear"
+msgstr "Fortryd"
+
+#: index.php:3317
+msgid "Bundle(s) low in stock"
+msgstr "Begrænset lager for produkter i pakken"
+
+#: index.php:3322
+msgid "%s is low in stock."
+msgstr "%s har lavt lager antal."
+
+#: index.php:3325
+msgid "%1$s is low in stock. There are %2$d left."
+msgstr "%1$s har kun få på lager. Der er %2$d tilbage."
+
+#: index.php:3346
+msgid "Bundle (%s)"
+msgstr "Produkter (%s)"
+
+#: index.php:3365
+msgid "Create a Smart bundle"
+msgstr "Opret et Pakketilbud"
+
+#: index.php:3384
+msgid "Added %s product(s) to this bundle."
+msgstr "Tilføjet %s produkt(er) til denne pakke."
+
+#: index.php:3394
+msgid "Bundle(s) out of stock"
+msgstr "Produkt(er) i pakken er ikke på lager"
+
+#: index.php:3399 index.php:3402
+msgid "%s is out of stock."
+msgstr "%s er ikke længere på lager."

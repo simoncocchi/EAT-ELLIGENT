@@ -1,0 +1,4 @@
+#wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store{right:inherit; left:20px;}
+.bd_rating .star-rating, .bd_rating .wcfm_vendor_badges{float:right;margin-right: 0px;margin-left: 20px;}
+.store-data .star-rating > span, .store-ratings .star-rating > span{left:auto;right:0;}
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap .store-data .store-phone{background:linear-gradient(90deg,rgba(0,0,0,0) 0%,rgba(74,112,106,1) 100%)!important;border-radius:0px 10px 10px 0px!important;width:90%}

@@ -1,0 +1,13 @@
+.wcfm_addon_inactive_notice_box img {
+	left: 0px;
+	right: 10px;
+}
+
+.wcfm_addon_inactive_notice_box a.promo-btn {
+	right: auto !important;
+  left: 26px !important;
+}
+
+.wcfm_addon_inactive_notice_box h2, .wcfm_addon_inactive_notice_box p {
+	margin-right: 90px;
+}

@@ -1,0 +1,71 @@
+#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 55%; }
+
+#wcfm_customer_address_expander p.wcfm_title, #wcfm_customer_manage_form_verification_expander p.wcfm_title {
+	margin-left: 3%;
+	width: 32%;
+}
+
+.store_address p.wcfm_title, .wcfm_setting_indent_block p.wcfm_title {
+	margin-left: 3%;
+	width: 32%;
+}
+
+#wcfm-main-contentainer .wcfm-tabWrap .multi_input_holder {
+	width: 60%;
+	display: inline-block;
+}
+
+.wcfm-tabWrap .wcfm-container {
+	display: none;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 5%; }
+	
+	#wcfm-main-contentainer .wcfm-tabWrap .multi_input_holder {
+		width: 10%;
+		display: block;
+	}
+}
+
+@media screen and (min-width:641px) {
+	
+	.page_collapsible {
+		width: 20%;
+		display: block; 
+		overflow: hidden;
+		border-right: 1px solid #cccccc;
+		margin-top: 0px;
+		-moz-border-radius: 0px;
+		-webkit-border-radius: 0px;
+		border-radius: 0px;
+	}
+	.wcfm-tabWrap {
+			position: relative; 
+			display: inline-block;
+			width: 100%;
+			background: #fff;
+			overflow:hidden;
+	}
+	.page_collapsible + .wcfm-container {
+			width: 75%;
+			position: absolute;
+			right: 0;
+			top: 0;
+	}
+	html[dir="rtl"] .page_collapsible + .wcfm-container {
+		left: 0;
+		right: auto;
+	}
+	#wcfm_products_simple_submit {
+		overflow:hidden;
+	}
+	.wcfm-collapse .wcfm-tabWrap .wcfm-container {
+		border: none;
+		box-shadow: none;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	a.add_new_wcfm_ele_dashboard .text { display: none; }
+}

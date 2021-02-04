@@ -1,0 +1,193 @@
+.onoffswitch-switch {
+	height: 14px !important;
+	margin: 3px !important;
+}
+
+.wcfm-store-setup {
+	margin: 75px auto;
+	padding: 25px;
+	max-width: 850px;
+}
+
+.wcfm-store-setup table, .wcfm-store-setup table th, .wcfm-store-setup table tbody tr td, .wcfm-store-setup .banner {background-color:#ffffff!important;}
+
+.wc-setup-content .form-table td div {
+	margin: 20px 0px; 
+}
+
+.wc-setup .wc-setup-actions .button-primary, .wc-setup-content .wc-setup-next-steps ul .setup-product a.button-primary  {
+	background-color: #17a2b8;
+  border-color: #17a2b8;
+	box-shadow: inset 0 1px 0 rgba(255,255,255,.25), 0 1px 0 #17a2b8;
+	text-shadow: 0 -1px 1px #a36597, 1px 0 1px #a36597, 0 1px 1px #17a2b8, -1px 0 1px #17a2b8;
+}
+
+.wc-setup .wc-setup-actions .button-primary:hover, .wc-setup-content .wc-setup-next-steps ul .setup-product a.button-primary:hover  {
+	background-color: #2a3344;
+	border-color: #2a3344;
+}
+
+.wc-setup-content a {
+	color: #17a2b8;
+}
+
+.wcfm-store-setup h1#wc-logo {
+	font-size: 2em;
+	line-height: 1;
+}
+
+#wc-logo a {
+	color: #17a2b8;
+	text-decoration: none;
+}
+
+#wc-logo a span {
+	padding-left: 10px;
+	padding-top: 23px;
+	display: inline-block;
+	vertical-align: top;
+	font-weight: 500;
+}
+
+.wcfm-store-setup #wc-logo a img {
+	display: inline-block;
+}
+
+.wc-setup-steps li.done {
+	border-color: #17a2b8;
+	color: #17a2b8;
+}
+
+.wc-setup-steps li.done::before {
+	border-color: #17a2b8;
+	background: #17a2b8;
+}
+
+.wc-setup-steps li.active {
+	border-color: #17a2b8;
+	color: #17a2b8;
+}
+
+.wc-setup-steps li.active::before {
+	border-color: #17a2b8;
+}
+
+.wc-setup-content .wc-setup-next-steps ul .knowledgebase a::before {
+	content: "\f118";
+}
+
+.wc-setup-content .form-table td .input-checkbox, .wc-setup-content .form-table td .wcfm-checkbox {
+	display: none;
+}
+
+.wc-setup-content input[type="text"], .wc-setup-content input[type="password"], .wc-setup-content select, .wc-setup-content input[type="number"], .wc-setup-content input[type="time"], .wc-setup-content input[type="search"], .wc-setup-content textarea {
+	background-color: #fff !important;
+	border: 1px solid #ccc !important;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #fff!important;
+	border: 1px solid #ccc!important;
+	padding: 8px 10px;
+	font-size: 15px;
+	line-height: 18px;
+	min-height: 35px;
+	display: inline-block;
+	box-shadow: 1px 1px 5px 0 #E9E9E9;
+	margin-top: 18px;
+}
+
+.wc-setup-content .select2-container {
+	min-height: 38px!important;
+	box-shadow: 1px 1px 5px 0 #E9E9E9;
+	background-color: #fff!important;
+}
+
+.wc-setup-content .select2-container .select2-selection {
+	background-color: #fff;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	min-height: 38px!important;
+}
+
+.wc-setup-content textarea {
+	resize: vertical;
+}
+
+.wcfm_ele_hide, .wcfm_custom_hide, .wcfm_wpml_hide, .et-core-modal-overlay {
+	display: none !important;
+}
+
+.wc-setup-content p.checkbox_spl_title {
+	width: 50%;
+	display: inline-block;
+}
+
+.wc-setup-content fieldset label {
+	margin-left: 50%;
+}
+
+.wc-setup-content .wcfm-wp-fields-uploader {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 25%;
+	margin-bottom: 10px;
+}
+
+.wc-setup-content input.remove_button {
+	width: 30px !important;
+	float: right;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-left: 10px;
+	
+	background: #1C2B36 none repeat scroll 0 0;
+	border-bottom: 0px solid #17a2b8;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: px;
+	border-radius: 3px;
+	color: #fff;
+	font-weight: 200;
+	letter-spacing: 0.046875em;
+	line-height: 1;
+	padding: 3px !important;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	text-transform: uppercase;
+	transition: all .5s;
+	font-size: 15px;
+}
+
+.wc-setup-content input.remove_button:hover {
+	background: #17a2b8 none repeat scroll 0 0;
+	color: #ffffff !important;
+}
+
+#withdrawal_setting_break_1 div {
+	margin: 0px !important;
+	margin-top: 2px !important;
+}
+
+#wcfm-marketplace-map {
+	width: 450px; 
+	height: 300px; 
+	border: 1px solid #DFDFDF; 
+}
+
+#find_address {
+	
+}
+
+@media screen and (max-width: 782px) {
+	.wc-setup-content p.wcfm_title {
+		margin: 0 !important;
+	}
+	
+	#wcfm-marketplace-map {
+		width: 218px;
+	}
+	
+	.wc-setup .wc-setup-actions .button {
+		font-size: 15px;
+	}
+}

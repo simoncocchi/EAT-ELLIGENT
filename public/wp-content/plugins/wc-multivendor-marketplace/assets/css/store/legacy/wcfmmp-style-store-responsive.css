@@ -1,0 +1,185 @@
+@media screen and (max-width: 1920px) {
+	
+    
+}
+@media screen and (max-width: 1600px) {
+	
+    
+}
+@media screen and (max-width: 1300px) {
+	
+    
+}
+@media screen and (max-width: 1200px) {
+    
+	.wrapper{width:96%;}
+}
+@media screen and (max-width: 1170px) {
+    
+}
+@media screen and (max-width: 1100px) {
+	
+    
+}
+@media screen and (max-width: 1024px) {
+    
+	.user_review_sec{margin-left:0; width:85%;}
+	
+	#wcfmmp-store .header_right{width:22%; margin:15px 2% 0 0;}
+	#wcfmmp-store .bd_icon_box{margin-right:15px;}
+	.bd_icon_area{margin:0;}
+	#wcfmmp-store .social_area{background:none !important; min-height:auto; width:100%; margin-top:20px;}
+	#wcfmmp-store .social_area ul{position:relative; text-align:left; top:0; left:0; transform: translateY(0);}
+	                                          
+}
+@media screen and (max-width: 960px) {
+
+	#wcfmmp-store .address{position:relative; top:0; left:0; transform:translateY(0); -moz-transform:translateY(0); -ms-transform:translateY(0); -o-transform:translateY(0); -webkit-transform:translateY(0); padding-left:10px; margin-left:10px;}
+	#wcfmmp-store .bd_icon_box{position:relative; margin-right:15px;}
+}
+@media screen and (max-width: 768px) {
+    
+	#wcfmmp-store .right_side{width:100%;}
+	#wcfmmp-store .left_sidebar{width:100%; margin-top:50px;}
+	
+	#wcfmmp-store .banner_text h1{font-size:50px; line-height:56px; margin-bottom:15px;}
+	#wcfmmp-store .banner_text a{font-size:16px; line-height:20px; padding:10px 20px; width:auto; height:auto;}
+	#wcfmmp-store .logo_area{width:90px; height:90px;}
+	#wcfmmp-store .header_left{width:100%; margin:0; padding:20px; box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box;}
+  #wcfmmp-store .header_right{background:#212121; width:100%; margin:0; padding:10px 20px; box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box;}
+
+	#wcfmmp-store .address{float:left; width:80%;}    
+	#wcfmmp-store .social_area{width:auto;}
+	
+	#wcfmmp-store .slider_text h1 {font-size:20px;line-height:25px;}
+	
+	#wcfmmp-store .reviews_area {padding: 20px;}
+	
+	#wcfmmp-store .wcfmmp_store_mobile_badges{display:block;}
+	#wcfmmp-store .wcfmmp_store_desktop_badges{display:none;}
+	
+}
+@media screen and (max-width: 736px) {
+    
+#wcfmmp-store .logo_area {
+    width: 80px;
+    height: 80px;
+}
+	#wcfmmp-store .bd_icon_area{float:left;}
+	#wcfmmp-store .social_area{float:right;}
+	#wcfmmp-store .social_area ul li{margin-top:0;}
+	#wcfmmp-store .bd_icon_box span{font-size:12px; line-height:16px;}
+	#wcfmmp-store .bd_icon_box span{top:-22px;}
+	
+}
+@media screen and (max-width: 667px) {
+	
+	#wcfm_enquiry_form .comment-form-author, #wcfm_enquiry_form .comment-form-email {
+		width: 100%;
+	}
+	
+	#wcfmmp-store .address{width:82%;}
+	
+	#wcfmmp-store .bd_icon_box span{position:inherit; margin-left:0; top:-26px; left:50%; transform:translateX(-50%); -moz-transform:translateX(-50%); -ms-transform:translateX(-50%); -o-transform:translateX(-50%); -webkit-transform:translateX(-50%); opacity:1;}
+	#wcfmmp-store .bd_icon_box:hover span{opacity:1;}
+	
+	#wcfmmp-store .bd_icon_box .follow{margin-top:3px;}
+	
+	#wcfmmp-store .review_text{width:86%;}
+	
+}
+@media screen and (max-width: 627px) {
+	
+	#wcfmmp-store .header_right{width:100%;}
+	#wcfmmp-store .bd_icon_area{float:left;}
+	#wcfmmp-store .social_area{float:right;}
+	#wcfmmp-store .social_area ul li{margin-top:0;}
+	#wcfmmp-store .address{width:80%;	}
+	
+	#wcfmmp-store .banner_text h1{font-size:40px; line-height:46px; padding:0 30px;}
+	#wcfmmp-store .banner_text h1::after, .banner_text h1::before{width:50px;}
+	#wcfmmp-store .banner_text h1::before{right:-48px;}
+	
+	#wcfmmp-store .banner_text a{font-size:14px; line-height:20px; padding:6px 20px;}
+	
+	#wcfmmp-store .slider_text h1 {font-size:15px;line-height:20px;}
+	
+	#wcfmmp-store div.store_info_parallal {display:block;width:98%;}
+	
+	#wcfmmp-store .bd_icon_area, #wcfmmp-store .social_area{margin-top:2px;}
+	#wcfmmp-store .social_area ul {transform: translateY(10%);padding: 5px 0px;}
+	#wcfmmp-store .social_area ul li{width:20px;height:20px;}
+	#wcfmmp-store .social_area ul li a i{font-size:10px;}
+	
+    
+}
+@media screen and (max-width: 568px) {
+    
+	.review_text, .user_review_sec{width:80%;}
+	
+	#wcfmmp-store .address span{font-size:12px; line-height:16px;}
+	
+}
+@media screen and (max-width: 540px) {
+    
+	#wcfmmp-store .address{width:78%;}
+	
+	#wcfmmp-store .banner_text h1{font-size:30px; line-height:36px; margin-bottom:10px;}
+	#wcfmmp-store .banner_text a{font-size:12px; line-height:15px; padding:5px 15px;}
+	
+	#wcfmmp-store .slider_text h1 {font-size:12px;line-height:15px;}
+}
+@media screen and (max-width: 480px) {
+
+	#wcfmmp-store .address{width:74%;}
+	#wcfmmp-store .product_box{width:48%;}
+	
+	#wcfmmp-store .tab_area .tab_links{margin-bottom:20px;}
+	
+	#wcfmmp-store .paginations ul li:first-child{padding-right:5px;}
+	#wcfmmp-store .paginations ul li:last-child{padding-left:5px;}
+	#wcfmmp-store .paginations ul li{padding:0 1px;}
+	
+	#wcfmmp-store .header_left{text-align:center;}
+	#wcfmmp-store .logo_area{float:none; display:inline-block; margin-bottom:5px; width:55px; height:55px; }
+ 	
+	#wcfmmp-store .address{width:100%; border-left:0; padding-left:0; margin-left:0;}
+	
+	#wcfmmp-store .review_text, .user_review_sec{width:100%;}
+	
+	#wcfmmp-store .product_box{width:98%;}
+	
+	#wcfmmp-store #wcfm_store_header{padding-bottom:0;}
+	#wcfmmp-store .header_right{background:#3e3e3e; padding:10px 10px; box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; -webkit-box-sizing:border-box;}
+
+	#wcfmmp-store .bd_icon_box .follow{height:25px; line-height:inherit; width:60px;}
+	#wcfmmp-store .bd_icon_box .follow span{line-height:25px;}
+
+
+	
+	#wcfmmp-store .tab_area .tab_links li{width:100%; border-right:0; border-bottom:1px solid #ededed}
+	#wcfmmp-store .tab_area .tab_links li:hover, .tab_area .tab_links li.active{border-bottom:1px solid #fff;}
+	#wcfmmp-store .tab_area .tab_links li a{display:block;}
+	
+	#wcfmmp-store .bd_icon_box span{top:-28px;}
+	
+	#wcfmmp-store .user_review_sec{width:65%;}
+	#wcfmmp-store .address span{display:initial;}
+    
+}
+
+@media screen and (max-width: 414px) {
+    
+}
+@media screen and (max-width: 384px) {
+    
+}
+@media screen and (max-width: 375px) {
+    
+}
+@media screen and (max-width: 360px) {
+    
+}
+@media screen and (max-width: 320px) {
+    
+}

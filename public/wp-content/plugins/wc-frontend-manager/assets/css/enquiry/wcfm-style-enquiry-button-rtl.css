@@ -1,0 +1,5 @@
+a.wcfm_catalog_enquiry, span.add_enquiry, a.wcfm_chat_now_button, a.wcfm_product_multivendor {
+	float: right !important;
+	margin-right:0px!important;
+	margin-left:10px;
+}

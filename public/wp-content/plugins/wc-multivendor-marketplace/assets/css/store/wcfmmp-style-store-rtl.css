@@ -1,0 +1,39 @@
+#wcfmmp-store .lft{float:right;}
+#wcfmmp-store .rgt{float:left;}
+
+#wcfmmp-store .header_left{margin-left:0;margin-right:5%;}
+#wcfmmp-store .logo_area_after{left:0;right:35%}
+#wcfmmp-store .address{left:0;right:140px;padding-left:0px;padding-right:36px;}
+#wcfmmp-store .address span{margin:0 10px 0 0;}
+#wcfmmp-store .bd_icon_area {left:0;right:auto;margin: 25px 0 0 15px;}
+#wcfmmp-store .bd_icon_box{margin:0 20px 0 0px}
+#wcfmmp-store .bd_icon_box span{margin:0 10px 0 0;}
+#wcfmmp-store .categories_list ul li{background:url(../../images/list_arow1.png) no-repeat right center; padding:0 14px 0 0;}
+#wcfmmp-store .categories_list ul li.child_cat{margin-left: 0px;margin-right:10px;}
+#wcfmmp-store .categories_list ul li.child2_cat{margin-left: 0px;margin-right:20px;}
+#wcfmmp-store .recent_reviews .lft{float:right;}
+#wcfmmp-store .recent_reviews .rgt{float:left;}
+
+#wcfmmp-store .tab_area .tab_links li{float:right;}
+#wcfmmp-store .add_review input{background-position:99% center;}
+#wcfmmp-store .m10{margin:10px 10px 0 0;}
+#wcfmmp-store .reviews_heading a{float:left;}
+#wcfmmp-store .tab_links_area .wcfm_reviews_count {display: inline-block;}
+#wcfmmp-store .user_review_area span{display:inline-block;}
+#wcfmmp-store .user_date{margin:0 50px 0 0;}
+#wcfmmp-store .famous_reviewers_picture:nth-last-child(3), #wcfmmp-store .famous_reviewers_picture:nth-last-child(2){margin:0 -15px 0 0;}
+
+#wcfmmp-store .wcfm_vendor_badges div.wcfm_vendor_badge { float:right; }
+
+@media screen and (max-width: 768px) {
+  #wcfmmp-store .logo_area_after {right: 3%;text-align:right !important;}
+	#wcfmmp-store .header_left {
+		margin-left: 0;
+		margin-right: 5%;
+	}
+	#wcfmmp-store .address {padding-right:0;right:0}
+}
+
+@media screen and (max-width: 480px) {
+  #wcfmmp-store .logo_area_after {left:0;right:40%;text-align:center !important;}
+}

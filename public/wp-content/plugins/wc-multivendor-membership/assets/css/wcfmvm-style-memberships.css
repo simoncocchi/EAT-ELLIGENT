@@ -1,0 +1,22 @@
+table.dataTable.display tr td,table.dataTable.display tr th {
+	text-align: center;
+}
+
+.wcfm_gloabl_settings {
+	float: right;
+	margin-left: 10px;
+	margin-top: -4px;
+	font-size: 25px;
+	color: #17a2b8;
+	text-decoration: none;
+	border: 0px;
+	display: table-cell;
+	cursor: pointer;
+}
+
+.vendor_count { color: #4096EE; font-weight: 600; }
+.manager_count { color: #FF7400; font-weight: 600; }
+
+@media only screen and (max-width: 414px) {
+	a.add_new_wcfm_ele_dashboard .text { display: none; }
+}

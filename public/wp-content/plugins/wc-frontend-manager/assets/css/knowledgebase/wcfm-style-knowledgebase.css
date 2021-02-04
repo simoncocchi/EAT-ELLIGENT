@@ -1,0 +1,15 @@
+.wcfm-collapse .wcfm-container { 
+  border-radius: 0px 0px 3px 3px;
+}
+
+table.dataTable.display tr td:nth-child(2),
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer .dataTables_wrapper .dataTables_filter {float:right;}
+  .wcfm_products_filter_wrap { margin-top: 10px !important; }
+}

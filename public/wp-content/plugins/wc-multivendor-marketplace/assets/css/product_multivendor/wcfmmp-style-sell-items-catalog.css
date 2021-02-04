@@ -1,0 +1,84 @@
+.attachment-thumbnail.size-thumbnail.wp-post-image, .woocommerce-placeholder.wp-post-image {
+	max-height: 40px;
+	max-width: 40px;
+}
+
+.dropdown_product_cat { margin-right: 10px; } 
+#dropdown_product_type {
+	max-width: 200px;
+}
+
+#wcfm_sell_items_catalog_listing a.wcfm_sell_this_item {
+	width: auto;
+	padding: 0 5px !important;
+}
+
+del span.woocommerce-Price-amount { display: block; color: #CC0000; }
+ins span.woocommerce-Price-amount { color: #006E2E; }
+
+.wcfm_filters_wrap { opacity: 1 !important; }
+
+#wcfm-main-contentainer .dataTables_wrapper { text-align: center; }
+
+#wcfm-main-contentainer input.wcfm_bulk_add_to_my_store {
+	margin: 1px 0px 0px 10px !important;
+	padding: 10px !important;
+	vertical-align: top;
+}
+
+#woocommerce-fields-bulk {
+}
+
+label.change-input input {
+}
+
+label.change-input {
+	display: none;
+}
+
+table.dataTable.display tr td:nth-child(1), 
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5), 
+table.dataTable.display tr td:nth-child(6), 
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr th:nth-child(1), 
+table.dataTable.display tr th:nth-child(2), 
+table.dataTable.display tr th:nth-child(4), 
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6), 
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 980px) {
+  .wcfm_sell_items_catalog_filter_wrap { width: 100%; }
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer .wcfm-top-element-container {
+		text-align: center;
+	}
+	
+	#wcfm-main-contentainer .wcfm-top-element-container ul, #wcfm-main-contentainer .wcfm-top-element-container a {
+    float: none;
+    display: inline-block;
+  }
+  
+  #wcfm-main-contentainer a.wcfm_wp_admin_view, #wcfm-main-contentainer a.wcfm_screen_manager_dummy, #wcfm-main-contentainer a.wcfm_screen_manager, #wcfm-main-contentainer .dataTables_wrapper #dropdown_product_type {
+		display: none;
+	}
+	
+	label.change-input input {
+		margin-left: 0%;
+	}
+	#wcfm-main-contentainer input.wcfm_bulk_add_to_my_store { float: none; }
+}
+
+@media only screen and (max-width: 414px) {
+	#wcfm_bulk_add_to_my_store {
+		display: none;
+	}
+}

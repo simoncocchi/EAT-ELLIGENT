@@ -1,0 +1,116 @@
+#wcfmmp-store .banner_text h1, #wcfmmp-store .video_text h1, #wcfmmp-store .slider_text h1, #wcfmmp-store h1.wcfm_store_title, #wcfmmp-store .address h1.wcfm_store_title{ 
+	color: #ffffff!important;
+}
+
+#wcfmmp-store .banner_text h1:after, #wcfmmp-store .banner_text h1:before{ 
+	background: #ffffff!important;
+}
+
+#wcfmmp-store #wcfm_store_header{ 
+	background: #37aa52!important;
+}
+
+#wcfmmp-store .social_area{ 
+	background: #37aa52!important;
+}
+
+#wcfmmp-store .address span, #wcfmmp-store .address a, #wcfmmp-store .address h1, #wcfmmp-store .address h2, #wcfmmp-store .social_area ul li:hover i{ 
+	color: #ffffff!important;
+}
+
+#wcfmmp-store .social_area ul li{ 
+	background: #ffffff!important;
+}
+
+#wcfmmp-store .address i, #wcfmmp-store .bd_icon i, #wcfmmp-store .social_area ul li, #wcfmmp-store .social_area ul li a i{ 
+	color: #17a2b8!important;
+}
+
+#wcfmmp-store .social_area ul li:hover{ 
+	background: #17a2b8!important;
+}
+
+#wcfmmp-store .left_sidebar, #wcfmmp-stores-lists .left_sidebar{ 
+	background: #efefef!important;
+}
+
+#wcfmmp-store .sidebar_heading h4, #wcfmmp-store .reviews_heading, #wcfmmp-store h2, #wcfmmp-store .user_name{ 
+	color: #525252!important;
+}
+
+.store-data-container .store-phone i{ 
+	background: #525252!important;
+}
+
+#wcfmmp-store .categories_list ul li a, .store-data-container .store-address, .store-data-container .store-phone{ 
+	color: #9f9e9e!important;
+}
+
+#wcfmmp-store .tab_area .tab_links li a{ 
+	color: #999999!important;
+}
+
+#wcfmmp-store .tab_area .tab_links li:hover a, #wcfmmp-store .tab_area .tab_links li.active a, .wcfmmp_store_hours .wcfmmp-store-hours-day{ 
+	color: #17a2b8!important;
+}
+
+#wcfmmp-store .tab_area .tab_links li:after{ 
+	background: #17a2b8!important;
+}
+
+#wcfmmp-store .tab_area .tab_links li.active{ 
+	border-top-color: #17a2b8!important;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-4 .store-data-container .store-data .store-phone i, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li.coloum-5 .store-data-container .store-data .store-phone i{ 
+	color: #17a2b8!important;
+}
+
+#wcfmmp-stores-wrap .paginations ul li span.current, #wcfmmp-stores-wrap .paginations ul li a:hover{ 
+	background: #17a2b8!important;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-wrapper .store-content{ 
+	border-bottom-color: #17a2b8!important;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data h2 a{ 
+	color: #000000!important;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data-container .store-address, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data-container .store-phone{ 
+	color: #ffffff!important;
+}
+
+#wcfmmp-store .add_review button, #wcfmmp-store .user_rated, #wcfmmp-store .bd_icon_box .follow, #wcfmmp-store .bd_icon_box .wcfm_store_enquiry, #wcfmmp-store .bd_icon_box .wcfm_store_chatnow, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store, .wcfm_vacation_msg, .wcfm_store_close_msg{ 
+	background: #17a2b8!important;
+}
+
+#wcfmmp-store .reviews_heading a, #wcfmmp-store .reviews_count a{ 
+	color: #17a2b8!important;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-content, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store{ 
+	border-bottom-color: #17a2b8!important;
+}
+
+#wcfmmp-store .add_review button, #wcfmmp-store .user_rated, #wcfmmp-store .bd_icon_box .follow, #wcfmmp-store .bd_icon_box .wcfm_store_enquiry, #wcfmmp-store .bd_icon_box .wcfm_store_chatnow, #wcfmmp-store .bd_icon_box .follow span, #wcfmmp-store .bd_icon_box .wcfm_store_enquiry span, #wcfmmp-store .bd_icon_box .wcfm_store_chatnow span, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store, .wcfm_vacation_msg, .wcfm_store_close_msg{ 
+	color: #ffffff!important;
+}
+
+#wcfmmp-store .add_review button:hover, #wcfmmp-store .bd_icon_box .follow:hover, #wcfmmp-store .bd_icon_box:hover .wcfm_store_enquiry:hover, #wcfmmp-store .bd_icon_box .wcfm_store_chatnow:hover, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry:hover, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store:hover{ 
+	background: #000000!important;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry:hover, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store:hover{ 
+	border-bottom-color: #000000!important;
+}
+
+#wcfmmp-store .add_review button:hover, #wcfmmp-store .bd_icon_box a.follow:hover, #wcfmmp-store .bd_icon_box a.wcfm_store_enquiry:hover, #wcfmmp-store .bd_icon_box a.wcfm_store_chatnow:hover, #wcfmmp-store .bd_icon_box a.follow:hover span, #wcfmmp-store .bd_icon_box a.wcfm_store_enquiry:hover span, #wcfmmp-store .bd_icon_box a.wcfm_store_chatnow:hover span, #wcfmmp-store .bd_icon_box a.follow:hover i, #wcfmmp-store .bd_icon_box a.wcfm_store_enquiry:hover i, #wcfmmp-store .bd_icon_box a.wcfm_store_chatnow:hover i, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry:hover, #wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-data p.store-enquiry a.wcfm_catalog_enquiry:hover span, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store:hover, #wcfmmp-stores-wrap .store-footer a.wcfmmp-visit-store:hover span{ 
+	color: #ffffff!important;
+}
+
+#wcfmmp-store .rating_box i.selected, #wcfmmp-store .rating-stars ul > li.star.selected > i.wcfmfa, .store-data-container .star-rating span::before, .logo_area_after .wcfmmp-store-rating span:before{ 
+	color: #FF912C!important;
+}
+

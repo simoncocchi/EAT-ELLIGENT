@@ -1,0 +1,145 @@
+#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 55%; }
+
+#wcfm_vendor_address_expander p.wcfm_title, #wcfm_vendors_new_form_verification_expander p.wcfm_title {
+	margin-left: 3%;
+	width: 32%;
+}
+
+.wcfm-tabWrap .wcfm-container {
+	display: none;
+}
+
+#wcfm-main-contentainer p.banner.wcfm_title {
+  background: transparent;
+}
+
+#wcfm-main-contentainer .wcfm_store_hours_label {
+  width: 15% !important;
+}
+#wcfm-main-contentainer .wcfm_store_hours_field {
+	width: 20% !important;
+	margin-left: 5%;
+}
+
+/***** Shipping Settings *****/
+.shipping_hide {
+  display: none !important;
+}
+.wcfmmp-zone-method-heading {
+  overflow: hidden;
+}
+
+.wcfmmp-zone-method-heading span {
+  line-height: 35px;
+  margin-left: 15px;
+}
+
+.wcfmmp_shipping_classes h3 {
+  margin-bottom: 0;
+  line-height: 1;
+}
+.wcfmmp_shipping_classes .description {
+  font-size: 12px;
+  font-style: italic;
+  color: #7b7b7b;
+  margin-top: 3px;
+  margin-bottom: 15px;
+}
+
+/**** ADD Shipping METHOD POPUP ******/
+
+#cboxLoadedContent {
+	padding: 5px !important;
+	margin: 5px !important;
+}
+
+#wcfm-main-contentainer #wcfmmp_shipping_method_add_container,
+#wcfm-main-contentainer #wcfmmp_shipping_method_edit_container {
+	display: none;
+}
+
+#wcfmmp_shipping_method_add_container.collapse {
+	display: block;
+	height: auto;
+}
+
+#wcfmmp_shipping_method_edit_container.collapse   {
+	display: block;
+	height: auto;
+}
+
+#wcfmmp_shipping_method_add_container #wcfmmp_shipping_method_add-main-contentainer {
+	margin-bottom: 0px;
+}
+
+#wcfmmp_shipping_method_add_container .wcfm-content {
+	min-height: 300px;
+	height: 300px;
+	max-height: 310px;
+	overflow: auto;
+}
+
+#wcfmmp_shipping_method_add_form_general_head, #wcfmmp_shipping_method_edit_general_head {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.modal_footer {
+  margin-top: 10px;
+  padding: 20px 0 0;
+  border-top: 1px solid #dfdfdf;
+  box-shadow: 0 -4px 4px -4px rgba(0,0,0,.1);  
+}
+
+.select2-container {
+	width: 60% !important;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer input.wcfm-checkbox, #wcfm-main-contentainer input[type="checkbox"] { margin-right: 5%; }
+}
+
+@media screen and (min-width:641px) {
+	
+	.page_collapsible {
+		width: 20%;
+		display: block; 
+		overflow: hidden;
+		border-right: 1px solid #cccccc;
+		margin-top: 0px;
+		-moz-border-radius: 0px;
+		-webkit-border-radius: 0px;
+		border-radius: 0px;
+	}
+	.wcfm-tabWrap {
+			position: relative; 
+			display: inline-block;
+			width: 100%;
+			background: #fff;
+			overflow:hidden;
+	}
+	.page_collapsible + .wcfm-container {
+			width: 75%;
+			position: absolute;
+			right: 0;
+			top: 0;
+	}
+	html[dir="rtl"] .page_collapsible + .wcfm-container {
+		left: 0;
+		right: auto;
+	}
+	#wcfm_products_simple_submit {
+		overflow:hidden;
+	}
+	.wcfm-collapse .wcfm-tabWrap .wcfm-container {
+		border: none;
+		box-shadow: none;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	@media only screen and (max-width: 414px) {
+		a.add_new_wcfm_ele_dashboard .text { display: none; }
+	}
+}

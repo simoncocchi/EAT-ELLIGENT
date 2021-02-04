@@ -1,0 +1,30 @@
+.wcfm-collapse .wcfm-container { 
+  border-radius: 0px 0px 3px 3px;
+}
+
+.wcfm-enquiry-product {
+	font-weight: 500;
+	color: #D15600;
+}
+
+.wcfm_inquiry_by_customer{color:#f86c6b}
+.reply_view_count { color: #e83e8c; font-weight: 500; font-size: 18px; }
+
+
+table.dataTable.display tr td:nth-child(2),
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr td:nth-child(4),
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr th:nth-child(1),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6),
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8) {
+	text-align: center;
+}

@@ -1,0 +1,545 @@
+# Copyright (C) 2018 WooCommerce Product Bundles
+# This file is distributed under the same license as the WooCommerce Product Bundles package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Bundles\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n"
+"%100<=19) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: ro_RO\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woo-product-bundle-premium/index.php:66,
+#: woo-product-bundle-premium/index.php:78,
+#: woo-product-bundle-premium/index.php:764,
+#: woo-product-bundle-premium/index.php:784
+msgid "Add to cart"
+msgstr "Adaugă în coș"
+
+#: woo-product-bundle-premium/index.php:68,
+#: woo-product-bundle-premium/index.php:769
+msgid "Select options"
+msgstr "Selectează opțiunile"
+
+#: woo-product-bundle-premium/index.php:71,
+#: woo-product-bundle-premium/index.php:774
+msgid "Read more"
+msgstr "Citește mai mult"
+
+#: woo-product-bundle-premium/index.php:438
+msgid "Once Every 5 Minutes"
+msgstr "O dată la 5 minute"
+
+#: woo-product-bundle-premium/index.php:551,
+#: woo-product-bundle-premium/index.php:551
+msgid "Product Bundles"
+msgstr "Grupuri de produse"
+
+#: woo-product-bundle-premium/index.php:562
+msgid "WPC Product Bundles"
+msgstr "WPC Grupuri de Produse"
+
+#: woo-product-bundle-premium/index.php:565
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Îți mulțumim pentru că ne folosești modulul! Dacă ești satisfăcut, te rugăm "
+"să ne lași o %s recenzie de 5 stele."
+
+#: woo-product-bundle-premium/index.php:568
+msgid "Reviews"
+msgstr "Recenzii"
+
+#: woo-product-bundle-premium/index.php:570
+msgid "Changelogs"
+msgstr "Liste de schimbări"
+
+#: woo-product-bundle-premium/index.php:572
+msgid "Discussion"
+msgstr "Discuție"
+
+#: woo-product-bundle-premium/index.php:578
+msgid "How to use?"
+msgstr "Cum se folosește?"
+
+#: woo-product-bundle-premium/index.php:580,
+#: woo-product-bundle-premium/index.php:1067
+msgid "Settings"
+msgstr "Setări"
+
+#: woo-product-bundle-premium/index.php:582
+msgid "Tools"
+msgstr "Unelte"
+
+#: woo-product-bundle-premium/index.php:584
+msgid "Premium Support"
+msgstr "Suport Premium"
+
+#: woo-product-bundle-premium/index.php:592
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"Când creezi un produs nou, te rugăm să alegi tipul de produs \"Smart Bundle"
+"\". Numai atunci vei putea vedea câmpul de căutare pentru adăugarea "
+"produselor la grup."
+
+#: woo-product-bundle-premium/index.php:604
+msgid "General"
+msgstr "Principal"
+
+#: woo-product-bundle-premium/index.php:608
+msgid "Price format"
+msgstr "Formatul prețului"
+
+#: woo-product-bundle-premium/index.php:611
+msgid "From min price"
+msgstr "De la prețul minim"
+
+#: woo-product-bundle-premium/index.php:612
+msgid "Min price only"
+msgstr "Numai prețul minim"
+
+#: woo-product-bundle-premium/index.php:613
+msgid "Min - max"
+msgstr "Min - max"
+
+#: woo-product-bundle-premium/index.php:614
+msgid "Regular and sale price"
+msgstr "Preț normal și preț redus"
+
+#: woo-product-bundle-premium/index.php:617
+msgid "Choose the price format for bundle on the shop page."
+msgstr "Alege formatul prețului pentru grupele de pe pagina \"Magazin\"."
+
+#: woo-product-bundle-premium/index.php:622,
+#: woo-product-bundle-premium/index.php:969,
+#: woo-product-bundle-premium/index.php:989
+msgid "Price sync"
+msgstr "Sincronizarea prețului"
+
+#: woo-product-bundle-premium/index.php:627,
+#: woo-product-bundle-premium/index.php:649,
+#: woo-product-bundle-premium/index.php:664,
+#: woo-product-bundle-premium/index.php:679,
+#: woo-product-bundle-premium/index.php:736,
+#: woo-product-bundle-premium/index.php:798,
+#: woo-product-bundle-premium/index.php:832,
+#: woo-product-bundle-premium/index.php:863,
+#: woo-product-bundle-premium/index.php:878,
+#: woo-product-bundle-premium/index.php:894,
+#: woo-product-bundle-premium/index.php:910
+msgid "Yes"
+msgstr "Da"
+
+#: woo-product-bundle-premium/index.php:631,
+#: woo-product-bundle-premium/index.php:653,
+#: woo-product-bundle-premium/index.php:668,
+#: woo-product-bundle-premium/index.php:683,
+#: woo-product-bundle-premium/index.php:706,
+#: woo-product-bundle-premium/index.php:725,
+#: woo-product-bundle-premium/index.php:740,
+#: woo-product-bundle-premium/index.php:802,
+#: woo-product-bundle-premium/index.php:821,
+#: woo-product-bundle-premium/index.php:836,
+#: woo-product-bundle-premium/index.php:867,
+#: woo-product-bundle-premium/index.php:882,
+#: woo-product-bundle-premium/index.php:898,
+#: woo-product-bundle-premium/index.php:914
+msgid "No"
+msgstr "Nu"
+
+#: woo-product-bundle-premium/index.php:634
+msgid ""
+"Enable this option to change the bundle price automatically when changing "
+"the price of the bundled product. You also can do it by manually on the "
+"Tools tab."
+msgstr ""
+"Activează opțiunea aceasta pentru a schimba prețului grupului de produse în "
+"mod automat atunci când se schimbă prețul produselor din cadrul grupului. O "
+"poți face și manual din pagina \"Unelte\"."
+
+#: woo-product-bundle-premium/index.php:640
+msgid "Bundled products"
+msgstr "Produse grupate"
+
+#: woo-product-bundle-premium/index.php:644
+msgid "Show thumbnail"
+msgstr "Arată thumbnail"
+
+#: woo-product-bundle-premium/index.php:659
+msgid "Show quantity"
+msgstr "Arată cantinatea"
+
+#: woo-product-bundle-premium/index.php:674
+msgid "Show short description"
+msgstr "Arată descrierea scurtă"
+
+#: woo-product-bundle-premium/index.php:689
+msgid "Show price"
+msgstr "Arată prețul"
+
+#: woo-product-bundle-premium/index.php:694
+msgid "Price"
+msgstr "Preț"
+
+#: woo-product-bundle-premium/index.php:698
+msgid "Price HTML"
+msgstr "Preț HTML"
+
+#: woo-product-bundle-premium/index.php:702
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woo-product-bundle-premium/index.php:712
+msgid "Link to bundled product"
+msgstr "Link către grupul de produse"
+
+#: woo-product-bundle-premium/index.php:717
+msgid "Yes, open in the same tab"
+msgstr "Da, deschide în același tab"
+
+#: woo-product-bundle-premium/index.php:721
+msgid "Yes, open in the new tab"
+msgstr "Da, deschide într-un tab nou"
+
+#: woo-product-bundle-premium/index.php:731
+msgid "Change image"
+msgstr "Schimbă imaginea"
+
+#: woo-product-bundle-premium/index.php:744
+msgid "Change the main image when choosing the variation of bundled products."
+msgstr ""
+"Schimbă imaginea principală în momentul alegerii variațiilor grupului de "
+"produse."
+
+#: woo-product-bundle-premium/index.php:749
+msgid "Total price text"
+msgstr "Textul cu prețul total"
+
+#: woo-product-bundle-premium/index.php:752
+msgid "Bundle price:"
+msgstr "Prețul grupului:"
+
+#: woo-product-bundle-premium/index.php:757
+msgid "\"Add to Cart\" button labels"
+msgstr "Butonul \"Adaugă în coș\""
+
+#: woo-product-bundle-premium/index.php:761
+msgid "Archive/shop page"
+msgstr "Pagina arhivă/magazin"
+
+#: woo-product-bundle-premium/index.php:766
+msgid "For purchasable bundle."
+msgstr "Pentru grupuri ce pot fi cumpărate."
+
+#: woo-product-bundle-premium/index.php:771
+msgid "For purchasable bundle and has variable product(s)."
+msgstr "Pentru grupuri ce pot fi cumpărate și au produse variabile."
+
+#: woo-product-bundle-premium/index.php:776
+msgid "For unpurchasable bundle."
+msgstr "Pentru grupuri ce nu pot fi cumpărate."
+
+#: woo-product-bundle-premium/index.php:781
+msgid "Single product page"
+msgstr "Pagină de produs individual"
+
+#: woo-product-bundle-premium/index.php:789
+msgid "Cart & Checkout"
+msgstr "Coș & Casă"
+
+#: woo-product-bundle-premium/index.php:793
+msgid "Hide bundle name before bundled products"
+msgstr "Ascunde numele grupului înainte de produsele grupate"
+
+#: woo-product-bundle-premium/index.php:808
+msgid "Hide bundled products on cart & checkout page"
+msgstr "Ascunde produsele grupate din coș și pagina de checkout"
+
+#: woo-product-bundle-premium/index.php:813
+msgid "Yes, just show the main product"
+msgstr "Da, arată doar produsul principal"
+
+#: woo-product-bundle-premium/index.php:817
+msgid "Yes, but show bundled product names under the main product"
+msgstr "Da, dar arată numele produselor grupate sub produsul principal"
+
+#: woo-product-bundle-premium/index.php:827
+msgid "Hide bundled products on mini-cart"
+msgstr "Ascunde produsele grupate din mini-cart"
+
+#: woo-product-bundle-premium/index.php:840
+msgid "Hide bundled products, just show the main product on mini-cart."
+msgstr "Ascunde produsele grupate, doar arată produsul principal în mini-cart."
+
+#: woo-product-bundle-premium/index.php:846,
+#: woo-product-bundle-premium/index.php:1595
+msgid "Search"
+msgstr "Caută"
+
+#: woo-product-bundle-premium/index.php:850
+msgid "Search limit"
+msgstr "Limită de căutare"
+
+#: woo-product-bundle-premium/index.php:858
+msgid "Search by SKU"
+msgstr "Caută după SKU"
+
+#: woo-product-bundle-premium/index.php:873
+msgid "Search exact"
+msgstr "Caută exact"
+
+#: woo-product-bundle-premium/index.php:885
+msgid "Match whole product title or content?"
+msgstr "Caută întregul titlu de produs sau doar conținutul?"
+
+#: woo-product-bundle-premium/index.php:889
+msgid "Search sentence"
+msgstr "Termeni de căutare"
+
+#: woo-product-bundle-premium/index.php:901
+msgid "Do a phrase search?"
+msgstr "Caută după o propoziție?"
+
+#: woo-product-bundle-premium/index.php:905
+msgid "Accept same products"
+msgstr "Acceptă aceleași produse"
+
+#: woo-product-bundle-premium/index.php:917
+msgid "If yes, a product can be added many times."
+msgstr "Dacă da, un produs poate fi adăugat de mai multe ori."
+
+#: woo-product-bundle-premium/index.php:922
+msgid "Advance"
+msgstr "Avansează"
+
+#: woo-product-bundle-premium/index.php:926
+msgid "Method"
+msgstr "Metodă"
+
+#: woo-product-bundle-premium/index.php:931
+msgid "SESSION"
+msgstr "SESIUNE"
+
+#: woo-product-bundle-premium/index.php:935
+msgid "COOKIE"
+msgstr "COOKIE"
+
+#: woo-product-bundle-premium/index.php:938
+msgid ""
+"The method was used to save the product bundles data when buying. Please "
+"only try to switch this option when the default does not work."
+msgstr ""
+"Metoda a fost folosită pentru a salva grupurile de produse în momentul "
+"cumărării. Pornește opțiunea aceasta numai când cea normală nu merge."
+
+#: woo-product-bundle-premium/index.php:944
+msgid "Update Options"
+msgstr "Actualizează opțiunile"
+
+#: woo-product-bundle-premium/index.php:957
+msgid "Product bundles"
+msgstr "Grupuri de produse"
+
+#: woo-product-bundle-premium/index.php:962
+msgid "View all product bundles"
+msgstr "Vezi toate grupurile de produse"
+
+#: woo-product-bundle-premium/index.php:975
+msgid "Updated!"
+msgstr "Actualizat!"
+
+#: woo-product-bundle-premium/index.php:980,
+#: woo-product-bundle-premium/index.php:994
+msgid "Update price for all bundles"
+msgstr "Actualizează prețul pentru toate grupurile de produse"
+
+#: woo-product-bundle-premium/index.php:982,
+#: woo-product-bundle-premium/index.php:997
+msgid ""
+"The bundle price will be updated every 5 minutes automatically, you can "
+"click to update immediately."
+msgstr ""
+"Prețul grupului de produse va fi actualizat o dată la 5 minute în mod "
+"automat. Poți da click pentru a actualiza imediat."
+
+#: woo-product-bundle-premium/index.php:1013
+msgid ""
+"Please select some product options before adding this bundle to the cart."
+msgstr ""
+"Te rugăm selectează opțiunile produselor înainte de a adăuga produsul în coș."
+
+#: woo-product-bundle-premium/index.php:1014
+msgid ""
+"Please choose at least one product before adding this bundle to the cart."
+msgstr "Te rugăm alege cel puțin un produs înainte de a adăuga grupul în coș."
+
+#: woo-product-bundle-premium/index.php:1015
+msgid ""
+"Please choose at least [min] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Te rugăm alege măcar [min] pentru întregul grup înainte de a-l adăuga în coș."
+
+#: woo-product-bundle-premium/index.php:1016
+msgid ""
+"Please choose maximum [max] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Te rugăm alege maxim [max] în întregul grup înainte de a-l adăuga în coș."
+
+#: woo-product-bundle-premium/index.php:1023
+msgid "saved"
+msgstr "salvat"
+
+#: woo-product-bundle-premium/index.php:1081
+msgid "Premium support"
+msgstr "Suport premium"
+
+#: woo-product-bundle-premium/index.php:1253
+msgid "Have an error when adding this bundle to the cart."
+msgstr "Există o eroare când grupul este adăugat în coș."
+
+#: woo-product-bundle-premium/index.php:1380,
+#: woo-product-bundle-premium/index.php:1403
+msgid "Bundled Products"
+msgstr "Produse Grupate"
+
+#: woo-product-bundle-premium/index.php:1431
+msgid "(bundled in %s)"
+msgstr "(grupat în %s)"
+
+#: woo-product-bundle-premium/index.php:1526
+msgid "No results found for \"%s\""
+msgstr "Nu s-au găsit rezultate pentru \"%s\""
+
+#: woo-product-bundle-premium/index.php:1567,
+#: woo-product-bundle-premium/index.php:1583
+msgid "Smart bundle"
+msgstr "Smart bundle"
+
+#: woo-product-bundle-premium/index.php:1574
+msgid "Smart Bundle"
+msgstr "Smart Bundle"
+
+#: woo-product-bundle-premium/index.php:1597
+msgid "settings"
+msgstr "setări"
+
+#: woo-product-bundle-premium/index.php:1602
+msgid "searching..."
+msgstr "se caută..."
+
+#: woo-product-bundle-premium/index.php:1604
+msgid "Type any keyword to search"
+msgstr "Introdu orice termen de căutare"
+
+#: woo-product-bundle-premium/index.php:1610
+msgid "Selected"
+msgstr "Selectat"
+
+#: woo-product-bundle-premium/index.php:1645
+msgid "Regular price"
+msgstr "Preț normal"
+
+#: woo-product-bundle-premium/index.php:1654
+msgid ""
+"Disable auto calculate Regular price? If yes, %s click here to set Regular "
+"price %s"
+msgstr ""
+"Dezactivează calcularea automată a prețului normal? Dacă da, %s click aici "
+"pentru a seta prețul normal %s"
+
+#: woo-product-bundle-premium/index.php:1658
+msgid "Sale price"
+msgstr "Preț redus"
+
+#: woo-product-bundle-premium/index.php:1664
+msgid "of Regular price or %s click here to set Sale price %s"
+msgstr "al prețului normal sau %s click aici pentru a seta prețul redus %s"
+
+#: woo-product-bundle-premium/index.php:1668
+msgid "Optional products"
+msgstr "Produse opționale"
+
+#: woo-product-bundle-premium/index.php:1671
+msgid "Buyer can change the quantity of bundled products?"
+msgstr "Cumpărătorul poate schimba cantiatea de produse grupate?"
+
+#: woo-product-bundle-premium/index.php:1675
+msgid "Limit each item"
+msgstr "Limitează fiecare item"
+
+#: woo-product-bundle-premium/index.php:1687
+msgid "Limit whole items"
+msgstr "Limitează iteme întregi"
+
+#: woo-product-bundle-premium/index.php:1700
+msgid "Shipping fee"
+msgstr "Taxă de livrare"
+
+#: woo-product-bundle-premium/index.php:1703
+msgid "Apply to the whole bundle"
+msgstr "Aplică la întregul grup"
+
+#: woo-product-bundle-premium/index.php:1704
+msgid "Apply to each bundled product"
+msgstr "Aplică la fiecare produs din grup"
+
+#: woo-product-bundle-premium/index.php:1710
+msgid "Before text"
+msgstr "Înainte de text"
+
+#: woo-product-bundle-premium/index.php:1714
+msgid "The text before bundled products"
+msgstr "Textul dinainte de produsele grupate"
+
+#: woo-product-bundle-premium/index.php:1719
+msgid "After text"
+msgstr "Text de după"
+
+#: woo-product-bundle-premium/index.php:1723
+msgid "The text after bundled products"
+msgstr "Textul de după produsele grupate"
+
+#: woo-product-bundle-premium/index.php:1852,
+#: woo-product-bundle-premium/index.php:1882
+msgid "From"
+msgstr "De la"
+
+#: woo-product-bundle-premium/index.php:1903
+msgid ""
+"The bundle \"%s\" could not be added to your cart from order again button. "
+"Please buy it directly."
+msgstr ""
+"Grupul \"%s\" nu a putut fi adăugat în coșul tău. Te rugăm să încerci să "
+"cumperi produsele individuale."
+
+#: woo-product-bundle-premium/index.php:1991
+msgid "Choose"
+msgstr "Alege"
+
+#: woo-product-bundle-premium/index.php:1997
+msgid "Clear"
+msgstr "Golește"
+
+#: woo-product-bundle-premium/index.php:2163
+msgid "WPC Product Bundles require WooCommerce version 3.0.0 or greater."
+msgstr ""
+"WPC Grupuri de Produse necesită WooCommerce versoiunea 3.0.0 sau mai mare."

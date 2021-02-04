@@ -1,0 +1,53 @@
+.customer-orderno {
+	padding: 2px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	background-color: #4096EE;
+}
+
+.customer-orderno a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.wcfm_customers_limit_label {
+	padding: 2px 10px;
+	font-size: 15px;
+  color: #e85656;
+  border: 1px solid #e85656;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  display: inline-block;
+  float: none;
+}
+
+table.dataTable.display tr td:nth-child(5), 
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr td:nth-child(10),
+table.dataTable.display tr td:nth-child(11),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6),
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8),
+table.dataTable.display tr th:nth-child(9),
+table.dataTable.display tr th:nth-child(10),
+table.dataTable.display tr th:nth-child(11) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 980px) {
+  .wcfm_customers_limit_label {
+		width: 100%;
+		margin: 10px 0px;
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	a.add_new_wcfm_ele_dashboard .text { display: none; }
+}

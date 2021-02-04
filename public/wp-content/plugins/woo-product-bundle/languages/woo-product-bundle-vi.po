@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Bundles\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-14 01:33+0000\n"
+"PO-Revision-Date: 2017-12-14 01:34+0000\n"
+"Last-Translator: WooClever <admin@local.woo>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woo-product-bundle-premium/index.php:376
+msgid "Bundle price:"
+msgstr "Giá gói sản phẩm:"
+
+#: woo-product-bundle-premium/index.php:58
+msgid "Add to cart"
+msgstr "Thêm vào giỏ"
+
+#: woo-product-bundle-premium/index.php:60
+msgid "Select options"
+msgstr "Lựa chọn"
+
+#: woo-product-bundle-premium/index.php:63
+msgid "Read more"
+msgstr "Xem chi tiết"
+
+#: woo-product-bundle-premium/index.php:240,
+#: woo-product-bundle-premium/index.php:240,
+#: woo-product-bundle-premium/index.php:251
+msgid "Woo Product Bundles"
+msgstr "Woo Product Bundles"
+
+#: woo-product-bundle-premium/index.php:254
+msgid ""
+"WooCommerce Product Bundles is a plugin help you bundle a few products with "
+"pre-defined quantity, offer them at a discount and watch the sales go up!"
+msgstr ""
+"WooCommerce Product Bundles là plugin giúp bạn nhóm một số sản phẩm với số "
+"lượng xác định trước vào một gói, bán với giá khuyến mại qua đó thúc đẩy quá "
+"trình bán hàng của bạn!"
+
+#: woo-product-bundle-premium/index.php:260
+msgid "How to use?"
+msgstr "Hướng dẫn sử dụng?"
+
+#: woo-product-bundle-premium/index.php:262,
+#: woo-product-bundle-premium/index.php:450
+msgid "Settings"
+msgstr "Tùy chọn"
+
+#: woo-product-bundle-premium/index.php:264,
+#: woo-product-bundle-premium/index.php:451
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: woo-product-bundle-premium/index.php:270
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"Khi tạo sản phẩm, hãy chọn kiểu sản phẩm là \"Gói thông minh\", sau đó bạn "
+"có thể tìm và thêm sản phẩm vào gói."
+
+#: woo-product-bundle-premium/index.php:280
+msgid "Show thumbnail"
+msgstr "Hiển thị ảnh"
+
+#: woo-product-bundle-premium/index.php:285,
+#: woo-product-bundle-premium/index.php:300,
+#: woo-product-bundle-premium/index.php:342,
+#: woo-product-bundle-premium/index.php:360
+msgid "Yes"
+msgstr "Có"
+
+#: woo-product-bundle-premium/index.php:289,
+#: woo-product-bundle-premium/index.php:304,
+#: woo-product-bundle-premium/index.php:331,
+#: woo-product-bundle-premium/index.php:346,
+#: woo-product-bundle-premium/index.php:364
+msgid "No"
+msgstr "Không"
+
+#: woo-product-bundle-premium/index.php:295
+msgid "Show quantity"
+msgstr "Hiển thị số lượng"
+
+#: woo-product-bundle-premium/index.php:310
+msgid "Show price"
+msgstr "Hiển thị giá"
+
+#: woo-product-bundle-premium/index.php:315,
+#: woo-product-bundle-premium/index.php:820
+msgid "Regular price"
+msgstr "Giá gốc"
+
+#: woo-product-bundle-premium/index.php:319,
+#: woo-product-bundle-premium/index.php:833
+msgid "Sale price"
+msgstr "Giá bán"
+
+#: woo-product-bundle-premium/index.php:323
+msgid "Price HTML"
+msgstr "Giá HTML"
+
+#: woo-product-bundle-premium/index.php:327
+msgid "Subtotal"
+msgstr "Tổng"
+
+#: woo-product-bundle-premium/index.php:337
+msgid "Hide products in the bundle on cart & checkout page"
+msgstr "Ẩn sản phẩm trong gói trên trang giỏ hàng và thanh toán"
+
+#: woo-product-bundle-premium/index.php:350
+msgid ""
+"Hide products in the bundle, just show the main product on the cart & "
+"checkout page."
+msgstr ""
+"Ẩn sản phẩm trong gói, chỉ hiện tên của gói trên trang giỏ hàng và thanh "
+"toán."
+
+#: woo-product-bundle-premium/index.php:355
+msgid "Hide products in the bundle on mini-cart"
+msgstr "Ẩn sản phẩm trong gói trên giỏ hàng nhỏ"
+
+#: woo-product-bundle-premium/index.php:368
+msgid "Hide products in the bundle, just show the main product on mini-cart."
+msgstr "Ẩn sản phẩm trong gói, chỉ hiện tên của gói trên giỏ hàng nhỏ."
+
+#: woo-product-bundle-premium/index.php:373
+msgid "Bundle price text"
+msgstr "Giá của gói"
+
+#: woo-product-bundle-premium/index.php:378
+msgid "The text before price when choosing variation in the bundle."
+msgstr "Nội dung trước giá tổng khi chọn sản phẩm biến đổi trong gói."
+
+#: woo-product-bundle-premium/index.php:385
+msgid "Update Options"
+msgstr "Cập nhật"
+
+#: woo-product-bundle-premium/index.php:409
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr "Vui lòng chọn thuộc tính sản phẩm trước khi thêm vào giỏ hàng."
+
+#: woo-product-bundle-premium/index.php:643
+msgid "(bundled in %s)"
+msgstr "(trong gói %s)"
+
+#: woo-product-bundle-premium/index.php:743
+msgid "No results found for \"%s\""
+msgstr "Không tìm thấy sản phẩm với từ khóa \"%s\""
+
+#: woo-product-bundle-premium/index.php:749,
+#: woo-product-bundle-premium/index.php:756
+msgid "Smart Bundle"
+msgstr "Gói thông minh"
+
+#: woo-product-bundle-premium/index.php:771
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: woo-product-bundle-premium/index.php:775
+msgid "searching..."
+msgstr "đang tìm..."
+
+#: woo-product-bundle-premium/index.php:777
+msgid "Type any keyword to search"
+msgstr "Gõ từ khóa để tìm kiếm"
+
+#: woo-product-bundle-premium/index.php:783
+msgid "Selected"
+msgstr "Đã chọn"
+
+#: woo-product-bundle-premium/index.php:829
+msgid ""
+"Disable auto calculate regular price? If yes, %s click here to set regular "
+"price %s"
+msgstr "Không tính giá tự động? Nếu đúng, hãy %s nhấn vào đây để đặt giá %s"
+
+#: woo-product-bundle-premium/index.php:837
+msgid "of Regular price or %s click here to set sale price %s"
+msgstr "của Giá gốc hoặc %s nhấn vào đây để đặt giá %s"
+
+#: woo-product-bundle-premium/index.php:841
+msgid "Before text"
+msgstr "Nội dung trước"
+
+#: woo-product-bundle-premium/index.php:846
+msgid "The text before bundled products"
+msgstr "Nội dung trước danh sách sản phẩm trong gói"
+
+#: woo-product-bundle-premium/index.php:851
+msgid "After text"
+msgstr "Nội dung sau"
+
+#: woo-product-bundle-premium/index.php:856
+msgid "The text after bundled products"
+msgstr "Nội dung sau danh sách sản phẩm trong gói"
+
+#: woo-product-bundle-premium/index.php:1079
+msgid "Clear"
+msgstr "Xóa"

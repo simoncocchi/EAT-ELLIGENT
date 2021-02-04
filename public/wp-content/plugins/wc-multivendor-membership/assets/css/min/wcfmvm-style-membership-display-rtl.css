@@ -1,0 +1,9 @@
+#wcfm-main-contentainer .wcfm_membership_feature_box_body {
+	text-align:right;
+}
+
+@media only screen and (max-width: 768px) {
+  #wcfm-main-contentainer .wcfm_membership_box {
+  	float: right;
+  }
+}

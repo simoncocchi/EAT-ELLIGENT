@@ -1,0 +1,52 @@
+.wcfmmp-ledger-type {
+	padding: 6px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	width: 110px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.wcfmmp-ledger-type-order { background-color: #20a8d8; }
+.wcfmmp-ledger-type-withdraw { background-color: #4dbd74; }
+.wcfmmp-ledger-type-reverse-withdraw { background-color: #ffc107; }
+.wcfmmp-ledger-type-withdraw-charges { background-color: #f8cb00; }
+.wcfmmp-ledger-type-refund { background-color: #e83e8c; }
+.wcfmmp-ledger-type-partial-refund { background-color: #e83e8c; }
+
+.wcfmmp-ledger-credit { color:#008C00; }
+.wcfmmp-ledger-debit { color:#CC0000; }
+
+.wcfm_dashboard_stats_block .fa-currency {
+	background: #20a8d8 !important;
+}
+.wcfm_dashboard_stats_block .fa-money-bill-alt {
+	background: #4dbd74 !important;
+}
+.wcfm_dashboard_stats_block .fa-retweet {
+	background: #e83e8c !important;
+}
+
+#wcfm-ledger thead, #wcfm-ledger tfoot { display:none; }
+#wcfm-main-contentainer table#wcfm-ledger { margin-top:0px; margin-bottom:0px; }
+div.DTS div.dataTables_scrollBody { background: none !important; }
+
+.dataTables_scrollFootInner .wcfm_ledger_filter_wrap { display: none !important; }
+
+table.dataTable.display tr td, table.dataTable.display tr th {
+	text-align: center;
+}
+
+#wcfm-main-contentainer table#wcfm-ledger tr td:nth-child(3), table.dataTable.display tr th:nth-child(3),
+#wcfm-main-contentainer table#wcfm-ledger tr td:nth-child(4), table.dataTable.display tr th:nth-child(4),
+#wcfm-main-contentainer table#wcfm-ledger tr td:nth-child(5), table.dataTable.display tr th:nth-child(5) {
+	text-align: left;
+}
+
+#wcfm-main-contentainer table#wcfm-ledger tr td:nth-child(3), table.dataTable.display tr th:nth-child(3) {
+	min-width: 300px !important;
+	white-space: normal !important;
+}

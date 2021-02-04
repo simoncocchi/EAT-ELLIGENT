@@ -1,0 +1,108 @@
+.attachment-thumbnail.size-thumbnail.wp-post-image, .woocommerce-placeholder.wp-post-image {
+	max-height: 40px;
+	max-width: 40px;
+	display: inline-block;
+}
+
+.dropdown_article_cat { margin-right: 10px; } 
+#dropdown_article_type {
+	max-width: 200px;
+}
+
+.article-status {
+	padding: 2px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+}
+
+.article-status-publish { background-color: #73a724; }
+.article-status-pending { background-color: #FF7400; }
+.article-status-draft { background-color: #4096EE; }
+.view_count { color: #e83e8c; font-weight: 500; font-size: 18px; }
+
+.instock { color: #006E2E; }
+.outofstock { color: #FF7400; }
+
+del span.woocommerce-Price-amount { display: block; color: #CC0000; }
+ins span.woocommerce-Price-amount { color: #006E2E; }
+
+ul.wcfm_articles_menus {
+	list-style: none;
+	margin-left: 0px;
+	padding: 0;
+	font-size: 13px;
+  color: #666;
+  display: table-cell;
+  float:left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+ul.wcfm_articles_menus li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+ul.wcfm_articles_menus li a {
+	color: #17a2b8;
+	font-weight: 500;
+	-webkit-transition-property: barticle,background,color;
+	transition-property: barticle,background,color;
+	-webkit-transition-duration: .05s;
+	transition-duration: .05s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+ul.wcfm_articles_menus li a.active {
+	color: #666;
+}
+
+.wcfm_articles_limit_label {
+	padding: 2px 10px;
+	font-size: 15px;
+  color: #e85656;
+  border: 1px solid #e85656;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  display: inline-block;
+  float: none;
+}
+
+.wcfm_filters_wrap { opacity: 1 !important; }
+
+table.dataTable.display tr td:nth-child(1), 
+table.dataTable.display tr td:nth-child(3), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5), 
+table.dataTable.display tr td:nth-child(6), 
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr th:nth-child(1), 
+table.dataTable.display tr th:nth-child(3), 
+table.dataTable.display tr th:nth-child(4), 
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6), 
+table.dataTable.display tr th:nth-child(7) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 980px) {
+  .wcfm_articles_filter_wrap { width: 100%; }
+  
+  .wcfm_articles_limit_label {
+		width: 100%;
+		margin: 10px 0px;
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	ul.wcfm_articles_menus {
+		text-align: center;
+	}
+}

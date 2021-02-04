@@ -1,0 +1,27 @@
+table.table-bordered {
+  border: 1px solid #d3dbe2 !important;
+}
+
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+	border: 1px solid #d3dbe2 !important;
+}
+
+.table>tbody>tr>td {
+  padding: 20px !important;
+}
+
+.transaction-status {
+	padding: 4px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	margin-top: 6px;
+	margin-left: 10px;
+	display: inline-block;
+	float: left;
+}
+
+.transaction-status-cancelled { background-color: #f86c6b; }
+.transaction-status-requested { background-color: #63c2de; }
+.transaction-status-completed { background-color: #20c997; }

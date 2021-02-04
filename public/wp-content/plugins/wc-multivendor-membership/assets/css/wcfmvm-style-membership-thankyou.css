@@ -1,0 +1,61 @@
+.wcfm-membership-wrapper {
+	padding: 20px;
+	background: #fff;
+	transition: box-shadow .25s ease-in-out;
+	box-shadow: 1px 1px 20px 0px #E9E9E9;
+	border-radius: 3px;
+	width: 90%;
+	margin: 25px auto;
+}
+
+#wcfm-main-contentainer .wcfm_membership_thankyou_content_wrapper {
+	overflow: hidden;
+	width: 80%;
+    
+	vertical-align: top;
+	background-color: #6dc7be;
+	
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	
+	margin: 10px auto;
+	padding: 10px;
+	padding-bottom: 70px;
+	
+	text-align: center;
+}
+
+#wcfm-main-contentainer .wcfm_membership_thankyou_content {
+	text-align: left;
+}
+
+#wcfm_membership_container a.wcfm_submit_button {
+	margin-top: 10px;
+	margin-left: 10px;
+	
+	background: #2a3344 none repeat scroll 0 0;
+	border-bottom: 1px solid #17a2b8;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	color: #fff;
+	font-weight: 500;
+	letter-spacing: 0.046875em;
+	line-height: 1;
+	padding: 0.84375em 0.875em 0.78125em !important;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	text-transform: uppercase;
+	text-decoration:none!important;
+}
+
+#wcfm_membership_container a.wcfm_submit_button:hover {
+	background: #17a2b8 none repeat scroll 0 0;
+	color: #ffffff !important;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer .wcfm_membership_thankyou_content_wrapper {width:100%}
+  #wcfm_membership_container a.wcfm_submit_button {display:block;}
+}

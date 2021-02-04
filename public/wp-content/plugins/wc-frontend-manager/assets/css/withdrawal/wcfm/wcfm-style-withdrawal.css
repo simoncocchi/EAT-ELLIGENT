@@ -1,0 +1,12 @@
+.withdrawal_order_ids { color: #D15600 !important; }
+
+.withdrawal_charge_help {
+	color: #bb0000;
+	text-decoration: italic;
+	font-size: 12px;
+	margin-top: 8px;
+}
+
+table.dataTable.display tr td,table.dataTable.display tr th {
+	text-align: center;
+}

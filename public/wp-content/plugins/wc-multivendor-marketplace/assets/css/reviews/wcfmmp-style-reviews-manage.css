@@ -1,0 +1,68 @@
+.support_ticket_reply {
+	display: table;
+	width: 97%;
+}
+
+.support_ticket_reply_author {
+	display: table-cell;
+	width: 25%;
+	text-align: center;
+}
+
+.support_ticket_reply_content {
+	display: table-cell;
+	width: 75%;
+	vertical-align: top;
+  padding: 10px;
+}
+
+.support_ticket_reply_author img {
+	width: 75px;
+	height: 75px;
+	border: 1px solid #c3dbf1;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	z-index: 10;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.support_ticket_content {
+	float: left;
+	margin: 10px 5px;
+}
+
+.support_ticket_info {
+	float: right;
+}
+
+.support_ticket_date, .support_ticket_status {
+	padding: 5px 5px;
+}
+
+.support_ticket_status, .support_ticket_content_order_title, .support_ticket_content_category_title {
+	font-weight: 600;
+	font-size: 15px;
+	color: #111;
+}
+.support_ticket_content_order, .support_ticket_content_category { margin-bottom: 10px; } 
+
+#wcfm-main-contentainer .support-priority {
+	padding: 4px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	margin-top: 6px;
+	margin-left: 10px;
+	display: inline-block;
+	float: left;
+}
+
+.support-priority-normal { background-color: #73880A; }
+.support-priority-low { background-color: #6BBA70; }
+.support-priority-medium { background-color: #C79810; }
+.support-priority-high { background-color: #FF7400; }
+.support-priority-urgent { background-color: #D15600; }
+.support-priority-critical { background-color: #B02B2C; }
